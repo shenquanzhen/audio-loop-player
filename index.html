@@ -6,44 +6,83 @@
     <title>高级音频循环播放器</title>
     <style>
         body {
-            font-family: Arial, sans-serif;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             display: flex;
             justify-content: center;
             align-items: center;
             height: 100vh;
             margin: 0;
-            background-color: #f0f0f0;
+            background-color: #f0f4f8;
+            color: #333;
         }
         .container {
             text-align: center;
             background-color: white;
-            padding: 20px;
-            border-radius: 10px;
-            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            padding: 30px;
+            border-radius: 15px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            max-width: 600px;
+            width: 100%;
+        }
+        h1 {
+            color: #2c3e50;
+            margin-bottom: 20px;
         }
         button, input, select {
-            margin: 10px;
-            padding: 5px 10px;
-            font-size: 16px;
+            margin: 10px 5px;
+            padding: 8px 15px;
+            font-size: 14px;
+            border: none;
+            border-radius: 5px;
+            background-color: #3498db;
+            color: white;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+        button:hover {
+            background-color: #2980b9;
+        }
+        input[type="file"] {
+            display: none;
         }
         #waveform {
             width: 100%;
             height: 100px;
-            background-color: #eee;
+            background-color: #ecf0f1;
+            border-radius: 5px;
+            margin-bottom: 15px;
         }
         #progressBar {
             width: 100%;
-            height: 20px;
-            background-color: #ddd;
+            height: 10px;
+            background-color: #ecf0f1;
+            border-radius: 5px;
             margin-top: 10px;
+            overflow: hidden;
         }
         #progress {
             width: 0%;
             height: 100%;
-            background-color: #4CAF50;
+            background-color: #2ecc71;
+            transition: width 0.3s;
         }
-        #fileUpload {
-            display: none;
+        .time-select {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin: 10px 0;
+        }
+        .time-select label {
+            margin-right: 10px;
+            font-weight: bold;
+        }
+        .time-select select {
+            background-color: #ecf0f1;
+            color: #333;
+        }
+        #fileName {
+            font-style: italic;
+            color: #7f8c8d;
         }
     </style>
 </head>
@@ -54,27 +93,27 @@
         <div id="progressBar"><div id="progress"></div></div>
         <audio id="audioPlayer"></audio>
         <div>
-            <input type="file" id="fileUpload" accept="audio/*">
-            <button onclick="document.getElementById('fileUpload').click()">上传音频</button>
+            <input type="file" id="fileUpload" accept="audio/*" capture>
+            <button onclick="triggerFileUpload()">上传音频</button>
             <span id="fileName"></span>
         </div>
         <div>
             <button onclick="playAudio()">播放</button>
             <button onclick="pauseAudio()">暂停</button>
         </div>
-        <div>
+        <div class="time-select">
             <label>循环起始时间：</label>
             <select id="startHours"></select>时
             <select id="startMinutes"></select>分
             <select id="startSeconds"></select>秒
         </div>
-        <div>
+        <div class="time-select">
             <label>循环结束时间：</label>
             <select id="endHours"></select>时
             <select id="endMinutes"></select>分
             <select id="endSeconds"></select>秒
         </div>
-        <div>
+        <div class="time-select">
             <label>循环间隔：</label>
             <select id="intervalHours"></select>时
             <select id="intervalMinutes"></select>分
@@ -114,8 +153,24 @@
 
         initTimeSelects();
 
-        fileUpload.addEventListener('change', function(e) {
-            const file = e.target.files[0];
+        function triggerFileUpload() {
+            if (isMobile()) {
+                // 对于移动设备，我们使用一个临时的 input 元素
+                const tempInput = document.createElement('input');
+                tempInput.type = 'file';
+                tempInput.accept = 'audio/*';
+                tempInput.capture = true;
+                tempInput.onchange = function(e) {
+                    handleFileUpload(e.target.files[0]);
+                };
+                tempInput.click();
+            } else {
+                // 对于桌面设备，我们使用原来的 fileUpload 元素
+                document.getElementById('fileUpload').click();
+            }
+        }
+
+        function handleFileUpload(file) {
             if (file) {
                 fileName.textContent = file.name;
                 audio.src = URL.createObjectURL(file);
@@ -130,7 +185,11 @@
                     setupAudioContext();
                 };
             }
-        });
+        }
+
+        function isMobile() {
+            return /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+        }
 
         function setupAudioContext() {
             audioContext = new (window.AudioContext || window.webkitAudioContext)();
@@ -206,27 +265,41 @@
             function playLoop() {
                 audio.currentTime = startTime;
                 audio.play();
-                audio.onended = () => {
-                    if (audio.currentTime >= endTime) {
-                        setTimeout(playLoop, interval);
-                    }
-                };
+            }
+
+            function checkTime() {
+                if (audio.currentTime >= endTime) {
+                    audio.pause();
+                    setTimeout(playLoop, interval);
+                } else {
+                    requestAnimationFrame(checkTime);
+                }
             }
 
             playLoop();
+            checkTime();
+
+            // 保存定时器，以便在停止循环时清除
+            loopTimer = setInterval(() => {
+                if (!audio.paused && audio.currentTime >= endTime) {
+                    audio.pause();
+                    setTimeout(playLoop, interval);
+                }
+            }, 100);
         }
 
         function stopLoop() {
             pauseAudio();
-            audio.onended = null;
+            clearInterval(loopTimer);
         }
 
-        audio.addEventListener('timeupdate', () => {
-            const endTime = getTimeInSeconds('endHours', 'endMinutes', 'endSeconds');
-            if (audio.currentTime >= endTime) {
-                audio.pause();
-            }
-        });
+        // 移除这个事件监听器，因为我们现在在 checkTime 函数中处理这个逻辑
+        // audio.addEventListener('timeupdate', () => {
+        //     const endTime = getTimeInSeconds('endHours', 'endMinutes', 'endSeconds');
+        //     if (audio.currentTime >= endTime) {
+        //         audio.pause();
+        //     }
+        // });
     </script>
 </body>
 </html>
