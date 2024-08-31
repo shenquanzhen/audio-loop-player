@@ -84,17 +84,31 @@
             font-style: italic;
             color: #7f8c8d;
         }
+        .upload-btn {
+            display: inline-block;
+            padding: 8px 15px;
+            font-size: 14px;
+            border: none;
+            border-radius: 5px;
+            background-color: #3498db;
+            color: white;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+        .upload-btn:hover {
+            background-color: #2980b9;
+        }
     </style>
 </head>
 <body>
     <div class="container">
-        <h1>高级音频循环播放器</h1>
+        <h1>高级音频循环播放</h1>
         <canvas id="waveform"></canvas>
         <div id="progressBar"><div id="progress"></div></div>
         <audio id="audioPlayer"></audio>
         <div>
-            <input type="file" id="fileUpload" accept="audio/*" capture>
-            <button onclick="triggerFileUpload()">上传音频</button>
+            <input type="file" id="fileUpload" accept="audio/mp3">
+            <label for="fileUpload" class="upload-btn">上传音频</label>
             <span id="fileName"></span>
         </div>
         <div>
@@ -153,39 +167,33 @@
 
         initTimeSelects();
 
-        function triggerFileUpload() {
-            if (isMobile()) {
-                // 对于移动设备，我们使用一个临时的 input 元素
-                const tempInput = document.createElement('input');
-                tempInput.type = 'file';
-                tempInput.accept = 'audio/*';
-                tempInput.capture = true;
-                tempInput.onchange = function(e) {
-                    handleFileUpload(e.target.files[0]);
-                };
-                tempInput.click();
-            } else {
-                // 对于桌面设备，我们使用原来的 fileUpload 元素
-                document.getElementById('fileUpload').click();
+        function handleFileUpload(event) {
+            const file = event.target.files[0];
+            if (file) {
+                if (file.type === 'audio/mp3' || file.name.toLowerCase().endsWith('.mp3')) {
+                    fileName.textContent = file.name;
+                    audio.src = URL.createObjectURL(file);
+                    audio.onloadedmetadata = () => {
+                        const duration = Math.floor(audio.duration);
+                        const hours = Math.floor(duration / 3600);
+                        const minutes = Math.floor((duration % 3600) / 60);
+                        const seconds = duration % 60;
+                        document.getElementById('endHours').value = hours;
+                        document.getElementById('endMinutes').value = minutes;
+                        document.getElementById('endSeconds').value = seconds;
+                        setupAudioContext();
+                    };
+                } else {
+                    alert('请选择一个有效的MP3文件');
+                    event.target.value = ''; // 清除文件输入
+                }
             }
         }
 
-        function handleFileUpload(file) {
-            if (file) {
-                fileName.textContent = file.name;
-                audio.src = URL.createObjectURL(file);
-                audio.onloadedmetadata = () => {
-                    const duration = Math.floor(audio.duration);
-                    const hours = Math.floor(duration / 3600);
-                    const minutes = Math.floor((duration % 3600) / 60);
-                    const seconds = duration % 60;
-                    document.getElementById('endHours').value = hours;
-                    document.getElementById('endMinutes').value = minutes;
-                    document.getElementById('endSeconds').value = seconds;
-                    setupAudioContext();
-                };
-            }
-        }
+        // 移除 triggerFileUpload 函数，因为我们现在使用 label 来触发文件选择
+
+        // 添加事件监听器
+        document.getElementById('fileUpload').addEventListener('change', handleFileUpload);
 
         function isMobile() {
             return /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
