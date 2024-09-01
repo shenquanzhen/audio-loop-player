@@ -105,26 +105,39 @@ document.addEventListener('DOMContentLoaded', () => {
             return;
         }
 
-        audioPlayer.currentTime = startTime;
-        playWithDelay();
+        // 移除这行
+        // audioPlayer.currentTime = startTime;
+
         isPlaying = true;
+
+        // 修改这个函数调用
+        playWithDelay(startTime);
 
         loopInterval = setInterval(() => {
             if (audioPlayer.currentTime >= endTime) {
                 audioPlayer.pause();
                 setTimeout(() => {
-                    audioPlayer.currentTime = startTime;
-                    playWithDelay();
+                    // 修改这个函数调用
+                    playWithDelay(startTime);
                 }, 1000);
             }
             updateSubtitles();
         }, 100); // 每0.1秒检查一次，以更流畅地更新字幕
     }
 
-    function playWithDelay() {
-        setTimeout(() => {
-            audioPlayer.play();
-        }, 1000);
+    // 修改这个函数
+    function playWithDelay(startTime) {
+        audioPlayer.currentTime = startTime;
+        const playPromise = audioPlayer.play();
+        
+        if (playPromise !== undefined) {
+            playPromise.then(_ => {
+                // 播放成功
+            }).catch(error => {
+                // 自动播放被阻止，可能需要用户交互
+                console.log("Autoplay was prevented. User interaction may be needed.");
+            });
+        }
     }
 
     function updateSubtitles() {
