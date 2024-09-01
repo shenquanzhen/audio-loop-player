@@ -1,0 +1,100 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #f0f2f5;
+}
+
+.container {
+    background-color: #fff;
+    padding: 2rem;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    max-width: 600px;
+    width: 100%;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 1.5rem;
+    color: #333;
+}
+
+input[type="file"] {
+    display: none;
+}
+
+button {
+    display: inline-block;
+    width: calc(50% - 0.5rem);
+    padding: 0.75rem;
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-bottom: 1rem;
+    font-size: 1rem;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+#uploadAudioButton, #uploadSrtButton {
+    margin-right: 0.5rem;
+}
+
+#fileInfo, #audioControls, #subtitleContainer {
+    margin-top: 1.5rem;
+    background-color: #f9f9f9;
+    padding: 1rem;
+    border-radius: 5px;
+}
+
+#audioPlayer {
+    width: 100%;
+    margin-bottom: 1rem;
+}
+
+#subtitleDisplay {
+    width: 100%;
+    height: 100px;
+    resize: vertical;
+    overflow-y: auto;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 0.5rem;
+    font-size: 0.9rem;
+}
+
+select {
+    padding: 0.5rem;
+    border-radius: 3px;
+    border: 1px solid #ddd;
+    margin-right: 0.5rem;
+}
+
+#startButton, #pauseButton, #resumeButton, #stopButton {
+    width: calc(25% - 0.75rem);
+    margin-right: 0.5rem;
+    margin-bottom: 0;
+}
+
+#startButton { background-color: #4CAF50; }
+#pauseButton { background-color: #FFC107; }
+#resumeButton { background-color: #2196F3; }
+#stopButton { background-color: #F44336; }
+
+#startButton:hover { background-color: #45a049; }
+#pauseButton:hover { background-color: #e6ae06; }
+#resumeButton:hover { background-color: #1e87db; }
+#stopButton:hover { background-color: #da190b; }
+
+/* 移除 .hidden 类 */

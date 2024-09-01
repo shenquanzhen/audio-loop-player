@@ -3,311 +3,46 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>高级音频循环播放器</title>
-    <style>
-        body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            margin: 0;
-            background-color: #f0f4f8;
-            color: #333;
-        }
-        .container {
-            text-align: center;
-            background-color: white;
-            padding: 30px;
-            border-radius: 15px;
-            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-            max-width: 600px;
-            width: 100%;
-        }
-        h1 {
-            color: #2c3e50;
-            margin-bottom: 20px;
-        }
-        button, input, select {
-            margin: 10px 5px;
-            padding: 8px 15px;
-            font-size: 14px;
-            border: none;
-            border-radius: 5px;
-            background-color: #3498db;
-            color: white;
-            cursor: pointer;
-            transition: background-color 0.3s;
-        }
-        button:hover {
-            background-color: #2980b9;
-        }
-        input[type="file"] {
-            display: none;
-        }
-        #waveform {
-            width: 100%;
-            height: 100px;
-            background-color: #ecf0f1;
-            border-radius: 5px;
-            margin-bottom: 15px;
-        }
-        #progressBar {
-            width: 100%;
-            height: 10px;
-            background-color: #ecf0f1;
-            border-radius: 5px;
-            margin-top: 10px;
-            overflow: hidden;
-        }
-        #progress {
-            width: 0%;
-            height: 100%;
-            background-color: #2ecc71;
-            transition: width 0.3s;
-        }
-        .time-select {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            margin: 10px 0;
-        }
-        .time-select label {
-            margin-right: 10px;
-            font-weight: bold;
-        }
-        .time-select select {
-            background-color: #ecf0f1;
-            color: #333;
-        }
-        #fileName {
-            font-style: italic;
-            color: #7f8c8d;
-        }
-        .upload-btn {
-            display: inline-block;
-            padding: 8px 15px;
-            font-size: 14px;
-            border: none;
-            border-radius: 5px;
-            background-color: #3498db;
-            color: white;
-            cursor: pointer;
-            transition: background-color 0.3s;
-        }
-        .upload-btn:hover {
-            background-color: #2980b9;
-        }
-    </style>
+    <title>音频文件上传和处理</title>
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <div class="container">
-        <h1>高级音频循环播放</h1>
-        <canvas id="waveform"></canvas>
-        <div id="progressBar"><div id="progress"></div></div>
-        <audio id="audioPlayer"></audio>
-        <div>
-            <input type="file" id="fileUpload" accept="audio/mp3">
-            <label for="fileUpload" class="upload-btn">上传音频</label>
-            <span id="fileName"></span>
+        <h1>音频文件上传和处理</h1>
+        <input type="file" id="audioFileInput" accept=".mp3" />
+        <input type="file" id="srtFileInput" accept=".srt" />
+        <button id="uploadAudioButton">上传音频</button>
+        <button id="uploadSrtButton">上传SRT</button>
+        <div id="fileInfo">
+            <p>音频文件: <span id="audioFileName">未上传</span></p>
+            <p>SRT文件: <span id="srtFileName">未上传</span></p>
+            <p>音频时长: <span id="duration">00:00:00</span></p>
         </div>
-        <div>
-            <button onclick="playAudio()">播放</button>
-            <button onclick="pauseAudio()">暂停</button>
+        <div id="audioControls">
+            <audio id="audioPlayer" controls></audio>
+            <div>
+                <label>开始时间:</label>
+                <select id="startHour"></select>时
+                <select id="startMinute"></select>分
+                <select id="startSecond"></select>秒
+            </div>
+            <div>
+                <label>结束时间:</label>
+                <select id="endHour"></select>时
+                <select id="endMinute"></select>分
+                <select id="endSecond"></select>秒
+            </div>
+            <div>
+                <button id="startButton">开始</button>
+                <button id="pauseButton">暂停</button>
+                <button id="resumeButton">继续</button>
+                <button id="stopButton">结束</button>
+            </div>
         </div>
-        <div class="time-select">
-            <label>循环起始时间：</label>
-            <select id="startHours"></select>时
-            <select id="startMinutes"></select>分
-            <select id="startSeconds"></select>秒
-        </div>
-        <div class="time-select">
-            <label>循环结束时间：</label>
-            <select id="endHours"></select>时
-            <select id="endMinutes"></select>分
-            <select id="endSeconds"></select>秒
-        </div>
-        <div class="time-select">
-            <label>循环间隔：</label>
-            <select id="intervalHours"></select>时
-            <select id="intervalMinutes"></select>分
-            <select id="intervalSeconds"></select>秒
-        </div>
-        <div>
-            <button onclick="startLoop()">开始循环</button>
-            <button onclick="stopLoop()">停止循环</button>
+        <div id="subtitleContainer">
+            <textarea id="subtitleDisplay" readonly placeholder="字幕将在此显示"></textarea>
         </div>
     </div>
-
-    <script>
-        const audio = document.getElementById('audioPlayer');
-        const fileUpload = document.getElementById('fileUpload');
-        const fileName = document.getElementById('fileName');
-        const progressBar = document.getElementById('progress');
-        const waveformCanvas = document.getElementById('waveform');
-        const waveformCtx = waveformCanvas.getContext('2d');
-        let audioContext, analyser, dataArray;
-        let loopTimer;
-
-        // 初始化时间选择下拉菜单
-        function initTimeSelects() {
-            const timeSelects = ['start', 'end', 'interval'];
-            timeSelects.forEach(prefix => {
-                const hours = document.getElementById(`${prefix}Hours`);
-                const minutes = document.getElementById(`${prefix}Minutes`);
-                const seconds = document.getElementById(`${prefix}Seconds`);
-                
-                for (let i = 0; i < 24; i++) hours.options.add(new Option(i.toString().padStart(2, '0'), i));
-                for (let i = 0; i < 60; i++) {
-                    minutes.options.add(new Option(i.toString().padStart(2, '0'), i));
-                    seconds.options.add(new Option(i.toString().padStart(2, '0'), i));
-                }
-            });
-        }
-
-        initTimeSelects();
-
-        function handleFileUpload(event) {
-            const file = event.target.files[0];
-            if (file) {
-                if (file.type === 'audio/mp3' || file.name.toLowerCase().endsWith('.mp3')) {
-                    fileName.textContent = file.name;
-                    audio.src = URL.createObjectURL(file);
-                    audio.onloadedmetadata = () => {
-                        const duration = Math.floor(audio.duration);
-                        const hours = Math.floor(duration / 3600);
-                        const minutes = Math.floor((duration % 3600) / 60);
-                        const seconds = duration % 60;
-                        document.getElementById('endHours').value = hours;
-                        document.getElementById('endMinutes').value = minutes;
-                        document.getElementById('endSeconds').value = seconds;
-                        setupAudioContext();
-                    };
-                } else {
-                    alert('请选择一个有效的MP3文件');
-                    event.target.value = ''; // 清除文件输入
-                }
-            }
-        }
-
-        // 移除 triggerFileUpload 函数，因为我们现在使用 label 来触发文件选择
-
-        // 添加事件监听器
-        document.getElementById('fileUpload').addEventListener('change', handleFileUpload);
-
-        function isMobile() {
-            return /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
-        }
-
-        function setupAudioContext() {
-            audioContext = new (window.AudioContext || window.webkitAudioContext)();
-            analyser = audioContext.createAnalyser();
-            const source = audioContext.createMediaElementSource(audio);
-            source.connect(analyser);
-            analyser.connect(audioContext.destination);
-            analyser.fftSize = 256;
-            dataArray = new Uint8Array(analyser.frequencyBinCount);
-            drawWaveform();
-        }
-
-        function drawWaveform() {
-            requestAnimationFrame(drawWaveform);
-            analyser.getByteTimeDomainData(dataArray);
-            waveformCtx.fillStyle = 'rgb(200, 200, 200)';
-            waveformCtx.fillRect(0, 0, waveformCanvas.width, waveformCanvas.height);
-            waveformCtx.lineWidth = 2;
-            waveformCtx.strokeStyle = 'rgb(0, 0, 0)';
-            waveformCtx.beginPath();
-            const sliceWidth = waveformCanvas.width * 1.0 / dataArray.length;
-            let x = 0;
-            for (let i = 0; i < dataArray.length; i++) {
-                const v = dataArray[i] / 128.0;
-                const y = v * waveformCanvas.height / 2;
-                if (i === 0) {
-                    waveformCtx.moveTo(x, y);
-                } else {
-                    waveformCtx.lineTo(x, y);
-                }
-                x += sliceWidth;
-            }
-            waveformCtx.lineTo(waveformCanvas.width, waveformCanvas.height / 2);
-            waveformCtx.stroke();
-        }
-
-        function updateProgress() {
-            const progress = (audio.currentTime / audio.duration) * 100;
-            progressBar.style.width = `${progress}%`;
-            requestAnimationFrame(updateProgress);
-        }
-
-        function playAudio() {
-            audio.play();
-            updateProgress();
-        }
-
-        function pauseAudio() {
-            audio.pause();
-        }
-
-        function getTimeInSeconds(hoursId, minutesId, secondsId) {
-            const hours = parseInt(document.getElementById(hoursId).value);
-            const minutes = parseInt(document.getElementById(minutesId).value);
-            const seconds = parseInt(document.getElementById(secondsId).value);
-            return hours * 3600 + minutes * 60 + seconds;
-        }
-
-        function startLoop() {
-            if (!audio.src) {
-                alert('请先上传音频文件');
-                return;
-            }
-            const startTime = getTimeInSeconds('startHours', 'startMinutes', 'startSeconds');
-            const endTime = getTimeInSeconds('endHours', 'endMinutes', 'endSeconds');
-            const interval = getTimeInSeconds('intervalHours', 'intervalMinutes', 'intervalSeconds') * 1000;
-            
-            if (startTime >= endTime) {
-                alert('起始时间必须小于结束时间');
-                return;
-            }
-
-            function playLoop() {
-                audio.currentTime = startTime;
-                audio.play();
-            }
-
-            function checkTime() {
-                if (audio.currentTime >= endTime) {
-                    audio.pause();
-                    setTimeout(playLoop, interval);
-                } else {
-                    requestAnimationFrame(checkTime);
-                }
-            }
-
-            playLoop();
-            checkTime();
-
-            // 保存定时器，以便在停止循环时清除
-            loopTimer = setInterval(() => {
-                if (!audio.paused && audio.currentTime >= endTime) {
-                    audio.pause();
-                    setTimeout(playLoop, interval);
-                }
-            }, 100);
-        }
-
-        function stopLoop() {
-            pauseAudio();
-            clearInterval(loopTimer);
-        }
-
-        // 移除这个事件监听器，因为我们现在在 checkTime 函数中处理这个逻辑
-        // audio.addEventListener('timeupdate', () => {
-        //     const endTime = getTimeInSeconds('endHours', 'endMinutes', 'endSeconds');
-        //     if (audio.currentTime >= endTime) {
-        //         audio.pause();
-        //     }
-        // });
-    </script>
+    <script src="script.js"></script>
 </body>
 </html>

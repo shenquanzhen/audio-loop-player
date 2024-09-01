@@ -1,0 +1,9235 @@
+1
+00:00:00,660 --> 00:00:12,140
+The Little Prince by Antoine de Saint exupery Audiobook edition 20 2020 by David De de Angelis All rights reserved
+
+2
+00:00:12,290 --> 00:00:15,100
+Narrated by Stephanie Richardson
+
+3
+00:00:18,990 --> 00:00:20,460
+To Leon Wirth
+
+4
+00:00:20,980 --> 00:00:27,100
+I ask the indulgence of the children who may read this book for dedicating it to a grownup
+
+5
+00:00:27,810 --> 00:00:29,920
+I have a serious reason
+
+6
+00:00:30,260 --> 00:00:34,030
+He is the best friend I have in the world
+
+7
+00:00:34,540 --> 00:00:39,200
+I have another reason this grown-up understands everything
+
+8
+00:00:39,480 --> 00:00:41,510
+even books about children
+
+9
+00:00:42,300 --> 00:00:45,810
+I have a third reason he lives in France
+
+10
+00:00:45,820 --> 00:00:48,010
+where he is hungry and cold
+
+11
+00:00:48,230 --> 00:00:50,040
+He needs cheering up
+
+12
+00:00:50,560 --> 00:00:53,000
+If all these reasons are not enough
+
+13
+00:00:53,060 --> 00:00:57,180
+I will dedicate the book to the child from whom this grown-up grew
+
+14
+00:00:58,050 --> 00:01:00,440
+All grown-ups were once children
+
+15
+00:01:00,750 --> 00:01:02,570
+although few of them remember it
+
+16
+00:01:03,090 --> 00:01:10,980
+and so I correct my dedication to Leon Worth when he was a little boy
+
+17
+00:01:14,620 --> 00:01:15,440
+One
+
+18
+00:01:17,160 --> 00:01:19,880
+once when I was six years old
+
+19
+00:01:20,050 --> 00:01:28,450
+I saw a magnificent picture in a book called True Stories from Nature about the primeval forest
+
+20
+00:01:28,930 --> 00:01:33,650
+It was a picture of a boa constrictor in the act of swallowing an animal
+
+21
+00:01:34,730 --> 00:01:38,260
+Here is a copy of the drawing in the book
+
+22
+00:01:38,260 --> 00:01:44,160
+It said boa constrictor swallow their prey whole without chewing it
+
+23
+00:01:44,410 --> 00:01:45,450
+After that
+
+24
+00:01:45,460 --> 00:01:51,160
+they are not able to move and they sleep through the six months that they need for digestion
+
+25
+00:01:51,950 --> 00:01:56,840
+I pondered deeply then over the adventures of the jungle
+
+26
+00:01:57,330 --> 00:01:59,950
+and after some work with a colored pencil
+
+27
+00:02:00,250 --> 00:02:03,680
+I succeeded in making my first drawing
+
+28
+00:02:04,500 --> 00:02:06,780
+my drawing number one
+
+29
+00:02:07,320 --> 00:02:09,620
+it looked something like this
+
+30
+00:02:10,980 --> 00:02:16,640
+I showed my masterpiece to the grownups and asked them whether the drawing frightened them
+
+31
+00:02:17,300 --> 00:02:19,640
+but they answered frighten
+
+32
+00:02:20,010 --> 00:02:22,970
+Why should anyone be frightened by a hat
+
+33
+00:02:23,840 --> 00:02:27,540
+My drawing was not a picture of a hat
+
+34
+00:02:28,130 --> 00:02:33,120
+it was a picture of a Boa constructor digesting an elephant
+
+35
+00:02:34,030 --> 00:02:37,670
+but since the grown ups were not able to understand it
+
+36
+00:02:37,770 --> 00:02:39,790
+I made another drawing
+
+37
+00:02:40,530 --> 00:02:46,920
+I drew the inside of a boa constrictor so that the grownups could see it clearly
+
+38
+00:02:47,310 --> 00:02:50,240
+They always need to have things explained
+
+39
+00:02:51,090 --> 00:02:55,180
+My drawing number two looked like this
+
+40
+00:02:56,490 --> 00:03:03,670
+The grownups response this time was to advise me to lay aside my drawings of boa constrictors
+
+41
+00:03:03,730 --> 00:03:06,710
+whether from the inside or the outside
+
+42
+00:03:06,790 --> 00:03:09,920
+and devote myself instead to geography
+
+43
+00:03:09,950 --> 00:03:11,920
+historyarithmetic
+
+44
+00:03:11,930 --> 00:03:13,100
+and grammar
+
+45
+00:03:13,850 --> 00:03:15,030
+That is why
+
+46
+00:03:15,040 --> 00:03:16,810
+at the age of six
+
+47
+00:03:16,900 --> 00:03:21,680
+I gave up what might have been a magnificent career as a painter
+
+48
+00:03:22,640 --> 00:03:40,200
+I had been disheartened by the failure of my drawing number one and my drawing number two grown ups never understand anything by themselves and it is tiresome for children to be always and forever explaining things to them
+
+49
+00:03:41,390 --> 00:03:47,490
+So then I chose another profession and learned to pilot airplanes
+
+50
+00:03:48,020 --> 00:03:51,770
+I have flown a little over all parts of the world
+
+51
+00:03:51,800 --> 00:03:57,160
+and it is true that geography has been very useful to me
+
+52
+00:03:57,970 --> 00:03:59,200
+At a glance
+
+53
+00:03:59,230 --> 00:04:02,220
+I can distinguish China from Arizona
+
+54
+00:04:02,610 --> 00:04:04,700
+If one gets lost in the night
+
+55
+00:04:04,820 --> 00:04:07,050
+Such knowledge is valuable
+
+56
+00:04:07,940 --> 00:04:09,720
+In the course of this life
+
+57
+00:04:09,730 --> 00:04:17,140
+I have had a great many encounters with a great many people who have been concerned with matters of consequence
+
+58
+00:04:17,810 --> 00:04:21,430
+I have lived a great deal among grown-ups
+
+59
+00:04:22,080 --> 00:04:25,700
+I have seen them intimately close at hand
+
+60
+00:04:26,000 --> 00:04:29,840
+and that hasn't much improved my opinion of them
+
+61
+00:04:30,760 --> 00:04:35,120
+Whenever I met one of them who seemed to me at all clear sighted
+
+62
+00:04:35,530 --> 00:04:40,080
+I tried the experiment of showing him my drawing number one
+
+63
+00:04:40,330 --> 00:04:42,290
+which I have always kept
+
+64
+00:04:43,090 --> 00:04:44,920
+I would try to find out
+
+65
+00:04:44,930 --> 00:04:48,800
+So if this was a person of true understanding
+
+66
+00:04:49,030 --> 00:04:50,430
+but whoever it was
+
+67
+00:04:50,710 --> 00:04:55,890
+he or she would always say that is a hat
+
+68
+00:04:56,710 --> 00:05:03,530
+Then I would never talk to that person about boa constructors or primeval forests or stars
+
+69
+00:05:04,240 --> 00:05:07,010
+I would bring myself down to his level
+
+70
+00:05:07,350 --> 00:05:14,030
+I would talk to him about bridge and golf and politics and neckties
+
+71
+00:05:14,280 --> 00:05:19,080
+and the grown up would be greatly pleased to have met such a sensible man
+
+72
+00:05:23,160 --> 00:05:23,790
+Two
+
+73
+00:05:24,930 --> 00:05:37,360
+so I lived my life alone without anyone that I could really talk to until I had an accident with my plane in the desert of Sahara six years ago
+
+74
+00:05:37,870 --> 00:05:40,190
+Something was broken in my engine
+
+75
+00:05:40,520 --> 00:05:41,840
+and as I had with me
+
+76
+00:05:41,840 --> 00:05:44,780
+neither a mechanic nor any passengers
+
+77
+00:05:44,940 --> 00:05:49,390
+I set myself to attempt the difficult repairs all alone
+
+78
+00:05:50,040 --> 00:05:52,810
+It was a question of life or death for me
+
+79
+00:05:52,910 --> 00:05:58,420
+I had scarcely enough drinking water to last a week the first night
+
+80
+00:05:58,430 --> 00:06:01,180
+Then I went to sleep on the sand
+
+81
+00:06:01,360 --> 00:06:05,090
+1000 miles from any human habitation
+
+82
+00:06:05,610 --> 00:06:11,180
+I was more isolated than a shipwrecked sailor on a raft in the middle of the ocean
+
+83
+00:06:12,140 --> 00:06:19,510
+thus you can imagine my amazement at sunrise when I was awakened by an odd little voice
+
+84
+00:06:19,940 --> 00:06:21,100
+It said
+
+85
+00:06:22,100 --> 00:06:24,840
+if you please draw me a sheep
+
+86
+00:06:25,380 --> 00:06:28,370
+what draw me a sheep
+
+87
+00:06:29,290 --> 00:06:30,830
+I jumped to my feet
+
+88
+00:06:30,840 --> 00:06:32,620
+completely thunderstruck
+
+89
+00:06:32,630 --> 00:06:34,490
+I blinked my eyes hard
+
+90
+00:06:34,820 --> 00:06:37,500
+I looked carefully all around me
+
+91
+00:06:37,880 --> 00:06:46,180
+and I saw a most extraordinary small person who stood there examining me with great seriousness
+
+92
+00:06:47,160 --> 00:06:52,530
+Here you may see the best portrait that later I was able to make of him
+
+93
+00:06:52,780 --> 00:06:57,570
+but my drawing is certainly very much less charming than its model
+
+94
+00:06:58,160 --> 00:06:59,200
+Thathowever
+
+95
+00:06:59,220 --> 00:07:00,620
+is not my fault
+
+96
+00:07:00,630 --> 00:07:05,790
+The grown ups discouraged me in my painter's career when I was six years old
+
+97
+00:07:06,050 --> 00:07:13,200
+and I never learned to draw anything except boas from the outside and boas from the inside
+
+98
+00:07:14,490 --> 00:07:22,000
+Now I stared at this sudden apparition with my eyes fairly starting out of my head in astonishment
+
+99
+00:07:22,370 --> 00:07:23,350
+Remember
+
+100
+00:07:23,470 --> 00:07:25,120
+I had crashed in the desert
+
+101
+00:07:25,130 --> 00:07:28,440
+1000 miles from any inhabited region
+
+102
+00:07:28,960 --> 00:07:35,080
+and yet my little man seemed neither to be straying uncertainly among the sands
+
+103
+00:07:35,130 --> 00:07:39,980
+nor to be fainting from fatigue or hunger or thirst or fear
+
+104
+00:07:40,380 --> 00:07:45,780
+Nothing about him gave any suggestion of a child lost in the middle of the desert
+
+105
+00:07:45,920 --> 00:07:49,300
+1000 miles from any human habitation
+
+106
+00:07:50,150 --> 00:07:52,650
+When at last I was able to speak
+
+107
+00:07:52,690 --> 00:07:53,880
+I said to him
+
+108
+00:07:55,050 --> 00:07:58,340
+but what are you doing here
+
+109
+00:07:59,120 --> 00:08:02,440
+And in answer he repeated very slowly
+
+110
+00:08:02,450 --> 00:08:06,190
+as if he were speaking of a matter of great consequence
+
+111
+00:08:07,530 --> 00:08:11,920
+If you please draw me a sheep
+
+112
+00:08:12,910 --> 00:08:15,660
+when a mystery is too overpowering
+
+113
+00:08:15,680 --> 00:08:18,000
+one dare not disobey
+
+114
+00:08:18,570 --> 00:08:20,720
+Absurd as it might seem to me
+
+115
+00:08:20,770 --> 00:08:23,930
+1000 miles from any human habitation
+
+116
+00:08:24,100 --> 00:08:25,640
+and in danger of death
+
+117
+00:08:26,240 --> 00:08:30,750
+I took out of my pocket a sheet of paper and my fountain pen
+
+118
+00:08:31,390 --> 00:08:36,320
+But then I remembered how my studies had been concentrated on geography
+
+119
+00:08:36,330 --> 00:08:38,140
+historyarithmetic
+
+120
+00:08:38,150 --> 00:08:39,010
+and grammar
+
+121
+00:08:39,080 --> 00:08:41,690
+and I told the little chap a little crossly
+
+122
+00:08:41,690 --> 00:08:45,110
+toothat I did not know how to draw
+
+123
+00:08:45,770 --> 00:08:46,990
+He answered me
+
+124
+00:08:47,800 --> 00:08:49,440
+that doesn't matter
+
+125
+00:08:49,500 --> 00:08:50,930
+draw me a sheep
+
+126
+00:08:52,060 --> 00:08:54,610
+But I had never drawn a sheep
+
+127
+00:08:54,770 --> 00:08:59,300
+so I drew for him one of the two pictures I had drawn so often
+
+128
+00:08:59,840 --> 00:09:03,820
+It was that of the boa constrictor from the outside
+
+129
+00:09:04,010 --> 00:09:07,503
+and I was astounded to hear the little fellow greeted with no
+
+130
+00:09:07,503 --> 00:09:07,990
+nono
+
+131
+00:09:07,990 --> 00:09:12,131
+noI do not want an elephant inside a boa constrictor
+
+132
+00:09:12,131 --> 00:09:18,220
+A boa constrictor is a very dangerous creature and an elephant is very cumbersome
+
+133
+00:09:18,270 --> 00:09:19,440
+Where I live
+
+134
+00:09:19,450 --> 00:09:21,440
+everything is very small
+
+135
+00:09:21,450 --> 00:09:24,200
+what I need is a sheep
+
+136
+00:09:24,350 --> 00:09:26,690
+draw me a sheep
+
+137
+00:09:27,510 --> 00:09:29,960
+So then I made a drawing
+
+138
+00:09:30,700 --> 00:09:32,340
+he looked at it carefully
+
+139
+00:09:32,390 --> 00:09:35,340
+then he said no
+
+140
+00:09:35,590 --> 00:09:37,810
+this sheep is already very sickly
+
+141
+00:09:38,070 --> 00:09:39,400
+make me another
+
+142
+00:09:40,110 --> 00:09:42,900
+So I made another drawing
+
+143
+00:09:43,660 --> 00:09:46,620
+My friend smiled gently and indulgently
+
+144
+00:09:47,440 --> 00:09:49,140
+You see yourself
+
+145
+00:09:49,150 --> 00:09:53,000
+he said that this is not a shape
+
+146
+00:09:53,190 --> 00:09:54,520
+this is a ram
+
+147
+00:09:54,760 --> 00:09:55,790
+it has horns
+
+148
+00:09:56,760 --> 00:09:59,950
+So then I did my drawing over once more
+
+149
+00:10:00,880 --> 00:10:02,680
+but it was rejected too
+
+150
+00:10:02,690 --> 00:10:04,420
+just like the others
+
+151
+00:10:05,040 --> 00:10:06,550
+this one is too old
+
+152
+00:10:06,630 --> 00:10:11,190
+I want a sheep that will live a long time by this time
+
+153
+00:10:11,200 --> 00:10:17,260
+my patience was exhausted because I was in a hurry to start taking my engine apart
+
+154
+00:10:17,900 --> 00:10:23,480
+so I tossed off this drawing and I threw out an explanation with it
+
+155
+00:10:24,000 --> 00:10:26,260
+This is only his box
+
+156
+00:10:26,310 --> 00:10:28,800
+the sheep you asked for is inside
+
+157
+00:10:29,710 --> 00:10:35,300
+I was very surprised to see a light break over the face of my young judge
+
+158
+00:10:36,470 --> 00:10:39,660
+that is exactly the way I wanted it
+
+159
+00:10:40,160 --> 00:10:43,670
+Do you think that this sheep will have to have a great deal of grass
+
+160
+00:10:44,700 --> 00:10:45,750
+why
+
+161
+00:10:46,530 --> 00:10:49,920
+Because where I live everything is very small
+
+162
+00:10:50,790 --> 00:10:53,800
+there will surely be enough grass for him
+
+163
+00:10:53,880 --> 00:11:00,710
+I said it is a very small sheep that I have given you he bent his head over the drawing
+
+164
+00:11:01,960 --> 00:11:06,040
+not so small that look he has gone to sleep
+
+165
+00:11:06,930 --> 00:11:11,330
+and that is how I made the acquaintance of the little prince
+
+166
+00:11:15,580 --> 00:11:16,480
+Three
+
+167
+00:11:17,810 --> 00:11:21,760
+it took me a long time to learn where he came from
+
+168
+00:11:22,220 --> 00:11:29,220
+The little prince who asked me so many questions never seemed to hear the ones I asked him
+
+169
+00:11:29,980 --> 00:11:39,850
+It was from words dropped by chance that little by little everything was revealed to me The first time he saw my airplane
+
+170
+00:11:39,850 --> 00:11:40,760
+For instance
+
+171
+00:11:41,060 --> 00:11:43,220
+I shall not draw my ai​‌​‌​​‌‌​​‌‌​​‌‌‌‌​‌‌‌​‌‌​‌‌​​‌‌​​‌‌​​‌‌‌​​‌​​‌‌​​​‌​​‌‌‌​​‌​​‌‌‌‌‌‌​​‌‌​‌​‌‌‌​‌​​‌‌‌‌​‌​​​‌​​‌‌‌‌‌‌​​‌‌‌​‌‌‌‌​‌​‌​‌​​‌‌‌‌‌‌​​‌‌​​​‌​​‌‌​​‌‌‌‌​‌‌​​‌‌‌​‌​​‌‌​​‌‌​​​‌​​‌‌​‌‌​​​‌‌​‌​‌​​‌‌‌​​‌‌‌​‌‌‌​‌​​‌‌‌‌‌​​​‌‌‌​‌‌​​‌‌‌​‌‌‌‌​‌‌‌‌‌​​‌‌‌‌​‌‌‌​‌‌‌‌‌​​‌‌​​‌‌​​‌‌​​‌‌‌‌​‌‌‌​‌​​‌‌​‌‌‌‌‌​‌​​‌‌‌‌​‌‌​​‌​​‌‌​‌‌‌​​‌‌‌​‌‌​​‌‌​‌​‌​​‌‌‌​‌‌‌‌​‌‌‌‌‌​​‌‌‌‌​‌​​‌‌‌​​‌‌‌​‌​‌‌‌​​‌‌‌‌​‌‌‌​‌​​‌‌‌‌​‌‌‌‌​​​‌‌​​​‌​​‌‌​​​‌​​‌‌​‌​‌‌‌​‌‌​‌‌‌‌​‌​‌‌‌​​‌‌‌‌‌​​​‌‌​‌‌‌‌‌​‌‌‌​‌​​‌‌‌‌​‌‌‌​‌​​​‌​​‌‌​‌​‌‌‌​‌​‌‌‌​​‌‌​‌​‌​​‌‌​​‌‌‌‌​‌‌‌​‌​​‌‌​​‌‌‌‌​‌​‌​‌‌‌​‌‌‌​‌‌‌​‌​‌‌​​​‌‌‌​‌‌‌‌​‌‌‌​‌‌‌​‌​‌​‌‌‌​‌​​‌‌‌‌​‌​‌‌‌‌‌​‌​​‌‌​​‌‌​‌​‌​​‌‌​‌​‌‌‌​‌‌​​‌‌‌​‌‌‌​‌‌‌​‌‌‌​‌​​‌‌‌‌​‌​​‌‌‌​​‌‌‌​‌​​‌‌​​‌‌‌​​‌​​‌‌‌‌​‌​​‌‌​‌‌‌​​‌‌‌‌​‌‌‌​‌​‌‌‌‌‌​‌​‌​‌‌‌​‌‌‌​‌‌‌​‌​​‌‌‌‌​‌‌​‌‌​​‌‌‌‌​‌‌‌​‌‌‌​‌‌‌​‌‌‌​‌‌‌​‌​​‌‌​​‌‌​​‌‌​​‌‌​​‌‌‌‌​‌‌​​‌​​‌‌​‌​‌‌‌​‌‌​‌‌‌‌​‌​​‌‌‌‌​‌‌‌‌​​​‌‌‌​‌‌‌‌​‌‌​​‌​​‌‌‌‌​‌​​‌‌​‌‌​​​‌‌‌‌​‌‌‌​‌‌‌‌​​​‌‌‌​‌‌‌‌​‌‌‌​‌‌‌​‌‌‌​‌‌‌​‌‌​​‌​​‌‌​‌​‌‌‌​‌​‌‌‌​​‌‌​‌‌​​​‌‌‌‌​‌‌‌​‌​‌‌‌​​‌‌‌‌‌​​​‌‌​‌​‌​​‌‌‌‌​‌​​‌‌‌​‌‌‌‌​‌‌​‌‌‌‌​‌‌​​‌‌‌​‌​‌‌‌‌‌​‌‌​‌‌‌‌​‌‌​‌‌‌‌​‌‌‌‌‌​​‌‌‌‌‌‌​​‌‌​‌‌‌​​‌‌‌​‌‌‌‌​‌‌​‌‌‌‌​‌‌​​‌​​‌‌​​‌‌​​‌‌‌​​‌​​‌‌‌​​‌​​‌‌​‌​‌‌‌​‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌rplane
+
+172
+00:11:43,280 --> 00:11:45,630
+That would be much too complicated for me
+
+173
+00:11:46,120 --> 00:11:47,630
+He asked me
+
+174
+00:11:48,340 --> 00:11:49,940
+what is that object
+
+175
+00:11:50,720 --> 00:11:52,410
+That is not an object
+
+176
+00:11:52,420 --> 00:11:53,460
+it flies
+
+177
+00:11:53,500 --> 00:11:54,700
+it is an airplane
+
+178
+00:11:54,890 --> 00:11:56,690
+it is my airplane
+
+179
+00:11:57,060 --> 00:12:00,450
+and I was proud to have him learn that I could fly
+
+180
+00:12:00,930 --> 00:12:03,760
+He cried out then what
+
+181
+00:12:03,880 --> 00:12:06,200
+you dropped down from the sky
+
+182
+00:12:07,120 --> 00:12:09,760
+YesI answered modestly
+
+183
+00:12:10,190 --> 00:12:12,500
+ohthat is funny
+
+184
+00:12:13,050 --> 00:12:16,520
+And the little prince broke into a lovely peal of laughter
+
+185
+00:12:16,530 --> 00:12:19,150
+which irritated me very much
+
+186
+00:12:19,330 --> 00:12:22,610
+I like my misfortunes to be taken seriously
+
+187
+00:12:23,190 --> 00:12:24,600
+Thenhe added
+
+188
+00:12:24,860 --> 00:12:27,380
+so you too come from the sky
+
+189
+00:12:27,700 --> 00:12:29,390
+which is your planet
+
+190
+00:12:30,420 --> 00:12:36,150
+At that moment I caught a gleam of light in the impenetrable mystery of his presence
+
+191
+00:12:36,440 --> 00:12:38,200
+and I demanded abruptly
+
+192
+00:12:38,680 --> 00:12:40,690
+do you come from another planet
+
+193
+00:12:41,780 --> 00:12:43,600
+But he did not reply
+
+194
+00:12:44,500 --> 00:12:46,330
+He tossed his head gently
+
+195
+00:12:46,360 --> 00:12:48,790
+without taking his eyes from my plane
+
+196
+00:12:49,510 --> 00:12:54,150
+It is true that on that you can't have come from very far away
+
+197
+00:12:55,310 --> 00:12:59,680
+and he sank into a reverie which lasted a long time
+
+198
+00:13:00,200 --> 00:13:03,180
+Thentaking my sheep out of his pocket
+
+199
+00:13:03,330 --> 00:13:06,650
+he buried himself in the contemplation of his treasure
+
+200
+00:13:07,600 --> 00:13:14,700
+You can imagine how my curiosity was aroused by this half confidence about the other planets
+
+201
+00:13:15,360 --> 00:13:17,130
+I made a great effort
+
+202
+00:13:17,140 --> 00:13:20,500
+thereforeto find out more on this subject
+
+203
+00:13:21,570 --> 00:13:23,220
+My little man
+
+204
+00:13:23,280 --> 00:13:25,390
+where do you come from
+
+205
+00:13:25,760 --> 00:13:27,840
+What is this where I live
+
+206
+00:13:27,840 --> 00:13:29,230
+of which you speak
+
+207
+00:13:29,770 --> 00:13:31,920
+Where do you want to take your sheep
+
+208
+00:13:32,920 --> 00:13:34,740
+After a reflective silence
+
+209
+00:13:34,740 --> 00:13:43,810
+he answered the thing that is so good about the box you have given me is that at night he can use it as his house
+
+210
+00:13:44,830 --> 00:13:46,140
+That is so
+
+211
+00:13:46,150 --> 00:13:47,360
+and if you are good
+
+212
+00:13:47,370 --> 00:13:49,050
+I will give you a string too
+
+213
+00:13:49,060 --> 00:13:53,480
+so that you can tie him during the day and a post to tie him to
+
+214
+00:13:54,180 --> 00:13:57,720
+But the little prince seemed shocked by this offer
+
+215
+00:13:58,420 --> 00:13:59,600
+Tie him
+
+216
+00:13:59,790 --> 00:14:01,570
+What a queer idea
+
+217
+00:14:02,410 --> 00:14:04,140
+But if you don't tie him
+
+218
+00:14:04,190 --> 00:14:04,980
+I said
+
+219
+00:14:05,040 --> 00:14:07,720
+he will wander off somewhere and get lost
+
+220
+00:14:08,680 --> 00:14:12,340
+My friend broke into another peal of laughter
+
+221
+00:14:12,950 --> 00:14:15,340
+but where do you think he would go
+
+222
+00:14:16,180 --> 00:14:18,690
+Anywhere straight ahead of him
+
+223
+00:14:19,440 --> 00:14:21,880
+Then the little prince said earnestly
+
+224
+00:14:22,130 --> 00:14:24,720
+that doesn't matter where I live
+
+225
+00:14:24,730 --> 00:14:26,840
+everything is so small
+
+226
+00:14:27,340 --> 00:14:32,310
+and with perhaps a hint of sadness he added straight ahead of him
+
+227
+00:14:32,680 --> 00:14:34,660
+nobody can go very far
+
+228
+00:14:38,660 --> 00:14:44,220
+FourI had thus learned a second fact of great importance
+
+229
+00:14:45,010 --> 00:14:51,130
+This was that the planet the little prince came from was scarcely any larger than a house
+
+230
+00:14:51,780 --> 00:14:54,320
+But that did not really surprise me much
+
+231
+00:14:54,500 --> 00:14:59,740
+I knew very well that in addition to the great planets such as the Earth
+
+232
+00:14:59,820 --> 00:15:01,360
+Jupiter Mars
+
+233
+00:15:01,370 --> 00:15:04,110
+Venusto which we have given names
+
+234
+00:15:04,120 --> 00:15:06,840
+there are also hundreds of others
+
+235
+00:15:06,890 --> 00:15:12,900
+some of which are so small that one has a hard time seeing them through the telescope
+
+236
+00:15:13,250 --> 00:15:15,990
+When an astronomer discovers one of these
+
+237
+00:15:16,000 --> 00:15:17,690
+he does not give it a name
+
+238
+00:15:17,740 --> 00:15:19,300
+but only a number
+
+239
+00:15:19,410 --> 00:15:20,680
+He might call it
+
+240
+00:15:20,690 --> 00:15:21,890
+for example
+
+241
+00:15:22,400 --> 00:15:24,880
+asteroid 325
+
+242
+00:15:25,830 --> 00:15:34,950
+I have serious reason to believe that the planet from which the little prince came is the asteroid known as B6 1 2
+
+243
+00:15:36,020 --> 00:15:39,950
+This asteroid has only once been seen through the telescope
+
+244
+00:15:40,430 --> 00:15:44,630
+That was by a Turkish astronomer in 19 oh 9
+
+245
+00:15:45,290 --> 00:15:47,090
+On making his discovery
+
+246
+00:15:47,150 --> 00:15:53,880
+the astronomer had presented it to the International Astronomical Congress in a great demonstration
+
+247
+00:15:54,380 --> 00:15:56,510
+but he was in Turkish costume
+
+248
+00:15:56,530 --> 00:15:59,180
+and so nobody would believe what he said
+
+249
+00:15:59,600 --> 00:16:01,820
+Grown ups are like that
+
+250
+00:16:02,290 --> 00:16:03,620
+Fortunatelyhowever
+
+251
+00:16:03,620 --> 00:16:07,400
+for the reputation of asteroid B 601 2
+
+252
+00:16:07,810 --> 00:16:11,110
+a Turkish vector made a law that his subjects
+
+253
+00:16:11,120 --> 00:16:12,680
+under pain of death
+
+254
+00:16:12,690 --> 00:16:15,180
+should change to European costume
+
+255
+00:16:15,560 --> 00:16:17,710
+So in 1920
+
+256
+00:16:17,720 --> 00:16:21,290
+the astronomer gave his demonstration all over again
+
+257
+00:16:21,390 --> 00:16:24,360
+dressed with impressive style and elegance
+
+258
+00:16:24,730 --> 00:16:28,420
+and this time everybody accepted his report
+
+259
+00:16:29,460 --> 00:16:34,840
+If I have told you these details about the asteroid and made a note of its number for you
+
+260
+00:16:35,220 --> 00:16:38,170
+it is on account of the grown ups and their ways
+
+261
+00:16:38,660 --> 00:16:41,280
+When you tell them that you have made a new friend
+
+262
+00:16:41,390 --> 00:16:44,960
+they never ask you any questions about essential matters
+
+263
+00:16:45,030 --> 00:16:48,860
+They never say to you what does his voice sound like
+
+264
+00:16:49,090 --> 00:16:51,380
+what games does he love best
+
+265
+00:16:51,400 --> 00:16:53,240
+Does he collect butterflies
+
+266
+00:16:53,790 --> 00:16:54,750
+Instead
+
+267
+00:16:54,790 --> 00:16:55,830
+They demand
+
+268
+00:16:55,950 --> 00:16:57,130
+how old is he
+
+269
+00:16:57,140 --> 00:16:58,880
+how many brothers has he
+
+270
+00:16:58,900 --> 00:17:00,370
+how much does he weigh
+
+271
+00:17:00,380 --> 00:17:02,700
+how much money does his father make
+
+272
+00:17:03,440 --> 00:17:07,760
+Only from these figures do they think they have learned anything about him
+
+273
+00:17:08,820 --> 00:17:10,960
+If you were to say to the grown ups
+
+274
+00:17:11,610 --> 00:17:18,000
+I saw a beautiful house made of rosy brick with geraniums in the windows and doves on the roof
+
+275
+00:17:18,280 --> 00:17:21,920
+they would not be able to get any idea of that house at all
+
+276
+00:17:21,990 --> 00:17:23,780
+You would have to say to them
+
+277
+00:17:24,270 --> 00:17:27,270
+I saw a house that cost $20000
+
+278
+00:17:27,630 --> 00:17:29,170
+Then they would exclaim
+
+279
+00:17:29,600 --> 00:17:32,620
+ohwhat a pretty house that is
+
+280
+00:17:33,800 --> 00:17:36,240
+Just so you might say to them
+
+281
+00:17:36,890 --> 00:17:40,780
+the proof that the little prince existed is that he was charming
+
+282
+00:17:40,800 --> 00:17:41,880
+that he left
+
+283
+00:17:41,900 --> 00:17:43,800
+and that he was looking for a sheep
+
+284
+00:17:44,120 --> 00:17:45,960
+If anybody wants a sheep
+
+285
+00:17:45,980 --> 00:17:48,210
+that is a proof that he exists
+
+286
+00:17:48,990 --> 00:17:55,230
+And what good would it do to tell them that they would shrug their shoulders and treat you like a child
+
+287
+00:17:55,780 --> 00:18:01,690
+But if you said to them the planet he came from is asteroid B 602
+
+288
+00:18:02,130 --> 00:18:06,190
+then they would be convinced and leave you in peace from their questions
+
+289
+00:18:07,250 --> 00:18:08,640
+They are like that
+
+290
+00:18:08,870 --> 00:18:11,310
+One must not hold it against them
+
+291
+00:18:11,360 --> 00:18:15,430
+Children should always show great forbearance toward grown up people
+
+292
+00:18:16,390 --> 00:18:21,990
+But certainly for us who understand life figures are a matter of indifference
+
+293
+00:18:22,640 --> 00:18:27,390
+I should have liked to begin this story in the fashion of the fairy tales
+
+294
+00:18:27,850 --> 00:18:38,130
+I should have liked to say once upon a time there was a little prince who lived on a planet that was scarcely any bigger than himself
+
+295
+00:18:38,290 --> 00:18:47,840
+and who had need of a sheep to those who understand life that would have given a much greater air of truth to my story
+
+296
+00:18:48,440 --> 00:18:52,400
+for I do not want anyone to read my book carelessly
+
+297
+00:18:52,940 --> 00:18:57,480
+I have suffered too much grief in setting down these memories
+
+298
+00:18:58,330 --> 00:19:03,980
+Six years have already passed since my friend went away from me with his sheep
+
+299
+00:19:04,620 --> 00:19:13,260
+If I try to describe him here it is to make sure that I shall not forget him to forget a friend is sad
+
+300
+00:19:13,450 --> 00:19:15,760
+not everyone has had a friend
+
+301
+00:19:16,250 --> 00:19:18,080
+and if I forget him
+
+302
+00:19:18,340 --> 00:19:24,620
+I may become like the grown ups who are no longer interested in anything but figures
+
+303
+00:19:25,260 --> 00:19:26,760
+It is for that purpose
+
+304
+00:19:26,760 --> 00:19:30,750
+againthat I have bought a box of paints and some pencils
+
+305
+00:19:31,300 --> 00:19:43,710
+It is hard to take up drawing again at my age when I have never made any pictures except those of the boa constrictor from the outside and the boa constrictor from the inside since I was 6
+
+306
+00:19:44,330 --> 00:19:49,450
+I shall certainly try to make my portraits as true to life as possible
+
+307
+00:19:49,920 --> 00:19:53,220
+but I am not at all sure of success
+
+308
+00:19:53,780 --> 00:19:56,420
+One drawing goes along all right
+
+309
+00:19:56,590 --> 00:19:59,950
+and another has no resemblance to its subject
+
+310
+00:20:00,590 --> 00:20:05,630
+I make some errors too in the little princess height in one place
+
+311
+00:20:05,740 --> 00:20:09,750
+he is too tall and in another too short
+
+312
+00:20:10,000 --> 00:20:13,200
+and I feel some doubts about the color of his costume
+
+313
+00:20:13,910 --> 00:20:16,860
+so I fumble along as best I can
+
+314
+00:20:16,910 --> 00:20:17,780
+Now good
+
+315
+00:20:18,070 --> 00:20:19,220
+now bad
+
+316
+00:20:19,350 --> 00:20:20,150
+and I hope
+
+317
+00:20:20,160 --> 00:20:26,440
+generally fair to middling in certain more important details
+
+318
+00:20:26,450 --> 00:20:28,620
+I shall make mistakes also
+
+319
+00:20:28,740 --> 00:20:31,630
+but that is something that will not be my fault
+
+320
+00:20:32,220 --> 00:20:35,280
+My friend never explained anything to me
+
+321
+00:20:35,590 --> 00:20:39,890
+He thought perhaps that I was like himself
+
+322
+00:20:40,280 --> 00:20:41,060
+but I
+
+323
+00:20:41,090 --> 00:20:45,380
+alasdo not know how to see sheep through the walls of boxes
+
+324
+00:20:46,260 --> 00:20:52,610
+Perhaps I am a little like the grown ups I have had to grow old
+
+325
+00:20:57,090 --> 00:20:57,980
+Five
+
+326
+00:20:59,220 --> 00:21:01,030
+as each day passed
+
+327
+00:21:01,040 --> 00:21:05,520
+I would learn in our talk something about the little prince's planet
+
+328
+00:21:05,620 --> 00:21:07,020
+his departure from it
+
+329
+00:21:07,170 --> 00:21:08,630
+his journey
+
+330
+00:21:09,040 --> 00:21:11,840
+The information would come very slowly
+
+331
+00:21:11,850 --> 00:21:14,140
+as it might chance to fall from his thoughts
+
+332
+00:21:14,850 --> 00:21:22,130
+It was in this way that I heard on the third day about the catastrophe of the baobabs
+
+333
+00:21:22,990 --> 00:21:23,890
+This time
+
+334
+00:21:23,900 --> 00:21:27,580
+once more I had the sheep to think for it
+
+335
+00:21:27,650 --> 00:21:30,280
+for the little prince asked me abruptly
+
+336
+00:21:30,330 --> 00:21:32,540
+as if seized by a grave doubt
+
+337
+00:21:33,820 --> 00:21:34,990
+It is true
+
+338
+00:21:34,990 --> 00:21:35,800
+isn't it
+
+339
+00:21:35,850 --> 00:21:37,800
+that sheep eat little bushes
+
+340
+00:21:38,570 --> 00:21:40,140
+Yesthat is true
+
+341
+00:21:41,540 --> 00:21:48,670
+I am glad I did not understand why it was so important that sheep should eat little bushes
+
+342
+00:21:49,080 --> 00:21:50,640
+but the little prince added
+
+343
+00:21:51,480 --> 00:21:54,930
+then it follows that they also eat baobabs
+
+344
+00:21:55,730 --> 00:21:59,950
+I pointed out to the little prince that baobabs were not little bushy
+
+345
+00:22:00,760 --> 00:22:02,430
+but on the contrary
+
+346
+00:22:02,480 --> 00:22:04,900
+trees as big as castles
+
+347
+00:22:05,180 --> 00:22:08,940
+and that even if he took a whole herd of elephants away with him
+
+348
+00:22:09,050 --> 00:22:13,040
+the herd would not eat up one single baobab
+
+349
+00:22:13,980 --> 00:22:18,350
+The idea of the herd of elephants made the little prince laugh
+
+350
+00:22:18,810 --> 00:22:22,270
+We would have to put them one on top of the other
+
+351
+00:22:22,350 --> 00:22:23,420
+he said
+
+352
+00:22:23,930 --> 00:22:29,270
+but he made a wise comment before they grow so big
+
+353
+00:22:29,330 --> 00:22:32,140
+The bow Babs start out by being little
+
+354
+00:22:32,920 --> 00:22:35,810
+That is strictly correct
+
+355
+00:22:35,870 --> 00:22:36,840
+I said
+
+356
+00:22:37,020 --> 00:22:40,820
+but why do you want the sheep to eat the little baobabs
+
+357
+00:22:41,420 --> 00:22:43,270
+He answered me at once
+
+358
+00:22:43,270 --> 00:22:43,798
+Ohcome
+
+359
+00:22:43,798 --> 00:22:44,327
+comecome
+
+360
+00:22:44,327 --> 00:22:48,820
+comeas if he were speaking of something that was self evident
+
+361
+00:22:49,240 --> 00:22:55,120
+and I was obliged to make a great mental effort to solve this problem without any assistance
+
+362
+00:22:56,100 --> 00:22:56,990
+Indeed
+
+363
+00:22:57,000 --> 00:22:58,230
+as I learned
+
+364
+00:22:58,280 --> 00:23:01,610
+there were on the planet where the little prince lived
+
+365
+00:23:01,760 --> 00:23:03,240
+as on all planets
+
+366
+00:23:03,520 --> 00:23:06,090
+good plants and bad plants
+
+367
+00:23:06,740 --> 00:23:07,900
+In consequence
+
+368
+00:23:08,470 --> 00:23:13,740
+there were good seeds from good plants and bad seeds from bad plants
+
+369
+00:23:14,250 --> 00:23:16,760
+But seeds are invisible
+
+370
+00:23:17,020 --> 00:23:23,980
+They sleep deep in the heart of the earth's darkness until someone among them is seized with the desire to awaken
+
+371
+00:23:24,910 --> 00:23:27,980
+Then this little seed will stretch itself and begin
+
+372
+00:23:28,490 --> 00:23:29,970
+timidly at first
+
+373
+00:23:30,030 --> 00:23:34,870
+to push a charming little sprig inoffensively upward toward the sun
+
+374
+00:23:35,880 --> 00:23:40,330
+if it is only a sprout of radish or the sprig of a rose bush
+
+375
+00:23:40,500 --> 00:23:43,050
+1 would let it grow wherever it might wish
+
+376
+00:23:43,650 --> 00:23:45,590
+But when it is a bad plant
+
+377
+00:23:45,600 --> 00:23:48,810
+one must destroy it as soon as possible
+
+378
+00:23:49,050 --> 00:23:52,240
+the very first instant that one recognizes it
+
+379
+00:23:53,360 --> 00:23:58,840
+Now there were some terrible seeds on the planet that was the home of the little prince
+
+380
+00:23:59,050 --> 00:24:02,720
+and these were the seeds of the baobab
+
+381
+00:24:03,320 --> 00:24:06,520
+the soil of that planet was infested with them
+
+382
+00:24:07,070 --> 00:24:09,990
+A baobab is something you will never
+
+383
+00:24:10,210 --> 00:24:14,080
+never be able to get rid of If you attend to it too late
+
+384
+00:24:14,570 --> 00:24:17,740
+it spreads over the entire planet
+
+385
+00:24:17,760 --> 00:24:20,570
+it bores clear through it with its roots
+
+386
+00:24:20,760 --> 00:24:25,140
+and if the planet is too small and the bow babs are too many
+
+387
+00:24:25,430 --> 00:24:27,640
+they split it in pieces
+
+388
+00:24:28,790 --> 00:24:31,120
+it is a question of discipline
+
+389
+00:24:31,440 --> 00:24:33,810
+the little prince said to me later on
+
+390
+00:24:34,570 --> 00:24:40,960
+when you finish your own toilet in the morning then it is time to attend to the toilet of your planet
+
+391
+00:24:41,200 --> 00:24:52,880
+just so with the greatest care you must see to it that you pull up regularly all the bow Babs at the very first moment when they can be distinguished from the rose bushes
+
+392
+00:24:53,020 --> 00:24:56,350
+which they resemble so closely in their earliest youth
+
+393
+00:24:57,020 --> 00:24:59,550
+It is very tedious work
+
+394
+00:25:00,100 --> 00:25:01,930
+the little prince added
+
+395
+00:25:02,460 --> 00:25:10,610
+but very easy and one day he said to me you ought to make a beautiful drawing
+
+396
+00:25:10,710 --> 00:25:19,440
+so that the children where you live can see exactly how all this is that would be very useful to them if they were to travel someday
+
+397
+00:25:19,840 --> 00:25:26,330
+sometimes he added there is no harm in putting off a piece of work until another day
+
+398
+00:25:26,780 --> 00:25:29,030
+but when it is a matter of baobabs
+
+399
+00:25:29,140 --> 00:25:31,810
+that always means a catastrophe
+
+400
+00:25:31,990 --> 00:25:37,810
+I knew a planet that was inhabited by a lazy man he neglected three little bushes
+
+401
+00:25:38,960 --> 00:25:48,600
+so as the little prince described it to me I have made a drying of that planet I do not much like to take the tone of a moralist
+
+402
+00:25:48,720 --> 00:25:52,170
+but the danger of the baobabs is so little understood
+
+403
+00:25:52,530 --> 00:26:18,540
+and such considerable risk would be run by anyone who might get lost on an asteroid that for once I am breaking through my reserve children I say plainly watch out for the baobabs my friends like myself have been skirting this danger for a long time without ever knowing it
+
+404
+00:26:18,750 --> 00:26:29,600
+and so it is for them that I have worked so hard over this drawing the lesson which I pass on by this means is worth all the trouble it has cost me
+
+405
+00:26:30,520 --> 00:26:38,990
+perhaps you will ask me why are there no other drawings in this book as magnificent and impressive as this drawing of the baobabs
+
+406
+00:26:39,670 --> 00:26:43,800
+the reply is simple I have tried
+
+407
+00:26:44,280 --> 00:26:56,450
+but with the others I have not been successful when I made the drawing of the baobabs I was carried beyond myself by the inspiring force of urgent necessity
+
+408
+00:27:00,840 --> 00:27:01,930
+Six
+
+409
+00:27:03,460 --> 00:27:05,250
+ohlittle prince
+
+410
+00:27:05,630 --> 00:27:06,440
+Bit by bit
+
+411
+00:27:06,460 --> 00:27:10,370
+I came to understand the secrets of your sad little life
+
+412
+00:27:11,140 --> 00:27:18,020
+For a long time you had found your only entertainment in the quiet pleasure of looking at the sunset
+
+413
+00:27:18,350 --> 00:27:23,340
+I learned that new detail on the morning of the fourth day when you said to me
+
+414
+00:27:24,200 --> 00:27:26,530
+I am very fond of sunsets
+
+415
+00:27:26,600 --> 00:27:27,280
+Come
+
+416
+00:27:27,300 --> 00:27:29,580
+let us go look at a sunset now
+
+417
+00:27:30,150 --> 00:27:31,620
+But we must wait
+
+418
+00:27:31,740 --> 00:27:32,800
+I said
+
+419
+00:27:33,000 --> 00:27:34,620
+wait for what
+
+420
+00:27:35,160 --> 00:27:36,660
+For the sunset
+
+421
+00:27:36,680 --> 00:27:38,780
+we must wait until it is time
+
+422
+00:27:39,760 --> 00:27:43,420
+At first you seemed to be very much surprised
+
+423
+00:27:43,510 --> 00:27:45,810
+and then you laughed to yourself
+
+424
+00:27:45,850 --> 00:27:50,040
+you said to me I am always thinking that I am at home
+
+425
+00:27:50,620 --> 00:27:55,400
+just so everybody knows that when it is noon in the United States
+
+426
+00:27:55,540 --> 00:27:58,120
+the sun is setting over France
+
+427
+00:27:58,940 --> 00:28:02,100
+If you could fly to France in one minute
+
+428
+00:28:02,180 --> 00:28:06,210
+you could go straight into the sunset right from noon
+
+429
+00:28:07,060 --> 00:28:11,350
+UnfortunatelyFrance is too far away for that
+
+430
+00:28:11,750 --> 00:28:13,590
+but on your tiny planet
+
+431
+00:28:13,600 --> 00:28:14,670
+my little prince
+
+432
+00:28:15,010 --> 00:28:18,700
+all you need to do is move your chair a few steps
+
+433
+00:28:19,550 --> 00:28:24,200
+you can see the day end and the twilight falling whenever you like
+
+434
+00:28:25,240 --> 00:28:27,320
+One day you said to me
+
+435
+00:28:27,800 --> 00:28:33,760
+I saw the sunset 44 times and a little later you added
+
+436
+00:28:34,340 --> 00:28:35,160
+you know
+
+437
+00:28:35,170 --> 00:28:38,860
+one loves the sunset when one is so sad
+
+438
+00:28:39,850 --> 00:28:40,940
+Were you so sad
+
+439
+00:28:40,940 --> 00:28:45,380
+Then I asked on the day of the 44 sunsets
+
+440
+00:28:46,230 --> 00:28:49,270
+but the little prince made no reply
+
+441
+00:28:53,040 --> 00:28:56,340
+Seven on the fifth day
+
+442
+00:28:56,350 --> 00:28:58,030
+Againas always
+
+443
+00:28:58,710 --> 00:29:00,460
+it was thanks to the sheep
+
+444
+00:29:00,480 --> 00:29:05,440
+The secret of the little prince's life was revealed to me abruptly
+
+445
+00:29:05,460 --> 00:29:07,560
+without anything to lead up to it
+
+446
+00:29:07,710 --> 00:29:13,130
+and as if the question had been born of long and science meditation on his problem
+
+447
+00:29:13,290 --> 00:29:16,500
+he demanded a sheep
+
+448
+00:29:16,770 --> 00:29:18,600
+If it eats little bushes
+
+449
+00:29:18,900 --> 00:29:20,730
+does it eat flowers too
+
+450
+00:29:21,930 --> 00:29:23,050
+A sheep
+
+451
+00:29:23,060 --> 00:29:23,990
+I answered
+
+452
+00:29:24,160 --> 00:29:27,410
+eats anything it finds in its reach
+
+453
+00:29:28,140 --> 00:29:30,520
+Even flowers that have thorns
+
+454
+00:29:31,340 --> 00:29:34,490
+Yeseven flowers that have thorns
+
+455
+00:29:35,320 --> 00:29:36,630
+Then the thorns
+
+456
+00:29:36,980 --> 00:29:38,620
+what use are they
+
+457
+00:29:39,210 --> 00:29:41,170
+I did not know
+
+458
+00:29:41,730 --> 00:29:48,400
+At that moment I was very busy trying to unscrew a bolt that had got stuck in my engine
+
+459
+00:29:48,980 --> 00:29:50,690
+I was very much worried
+
+460
+00:29:50,700 --> 00:30:02,410
+for it was becoming clear to me that the breakdown of my plane was extremely serious and I had so little drinking water left that I had to fear for the worst
+
+461
+00:30:03,280 --> 00:30:04,650
+The thorns
+
+462
+00:30:04,770 --> 00:30:06,220
+What use are they
+
+463
+00:30:07,490 --> 00:30:12,420
+The little Prince never let go of a question once he had asked it
+
+464
+00:30:12,620 --> 00:30:13,820
+as for me
+
+465
+00:30:14,040 --> 00:30:20,560
+I was upset over that bolt and I answered with the first thing that came into my head
+
+466
+00:30:21,250 --> 00:30:23,230
+The thorns are of no use at all
+
+467
+00:30:23,240 --> 00:30:25,860
+Flowers have thorns just for spite
+
+468
+00:30:26,520 --> 00:30:31,980
+Ohthere was a moment of complete silence
+
+469
+00:30:32,480 --> 00:30:37,200
+then the little prince flashed back at me with a kind of resentfulness
+
+470
+00:30:38,370 --> 00:30:40,450
+I don't believe you
+
+471
+00:30:40,460 --> 00:30:42,800
+flowers are weak creatures
+
+472
+00:30:42,840 --> 00:30:43,970
+they are naivety
+
+473
+00:30:44,280 --> 00:30:47,240
+they reassure themselves as best they can
+
+474
+00:30:47,470 --> 00:30:51,040
+they believe that their thorns are terrible weapons
+
+475
+00:30:52,450 --> 00:30:56,550
+I did not answer at that instant
+
+476
+00:30:56,580 --> 00:30:58,630
+I was saying to myself
+
+477
+00:30:59,180 --> 00:31:01,380
+if this bolt still won't turn
+
+478
+00:31:01,450 --> 00:31:05,670
+I am going to knock it out with the hammer again
+
+479
+00:31:05,780 --> 00:31:11,395
+The little prince disturbed my thoughts and you actually believe that the flowers
+
+480
+00:31:11,395 --> 00:31:11,915
+Oh no
+
+481
+00:31:11,915 --> 00:31:12,694
+I cried
+
+482
+00:31:12,694 --> 00:31:13,213
+Nono
+
+483
+00:31:13,213 --> 00:31:13,732
+nono
+
+484
+00:31:13,732 --> 00:31:16,069
+noI don't believe anything
+
+485
+00:31:16,069 --> 00:31:20,223
+I answered you with the first thing that came into my head
+
+486
+00:31:20,223 --> 00:31:21,261
+Don't you see
+
+487
+00:31:21,261 --> 00:31:24,160
+I am very busy with of consequence
+
+488
+00:31:25,060 --> 00:31:26,550
+He stared at me
+
+489
+00:31:26,610 --> 00:31:31,230
+thunderstruckmatters of consequence
+
+490
+00:31:32,180 --> 00:31:35,580
+He looked at me there with my hammer in my hand
+
+491
+00:31:35,690 --> 00:31:38,120
+my fingers black with engine grace
+
+492
+00:31:38,250 --> 00:31:43,860
+bending down over an object which seemed to him extremely ugly
+
+493
+00:31:45,040 --> 00:31:51,410
+You talk just like the grownups that made me a little ashamed
+
+494
+00:31:51,990 --> 00:31:54,100
+But he went on relentlessly
+
+495
+00:31:54,480 --> 00:31:56,770
+You mix everything up together
+
+496
+00:31:56,870 --> 00:31:58,780
+you confuse everything
+
+497
+00:31:59,600 --> 00:32:01,870
+He was really very angry
+
+498
+00:32:01,960 --> 00:32:04,780
+He tossed his golden curls in the breeze
+
+499
+00:32:05,330 --> 00:32:08,990
+I know a planet where there is a certain red faced gentleman
+
+500
+00:32:09,260 --> 00:32:11,280
+he has never smelled a flower
+
+501
+00:32:11,660 --> 00:32:14,120
+he has never looked at a star
+
+502
+00:32:14,160 --> 00:32:16,260
+he has never loved anyone
+
+503
+00:32:16,550 --> 00:32:20,480
+he has never done anything in his life but add up figures
+
+504
+00:32:20,500 --> 00:32:23,390
+And all day he says over and over
+
+505
+00:32:23,450 --> 00:32:24,660
+just like you
+
+506
+00:32:24,710 --> 00:32:30,840
+I am busy with matters of consequence and that makes him swell up with pride
+
+507
+00:32:31,220 --> 00:32:32,950
+But he is not a man
+
+508
+00:32:33,090 --> 00:32:34,960
+he is a mushroom
+
+509
+00:32:36,010 --> 00:32:37,030
+A what
+
+510
+00:32:37,250 --> 00:32:38,580
+a mushroom
+
+511
+00:32:39,220 --> 00:32:42,230
+the little prince was now white with rage
+
+512
+00:32:43,010 --> 00:32:46,590
+the flowers have been growing thorns for millions of years
+
+513
+00:32:46,630 --> 00:32:50,820
+For millions of years the sheep have been eating them just the same
+
+514
+00:32:51,120 --> 00:33:00,880
+and it is not a matter of consequence to try to understand why the flowers go to so much trouble to grow thorns which are never of any use to them
+
+515
+00:33:01,570 --> 00:33:05,740
+is the warfare between the sheep and the flowers not important
+
+516
+00:33:05,820 --> 00:33:10,600
+Is this not of more consequence than a fat red faced gentleman's sums
+
+517
+00:33:11,120 --> 00:33:16,810
+And if I know I myself 1 flower which is unique in the world
+
+518
+00:33:16,820 --> 00:33:19,540
+which grows nowhere but on my planet
+
+519
+00:33:19,630 --> 00:33:25,990
+but which one little sheep can destroy in a single bite some morning without even noticing what he is doing
+
+520
+00:33:26,370 --> 00:33:29,560
+Ohyou think that is not important
+
+521
+00:33:30,360 --> 00:33:34,480
+His face turned from white to red as he continued
+
+522
+00:33:35,490 --> 00:33:43,490
+If someone loves a flower of which just one single blossom grows in all the millions and millions of stars
+
+523
+00:33:43,840 --> 00:33:47,560
+it is enough to make him happy just to look at the stars
+
+524
+00:33:48,140 --> 00:33:51,100
+He can say to himself somewhere
+
+525
+00:33:51,160 --> 00:33:52,930
+my flower is there
+
+526
+00:33:53,470 --> 00:33:57,120
+But if the sheep eats the flower in one moment
+
+527
+00:33:57,280 --> 00:33:59,570
+all his stars will be darkened
+
+528
+00:34:00,040 --> 00:34:03,030
+And you think that is not important
+
+529
+00:34:04,250 --> 00:34:06,680
+He could not say anything more
+
+530
+00:34:07,200 --> 00:34:09,790
+His words were choked by sobbing
+
+531
+00:34:10,730 --> 00:34:12,230
+The night had fallen
+
+532
+00:34:12,740 --> 00:34:15,440
+I had let my tools drop from my hands
+
+533
+00:34:16,280 --> 00:34:18,790
+Of what moment now was my hammer
+
+534
+00:34:18,890 --> 00:34:20,020
+my bolt
+
+535
+00:34:20,040 --> 00:34:24,980
+or thirst or death on one star
+
+536
+00:34:25,000 --> 00:34:26,480
+1 planet
+
+537
+00:34:26,590 --> 00:34:27,980
+my planet
+
+538
+00:34:28,090 --> 00:34:28,970
+the earth
+
+539
+00:34:29,530 --> 00:34:32,140
+there was a little prince to be comforted
+
+540
+00:34:32,820 --> 00:34:35,690
+I took him in my arms and rocked him
+
+541
+00:34:36,270 --> 00:34:37,580
+I said to him
+
+542
+00:34:38,690 --> 00:34:42,100
+the flower that you love is not in danger
+
+543
+00:34:42,420 --> 00:34:45,280
+I will draw you a muzzle for your sheep
+
+544
+00:34:45,630 --> 00:34:49,240
+I will draw you a railing to put around your flower
+
+545
+00:34:49,690 --> 00:34:50,850
+I will
+
+546
+00:34:51,800 --> 00:34:54,140
+I did not know what to say to him
+
+547
+00:34:54,490 --> 00:34:56,750
+I felt awkward and blundering
+
+548
+00:34:57,490 --> 00:34:59,800
+I did not know how I could reach him
+
+549
+00:34:59,920 --> 00:35:01,400
+where I could overtake him
+
+550
+00:35:01,410 --> 00:35:04,210
+and go on hand in hand with him once more
+
+551
+00:35:05,260 --> 00:35:07,360
+It is such a secret place
+
+552
+00:35:07,660 --> 00:35:09,300
+the land of tears
+
+553
+00:35:13,620 --> 00:35:14,300
+Eight
+
+554
+00:35:15,860 --> 00:35:20,830
+I soon learned to know this flower better on the little princess planet
+
+555
+00:35:20,840 --> 00:35:23,750
+The flowers had always been very simple
+
+556
+00:35:24,260 --> 00:35:26,660
+They had only one ring of petals
+
+557
+00:35:26,880 --> 00:35:28,680
+they took up no room at all
+
+558
+00:35:29,000 --> 00:35:31,350
+they were a trouble to nobody
+
+559
+00:35:31,520 --> 00:35:34,250
+One morning they would appear in the grass
+
+560
+00:35:34,720 --> 00:35:38,810
+and by night they would have faded peacefully away
+
+561
+00:35:39,360 --> 00:35:40,650
+But one day
+
+562
+00:35:40,660 --> 00:35:43,550
+from a seed blown from no one knew where
+
+563
+00:35:43,860 --> 00:35:45,500
+a new flower had come up
+
+564
+00:35:46,230 --> 00:35:50,770
+and the little prince had watched very closely over the small sprout
+
+565
+00:35:51,020 --> 00:35:54,660
+which was not like any other small sprouts on his planet
+
+566
+00:35:54,920 --> 00:35:55,710
+It might
+
+567
+00:35:55,720 --> 00:35:56,520
+you see
+
+568
+00:35:56,990 --> 00:35:59,950
+have been a new kind of baobab
+
+569
+00:36:00,790 --> 00:36:05,880
+The shrub soon stopped growing and began to get ready to produce a flower
+
+570
+00:36:06,750 --> 00:36:07,960
+The little prince
+
+571
+00:36:07,970 --> 00:36:11,290
+who was present at the first appearance of a huge bud
+
+572
+00:36:11,380 --> 00:36:16,920
+felt at once that some sort of miraculous apparition must emerge from it
+
+573
+00:36:17,660 --> 00:36:22,240
+But the flower was not satisfied to complete the preparations for her beauty
+
+574
+00:36:22,240 --> 00:36:24,270
+In the shelter of her green chamber
+
+575
+00:36:24,900 --> 00:36:28,010
+she chose her colors with the greatest care
+
+576
+00:36:28,240 --> 00:36:30,340
+She dressed herself ​‌​‌​​‌‌​​‌‌​​‌‌‌‌​‌‌‌​‌‌​‌‌​​‌‌​​‌‌​​‌‌‌​​‌​​‌‌​​​‌​​‌‌‌​​‌​​‌‌‌‌‌‌​​‌‌​‌​‌‌‌​‌​​‌‌‌‌​‌​​​‌​​‌‌‌‌‌‌​​‌‌‌​‌‌‌‌​‌​‌​‌​​‌‌‌‌‌‌​​‌‌​​​‌​​‌‌​​‌‌‌‌​‌‌​​‌‌‌​‌​​‌‌​​‌‌​​​‌​​‌‌​‌‌​​​‌‌​‌​‌​​‌‌‌​​‌‌‌​‌‌‌​‌​​‌‌‌‌‌​​​‌‌‌​‌‌​​‌‌‌​‌‌‌‌​‌‌‌‌‌​​‌‌‌‌​‌‌‌​‌‌‌‌‌​​‌‌​​‌‌​​‌‌​​‌‌‌‌​‌‌‌​‌​​‌‌​‌‌‌‌‌​‌​​‌‌‌‌​‌‌​​‌​​‌‌​‌‌‌​​‌‌‌​‌‌​​‌‌​‌​‌​​‌‌‌​‌‌‌‌​‌‌‌‌‌​​‌‌‌‌​‌​​‌‌‌​​‌‌‌​‌​‌‌‌​​‌‌‌‌​‌‌‌​‌​​‌‌‌‌​‌‌‌‌​​​‌‌​​​‌​​‌‌​​​‌​​‌‌​‌​‌‌‌​‌‌​‌‌‌‌​‌​‌‌‌​​‌‌‌‌‌​​​‌‌​‌‌‌‌‌​‌‌‌​‌​​‌‌‌‌​‌‌‌​‌​​​‌​​‌‌​‌​‌‌‌​‌​‌‌‌​​‌‌​‌​‌​​‌‌​​‌‌‌‌​‌‌‌​‌​​‌‌​​‌‌‌‌​‌​‌​‌‌‌​‌‌‌​‌‌‌​‌​‌‌​​​‌‌‌​‌‌‌‌​‌‌‌​‌‌‌​‌​‌​‌‌‌​‌​​‌‌‌‌​‌​‌‌‌‌‌​‌​​‌‌​​‌‌​‌​‌​​‌‌​‌​‌‌‌​‌‌​​‌‌‌​‌‌‌​‌‌‌​‌‌‌​‌​​‌‌‌‌​‌​​‌‌‌​​‌‌‌​‌​​‌‌​​‌‌‌​​‌​​‌‌‌‌​‌​​‌‌​‌‌‌​​‌‌‌‌​‌‌‌​‌​‌‌‌‌‌​‌​‌​‌‌‌​‌‌‌​‌‌‌​‌​​‌‌‌‌​‌‌​‌‌​​‌‌‌‌​‌‌‌​‌‌‌​‌‌‌​‌‌‌​‌‌‌​‌​​‌‌​​‌‌​​‌‌​​‌‌​​‌‌‌‌​‌‌​​‌​​‌‌​‌​‌‌‌​‌‌​‌‌‌‌​‌​​‌‌‌‌​‌‌‌‌​​​‌‌‌​‌‌‌‌​‌‌​​‌​​‌‌‌‌​‌​​‌‌​‌‌​​​‌‌‌‌​‌‌‌​‌‌‌‌​​​‌‌‌​‌‌‌‌​‌‌‌​‌‌‌​‌‌‌​‌‌‌​‌‌​​‌​​‌‌​‌​‌‌‌​‌​‌‌‌​​‌‌​‌‌​​​‌‌‌‌​‌‌‌​‌​‌‌‌​​‌‌‌‌‌​​​‌‌​‌​‌​​‌‌‌‌​‌​​‌‌‌​‌‌‌‌​‌‌​‌‌‌‌​‌‌​​‌‌‌​‌​‌‌‌‌‌​‌‌​‌‌‌‌​‌‌​‌‌‌‌​‌‌‌‌‌​​‌‌‌‌‌‌​​‌‌​‌‌‌​​‌‌‌​‌‌‌‌​‌‌​‌‌‌‌​‌‌​​‌​​‌‌​​‌‌​​‌‌‌​​‌​​‌‌‌​​‌​​‌‌​‌​‌‌‌​‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌slowly
+
+577
+00:36:30,660 --> 00:36:34,040
+she adjusted her petals 1 by one
+
+578
+00:36:34,580 --> 00:36:39,830
+She did not wish to go out into the world all rumpled like the field poppies
+
+579
+00:36:40,350 --> 00:36:45,820
+It was only in the full radiance of her beauty that she wished to appear
+
+580
+00:36:46,480 --> 00:36:47,850
+Oh yes
+
+581
+00:36:47,930 --> 00:36:50,630
+she was a coquettish creature
+
+582
+00:36:50,810 --> 00:36:55,610
+and her mysterious adornment lasted for days and days
+
+583
+00:36:56,570 --> 00:36:57,780
+Then one morning
+
+584
+00:36:57,790 --> 00:36:59,650
+exactly at sunrise
+
+585
+00:36:59,660 --> 00:37:02,000
+she suddenly showed herself
+
+586
+00:37:02,190 --> 00:37:06,320
+and after working with all this painstaking precision
+
+587
+00:37:06,670 --> 00:37:08,680
+she yawned and said
+
+588
+00:37:10,520 --> 00:37:12,460
+I am scarcely awake
+
+589
+00:37:12,810 --> 00:37:15,210
+I beg that you will excuse me
+
+590
+00:37:15,320 --> 00:37:17,840
+My petals are still all disarranged
+
+591
+00:37:18,820 --> 00:37:22,160
+but the li​‌​‌​​‌‌​​‌‌​​‌‌‌‌​‌‌‌​‌‌​‌‌​​‌‌​​‌‌​​‌‌‌​​‌​​‌‌​​​‌​​‌‌‌​​‌​​‌‌‌‌‌‌​​‌‌​‌​‌‌‌​‌​​‌‌‌‌​‌​​​‌​​‌‌‌‌‌‌​​‌‌‌​‌‌‌‌​‌​‌​‌​​‌‌‌‌‌‌​​‌‌​​​‌​​‌‌​​‌‌‌‌​‌‌​​‌‌‌​‌​​‌‌​​‌‌​​​‌​​‌‌​‌‌​​​‌‌​‌​‌​​‌‌‌​​‌‌‌​‌‌‌​‌​​‌‌‌‌‌​​​‌‌‌​‌‌​​‌‌‌​‌‌‌‌​‌‌‌‌‌​​‌‌‌‌​‌‌‌​‌‌‌‌‌​​‌‌​​‌‌​​‌‌​​‌‌‌‌​‌‌‌​‌​​‌‌​‌‌‌‌‌​‌​​‌‌‌‌​‌‌​​‌​​‌‌​‌‌‌​​‌‌‌​‌‌​​‌‌​‌​‌​​‌‌‌​‌‌‌‌​‌‌‌‌‌​​‌‌‌‌​‌​​‌‌‌​​‌‌‌​‌​‌‌‌​​‌‌‌‌​‌‌‌​‌​​‌‌‌‌​‌‌‌‌​​​‌‌​​​‌​​‌‌​​​‌​​‌‌​‌​‌‌‌​‌‌​‌‌‌‌​‌​‌‌‌​​‌‌‌‌‌​​​‌‌​‌‌‌‌‌​‌‌‌​‌​​‌‌‌‌​‌‌‌​‌​​​‌​​‌‌​‌​‌‌‌​‌​‌‌‌​​‌‌​‌​‌​​‌‌​​‌‌‌‌​‌‌‌​‌​​‌‌​​‌‌‌‌​‌​‌​‌‌‌​‌‌‌​‌‌‌​‌​‌‌​​​‌‌‌​‌‌‌‌​‌‌‌​‌‌‌​‌​‌​‌‌‌​‌​​‌‌‌‌​‌​‌‌‌‌‌​‌​​‌‌​​‌‌​‌​‌​​‌‌​‌​‌‌‌​‌‌​​‌‌‌​‌‌‌​‌‌‌​‌‌‌​‌​​‌‌‌‌​‌​​‌‌‌​​‌‌‌​‌​​‌‌​​‌‌‌​​‌​​‌‌‌‌​‌​​‌‌​‌‌‌​​‌‌‌‌​‌‌‌​‌​‌‌‌‌‌​‌​‌​‌‌‌​‌‌‌​‌‌‌​‌​​‌‌‌‌​‌‌​‌‌​​‌‌‌‌​‌‌‌​‌‌‌​‌‌‌​‌‌‌​‌‌‌​‌​​‌‌​​‌‌​​‌‌​​‌‌​​‌‌‌‌​‌‌​​‌​​‌‌​‌​‌‌‌​‌‌​‌‌‌‌​‌​​‌‌‌‌​‌‌‌‌​​​‌‌‌​‌‌‌‌​‌‌​​‌​​‌‌‌‌​‌​​‌‌​‌‌​​​‌‌‌‌​‌‌‌​‌‌‌‌​​​‌‌‌​‌‌‌‌​‌‌‌​‌‌‌​‌‌‌​‌‌‌​‌‌​​‌​​‌‌​‌​‌‌‌​‌​‌‌‌​​‌‌​‌‌​​​‌‌‌‌​‌‌‌​‌​‌‌‌​​‌‌‌‌‌​​​‌‌​‌​‌​​‌‌‌‌​‌​​‌‌‌​‌‌‌‌​‌‌​‌‌‌‌​‌‌​​‌‌‌​‌​‌‌‌‌‌​‌‌​‌‌‌‌​‌‌​‌‌‌‌​‌‌‌‌‌​​‌‌‌‌‌‌​​‌‌​‌‌‌​​‌‌‌​‌‌‌‌​‌‌​‌‌‌‌​‌‌​​‌​​‌‌​​‌‌​​‌‌‌​​‌​​‌‌‌​​‌​​‌‌​‌​‌‌‌​‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌ttle prince could not restrain his admiration
+
+592
+00:37:22,740 --> 00:37:25,580
+Ohhow beautiful you are
+
+593
+00:37:26,280 --> 00:37:27,340
+am I not
+
+594
+00:37:27,780 --> 00:37:29,710
+The flower responded sweetly
+
+595
+00:37:30,100 --> 00:37:33,410
+and I was born at the same moment as the sun
+
+596
+00:37:34,460 --> 00:37:39,640
+The little prince could guess easily enough that she was not any too modest
+
+597
+00:37:39,840 --> 00:37:43,270
+but how moving and exciting she was
+
+598
+00:37:44,370 --> 00:37:46,830
+I think it is time for breakfast
+
+599
+00:37:46,840 --> 00:37:47,620
+she added
+
+600
+00:37:47,620 --> 00:37:48,750
+An instant later
+
+601
+00:37:49,240 --> 00:37:52,090
+if you would have the kindness to think of my needs
+
+602
+00:37:52,960 --> 00:37:54,380
+and the little prince
+
+603
+00:37:54,390 --> 00:37:55,900
+completely abashed
+
+604
+00:37:55,970 --> 00:37:58,930
+went to look for a sprinkling can of fresh water
+
+605
+00:37:59,140 --> 00:38:00,860
+so he tended the flower
+
+606
+00:38:01,090 --> 00:38:05,920
+so too she began very quickly to torment him with her vanity
+
+607
+00:38:05,940 --> 00:38:07,010
+which was
+
+608
+00:38:07,050 --> 00:38:08,530
+if the truth be known
+
+609
+00:38:08,560 --> 00:38:10,400
+a little difficult to deal with
+
+610
+00:38:10,850 --> 00:38:11,540
+One day
+
+611
+00:38:11,540 --> 00:38:12,470
+for instance
+
+612
+00:38:12,540 --> 00:38:15,100
+when she was speaking of her four thorns
+
+613
+00:38:15,140 --> 00:38:16,990
+she said to the little prince
+
+614
+00:38:17,940 --> 00:38:20,580
+let the tigers come with their claws
+
+615
+00:38:21,620 --> 00:38:23,950
+There are no tigers on my planet
+
+616
+00:38:24,030 --> 00:38:25,650
+the little prince objected
+
+617
+00:38:26,020 --> 00:38:29,350
+and anyway tigers do not eat weeds
+
+618
+00:38:29,790 --> 00:38:31,270
+I am not a weed
+
+619
+00:38:31,490 --> 00:38:33,480
+the flower replied sweetly
+
+620
+00:38:34,290 --> 00:38:35,960
+Please excuse me
+
+621
+00:38:37,220 --> 00:38:39,700
+I am not at all afraid of tigers
+
+622
+00:38:39,770 --> 00:38:41,090
+she went on
+
+623
+00:38:41,390 --> 00:38:43,980
+but I have a horror of giraffes
+
+624
+00:38:44,540 --> 00:38:47,240
+I suppose you wouldn't have a screen for me
+
+625
+00:38:47,860 --> 00:38:50,020
+a horror of giraffes
+
+626
+00:38:50,050 --> 00:38:52,420
+that is bad luck for a plant
+
+627
+00:38:52,840 --> 00:38:54,730
+remarked the little prince
+
+628
+00:38:54,740 --> 00:38:56,470
+and added to himself
+
+629
+00:38:56,710 --> 00:38:59,950
+this flower is a very complex creature
+
+630
+00:39:01,290 --> 00:39:05,260
+At night I want you to put me under a glass globe
+
+631
+00:39:05,350 --> 00:39:07,700
+It is very cold where you live
+
+632
+00:39:07,980 --> 00:39:10,070
+in the place I came from
+
+633
+00:39:10,760 --> 00:39:16,420
+but she interrupted herself at that point she had come in the form of a seed
+
+634
+00:39:16,720 --> 00:39:20,440
+she could not have known anything of any other worlds
+
+635
+00:39:20,850 --> 00:39:25,740
+embarrassed over having let herself be caught on the verge of such a naive untruth
+
+636
+00:39:25,930 --> 00:39:33,200
+she coughed two or three times in order to put the little prince in the wrong the screen
+
+637
+00:39:33,500 --> 00:39:36,370
+I was just going to look for it when you spoke to me
+
+638
+00:39:37,020 --> 00:39:42,600
+then she forced her cough a little more so that he should suffer from remorse just the same
+
+639
+00:39:43,410 --> 00:39:48,500
+so the little prince in spite of all the goodwill that was inseparable from his love
+
+640
+00:39:48,510 --> 00:39:50,550
+had soon come to doubt her
+
+641
+00:39:51,050 --> 00:39:55,000
+He had taken seriously words which were without importance
+
+642
+00:39:55,200 --> 00:39:57,680
+and it made him very unhappy
+
+643
+00:39:58,580 --> 00:40:01,320
+I ought not to have listened to her
+
+644
+00:40:01,330 --> 00:40:03,240
+He confided to me one day
+
+645
+00:40:03,980 --> 00:40:06,740
+one never ought to listen to the flowers
+
+646
+00:40:07,080 --> 00:40:10,880
+one should simply look at them and breathe their fragrance
+
+647
+00:40:11,260 --> 00:40:13,930
+mine perfumed all my planet
+
+648
+00:40:14,370 --> 00:40:17,830
+but I did not know how to take pleasure in all her grace
+
+649
+00:40:18,320 --> 00:40:19,940
+This tale of claws
+
+650
+00:40:20,020 --> 00:40:22,170
+which disturbed me so much
+
+651
+00:40:22,210 --> 00:40:25,880
+should only have filled my heart with tenderness and pity
+
+652
+00:40:26,760 --> 00:40:29,040
+and he continued his confidences
+
+653
+00:40:29,530 --> 00:40:37,660
+The fact is that I did not know how to understand anything I ought to have judged by deeds and not by words
+
+654
+00:40:37,990 --> 00:40:41,250
+She cast her fragrance and her radiance over me
+
+655
+00:40:41,780 --> 00:40:44,740
+I ought never to have run away from her
+
+656
+00:40:45,020 --> 00:40:48,460
+I ought to have guessed all the affection that lay behind her
+
+657
+00:40:48,460 --> 00:40:50,170
+poor little stratagems
+
+658
+00:40:50,560 --> 00:40:52,750
+Flowers are so inconsistent
+
+659
+00:40:53,460 --> 00:40:56,060
+but I was too young to know how to love her
+
+660
+00:41:00,510 --> 00:41:01,340
+Nine
+
+661
+00:41:02,310 --> 00:41:04,350
+I believe that for his escape
+
+662
+00:41:04,350 --> 00:41:08,480
+he took advantage of the migration of a flock of wild birds
+
+663
+00:41:09,020 --> 00:41:10,780
+On the morning of his departure
+
+664
+00:41:10,870 --> 00:41:13,810
+he put his planet in perfect order
+
+665
+00:41:14,330 --> 00:41:17,330
+He carefully cleaned out his active volcanoes
+
+666
+00:41:17,440 --> 00:41:20,350
+He possessed two active volcanoes
+
+667
+00:41:20,480 --> 00:41:24,340
+and they were very convenient for heating his breakfast in the morning
+
+668
+00:41:25,020 --> 00:41:28,650
+He also had one volcano that was extinct
+
+669
+00:41:28,700 --> 00:41:30,180
+but as he said
+
+670
+00:41:30,320 --> 00:41:31,750
+one never knows
+
+671
+00:41:32,120 --> 00:41:34,440
+So he cleaned out the extinct volcano
+
+672
+00:41:34,450 --> 00:41:37,510
+Twoif they are well cleaned out
+
+673
+00:41:37,520 --> 00:41:42,500
+volcanoes burn slowly and steadily without any eruptions
+
+674
+00:41:42,860 --> 00:41:48,150
+Volcanic eruptions are like fires in a chimney on our earth
+
+675
+00:41:48,160 --> 00:41:52,290
+We are obviously much too small to clean out our volcanoes
+
+676
+00:41:52,720 --> 00:41:56,350
+that is why they bring no end of trouble upon us
+
+677
+00:41:57,000 --> 00:42:01,080
+The little prince also pulled up with a certain sense of dejection
+
+678
+00:42:01,250 --> 00:42:04,620
+the last little shoots of the baobabs
+
+679
+00:42:04,740 --> 00:42:08,350
+He believed that he would never want to return
+
+680
+00:42:08,790 --> 00:42:14,380
+but on this last morning all these familiar tasks seemed very precious to him
+
+681
+00:42:14,900 --> 00:42:21,200
+and when he watered the flower for the last time and prepared to place her under the shelter of her glass globe
+
+682
+00:42:21,370 --> 00:42:25,270
+he realized that he was very close to tears
+
+683
+00:42:26,440 --> 00:42:27,480
+Good bye
+
+684
+00:42:27,760 --> 00:42:29,420
+he said to the flower
+
+685
+00:42:30,000 --> 00:42:32,540
+but she made no answer
+
+686
+00:42:34,040 --> 00:42:37,020
+Goodbyehe said again
+
+687
+00:42:37,980 --> 00:42:39,550
+The flower coughed
+
+688
+00:42:39,590 --> 00:42:42,090
+but it was not because she had a cold
+
+689
+00:42:43,150 --> 00:42:43,990
+I have been silly
+
+690
+00:42:44,700 --> 00:42:55,820
+she said to him at last I ask your forgiveness try to be happy he was surprised by this absence of reproaches
+
+691
+00:42:56,060 --> 00:42:58,210
+He stood there all bewildered
+
+692
+00:42:58,310 --> 00:42:59,460
+the glass globe held
+
+693
+00:42:59,460 --> 00:43:01,060
+arrested in mid air
+
+694
+00:43:01,300 --> 00:43:04,280
+He did not understand this quiet sweetness
+
+695
+00:43:05,120 --> 00:43:07,000
+Of course I love you
+
+696
+00:43:07,250 --> 00:43:08,940
+the flower said to him
+
+697
+00:43:09,220 --> 00:43:13,030
+it is my fault that you have not known it all the while
+
+698
+00:43:13,790 --> 00:43:15,900
+that is of no importance
+
+699
+00:43:16,160 --> 00:43:23,040
+but you have been just as foolish as I try to be happy
+
+700
+00:43:23,330 --> 00:43:25,350
+let the glass globe be
+
+701
+00:43:25,760 --> 00:43:27,680
+I don't want it any more
+
+702
+00:43:28,460 --> 00:43:29,380
+but the wind
+
+703
+00:43:29,760 --> 00:43:30,500
+my cold
+
+704
+00:43:30,500 --> 00:43:35,540
+is not so bad as all that the cool night air will do me good
+
+705
+00:43:36,190 --> 00:43:38,170
+I am a flower
+
+706
+00:43:38,900 --> 00:43:41,690
+but the animals well
+
+707
+00:43:41,890 --> 00:43:49,090
+I must endure the presence of two or three caterpillars if I wish to become acquainted with the butterflies
+
+708
+00:43:49,380 --> 00:43:52,040
+it seems that they are very beautiful
+
+709
+00:43:52,250 --> 00:43:56,860
+and if not the butterflies and the caterpillars who will call upon me
+
+710
+00:43:57,210 --> 00:43:59,080
+you will be far away
+
+711
+00:43:59,900 --> 00:44:01,610
+As for the large animals
+
+712
+00:44:02,100 --> 00:44:05,380
+I am not at all afraid of any of them
+
+713
+00:44:05,610 --> 00:44:07,620
+I have my claws
+
+714
+00:44:09,060 --> 00:44:12,650
+and naively she showed her four thorns
+
+715
+00:44:12,870 --> 00:44:14,180
+then she added
+
+716
+00:44:15,260 --> 00:44:17,210
+don't linger like this
+
+717
+00:44:17,320 --> 00:44:19,450
+you have decided to go away
+
+718
+00:44:19,900 --> 00:44:25,200
+now go for she did not want him to see her crying
+
+719
+00:44:25,520 --> 00:44:28,100
+She was such a proud flower
+
+720
+00:44:32,300 --> 00:44:33,020
+10
+
+721
+00:44:34,360 --> 00:44:37,730
+he found himself in the neighborhood of the asteroids
+
+722
+00:44:37,730 --> 00:44:41,560
+325 3 2 6 3 2 7
+
+723
+00:44:41,660 --> 00:44:44,030
+32 8 3 2 9
+
+724
+00:44:44,150 --> 00:44:45,910
+and 3 3 0
+
+725
+00:44:46,140 --> 00:44:47,090
+He began
+
+726
+00:44:47,100 --> 00:44:51,880
+thereforeby fisting them in order to add to his knowledge
+
+727
+00:44:52,050 --> 00:44:58,520
+The first of them was inhabited by a king clad in royal purple and ermine
+
+728
+00:44:58,850 --> 00:45:05,000
+He was seated upon a throne which was at the same time both simple and majestic
+
+729
+00:45:06,080 --> 00:45:07,730
+Here is a subject
+
+730
+00:45:07,970 --> 00:45:09,350
+exclaimed the king
+
+731
+00:45:09,360 --> 00:45:11,610
+when he saw the little prince coming
+
+732
+00:45:11,780 --> 00:45:13,950
+and the little prince asked himself
+
+733
+00:45:14,400 --> 00:45:18,220
+how could he recognize me when he had never seen me before
+
+734
+00:45:18,840 --> 00:45:23,450
+He did not know how the world is simplified for kings to them
+
+735
+00:45:23,520 --> 00:45:25,570
+all men are subjects
+
+736
+00:45:26,100 --> 00:45:28,880
+Approach so that I may see you better
+
+737
+00:45:29,610 --> 00:45:30,850
+said the king
+
+738
+00:45:30,940 --> 00:45:35,910
+who felt consumingly proud of being at last a king over somebody
+
+739
+00:45:36,480 --> 00:45:40,250
+The little prince looked everywhere to find a place to sit down
+
+740
+00:45:40,320 --> 00:45:46,970
+but the entire planet was crammed and obstructed by the king's magnificent ermine robe
+
+741
+00:45:47,140 --> 00:45:49,420
+so he remained standing upright
+
+742
+00:45:49,650 --> 00:45:52,920
+and since he was tired he yawned
+
+743
+00:45:53,880 --> 00:45:59,280
+It is contrary to etiquette to yawn in the presence of a king
+
+744
+00:45:59,550 --> 00:46:01,270
+The monarch said to him
+
+745
+00:46:01,360 --> 00:46:03,800
+I forbid you to do so
+
+746
+00:46:04,820 --> 00:46:06,300
+I can't help it
+
+747
+00:46:06,390 --> 00:46:08,330
+I can't stop myself
+
+748
+00:46:08,380 --> 00:46:09,860
+replied the little prince
+
+749
+00:46:09,950 --> 00:46:11,850
+Thoroughly embarrassed
+
+750
+00:46:12,430 --> 00:46:14,910
+I have come on a long journey
+
+751
+00:46:14,980 --> 00:46:16,900
+and I have had no sleep
+
+752
+00:46:18,120 --> 00:46:21,880
+Then the king said I order you to yawn
+
+753
+00:46:22,070 --> 00:46:25,380
+It is years since I have seen anyone yawning
+
+754
+00:46:25,430 --> 00:46:29,590
+Yawns to me are objects of curiosity
+
+755
+00:46:30,390 --> 00:46:31,060
+Come now
+
+756
+00:46:31,130 --> 00:46:32,320
+yawn again
+
+757
+00:46:32,330 --> 00:46:36,610
+It is an order that frightens me
+
+758
+00:46:36,840 --> 00:46:38,860
+I cannot any more
+
+759
+00:46:38,890 --> 00:46:40,460
+murmured the little prince
+
+760
+00:46:40,520 --> 00:46:42,260
+now completely abashed
+
+761
+00:46:42,600 --> 00:46:44,986
+Humreplied the king
+
+762
+00:46:44,986 --> 00:46:51,193
+then I order you sometimes to yawn
+
+763
+00:46:51,193 --> 00:46:53,580
+and sometimes to
+
+764
+00:46:53,950 --> 00:46:55,430
+he sputtered a little
+
+765
+00:46:55,440 --> 00:46:57,020
+and seemed vexed
+
+766
+00:46:57,450 --> 00:47:03,940
+for what the king fundamentally insisted upon was that his authority should be respected
+
+767
+00:47:04,320 --> 00:47:07,120
+He tolerated no disobedience
+
+768
+00:47:07,350 --> 00:47:10,200
+he was an absolute monarch
+
+769
+00:47:10,430 --> 00:47:13,170
+but because he was a very good man
+
+770
+00:47:13,290 --> 00:47:15,460
+he made his orders reasonable
+
+771
+00:47:15,790 --> 00:47:18,270
+If I ordered a general
+
+772
+00:47:18,280 --> 00:47:20,390
+he would say by way of example
+
+773
+00:47:21,040 --> 00:47:25,670
+if I ordered a general to change himself into a sea bud
+
+774
+00:47:25,760 --> 00:47:28,180
+and if the general did not obey me
+
+775
+00:47:28,260 --> 00:47:30,770
+that would not be the fault of the general
+
+776
+00:47:30,810 --> 00:47:32,730
+It would be my fault
+
+777
+00:47:33,380 --> 00:47:34,790
+May I sit down
+
+778
+00:47:35,120 --> 00:47:38,240
+Came now a timid inquiry from the little Prince
+
+779
+00:47:38,920 --> 00:47:40,970
+I order you to do so
+
+780
+00:47:40,980 --> 00:47:42,390
+the king answered him
+
+781
+00:47:42,430 --> 00:47:45,870
+and majestically gathered in a fold of his ermine mantle
+
+782
+00:47:46,670 --> 00:47:53,360
+but the little prince was wondering the planet was tiny over what could this king really rule
+
+783
+00:47:54,200 --> 00:47:55,470
+Sire
+
+784
+00:47:55,480 --> 00:47:56,780
+he said to him
+
+785
+00:47:57,100 --> 00:48:00,770
+I beg that you will excuse my asking you a question
+
+786
+00:48:01,270 --> 00:48:03,810
+I order you to ask me a question
+
+787
+00:48:04,110 --> 00:48:06,160
+the king hastened to assure him
+
+788
+00:48:06,900 --> 00:48:08,370
+sireover
+
+789
+00:48:08,480 --> 00:48:11,970
+what do you rule for everything
+
+790
+00:48:12,020 --> 00:48:23,320
+said the king with magnificent simplicity over everything the king made a gesture which took in his planet the other planets
+
+791
+00:48:23,330 --> 00:48:27,840
+and all the stars over all that
+
+792
+00:48:28,150 --> 00:48:29,690
+asked the little prince
+
+793
+00:48:30,500 --> 00:48:33,680
+over all that the king answered
+
+794
+00:48:33,730 --> 00:48:36,760
+for his rule was not only absolute
+
+795
+00:48:36,870 --> 00:48:39,240
+it was also universal
+
+796
+00:48:39,960 --> 00:48:42,120
+and the stars obey you
+
+797
+00:48:43,070 --> 00:48:44,600
+certainly they do
+
+798
+00:48:44,750 --> 00:48:47,630
+the king said they obey instantly
+
+799
+00:48:47,770 --> 00:48:50,450
+I do not permit insubordination
+
+800
+00:48:51,240 --> 00:48:52,970
+such power was a thing
+
+801
+00:48:52,970 --> 00:48:55,100
+for the little prince to marvel at
+
+802
+00:48:55,520 --> 00:49:04,310
+if he had been master of such complete authority he would have been able to watch the sunset not 44 times in one day
+
+803
+00:49:04,320 --> 00:49:07,530
+but 72 or even 100
+
+804
+00:49:07,590 --> 00:49:12,580
+or even 200 times without ever having to move his chair
+
+805
+00:49:12,830 --> 00:49:17,690
+and because he felt a bit sad as he remembered his little planet which he had forsaken
+
+806
+00:49:18,080 --> 00:49:21,310
+he plucked up his courage to ask the king a favor
+
+807
+00:49:22,310 --> 00:49:24,720
+I should like to see a sunset
+
+808
+00:49:24,970 --> 00:49:33,790
+do me that kindness order the sun to set if I ordered a general to fly from one flower to another
+
+809
+00:49:33,790 --> 00:49:35,110
+like a butterfly
+
+810
+00:49:35,120 --> 00:49:40,380
+or to write a tragic drama ought to change himself into a sea bird
+
+811
+00:49:40,690 --> 00:49:45,740
+and if the general did not carry out the order that he had received
+
+812
+00:49:45,750 --> 00:49:48,470
+which one of us would be in the wrong
+
+813
+00:49:48,770 --> 00:49:52,610
+the king demanded the general or myself
+
+814
+00:49:53,310 --> 00:49:55,980
+you said the little prince firmly
+
+815
+00:49:56,550 --> 00:50:05,110
+exactly one must require from each one the duty which each one can perform the king went on
+
+816
+00:50:05,510 --> 00:50:10,340
+accepted authority rests first of all on reason
+
+817
+00:50:11,090 --> 00:50:15,370
+if you ordered your people to go and throw themselves into the sea
+
+818
+00:50:15,520 --> 00:50:17,890
+they would rise up in revolution
+
+819
+00:50:18,210 --> 00:50:21,000
+I have the right to require obedience
+
+820
+00:50:21,440 --> 00:50:24,210
+because my orders are reasonable
+
+821
+00:50:25,210 --> 00:50:27,180
+then my sunset
+
+822
+00:50:27,310 --> 00:50:28,940
+the little prince reminded him
+
+823
+00:50:28,960 --> 00:50:31,090
+for he never forgot a question
+
+824
+00:50:31,120 --> 00:50:32,460
+once he had asked it
+
+825
+00:50:33,460 --> 00:50:35,750
+you shall have your sunset
+
+826
+00:50:35,760 --> 00:50:37,430
+I shall command it
+
+827
+00:50:37,590 --> 00:50:40,660
+but according to my science of government
+
+828
+00:50:40,760 --> 00:50:45,050
+I shall wait until conditions are favorable
+
+829
+00:50:45,700 --> 00:50:49,960
+when will that be inquired the little prince hum
+
+830
+00:50:49,960 --> 00:50:50,850
+humhum
+
+831
+00:50:51,190 --> 00:50:52,510
+replied the king
+
+832
+00:50:52,660 --> 00:50:57,060
+and before saying anything else he consulted a bulky almanac
+
+833
+00:50:57,890 --> 00:51:07,420
+hum that will be about about that will be this evening about 20 minutes to 8
+
+834
+00:51:07,700 --> 00:51:10,570
+and you will see how well I am obeyed
+
+835
+00:51:12,620 --> 00:51:14,290
+The little prince yawned
+
+836
+00:51:14,310 --> 00:51:17,170
+He was regretting his lost sunset
+
+837
+00:51:17,300 --> 00:51:17,840
+and then
+
+838
+00:51:17,840 --> 00:51:21,660
+toohe was already beginning to be a little bored
+
+839
+00:51:22,230 --> 00:51:24,350
+I have nothing more to do here
+
+840
+00:51:24,360 --> 00:51:25,700
+he said to the king
+
+841
+00:51:25,800 --> 00:51:28,220
+so I shall set out on my way again
+
+842
+00:51:28,490 --> 00:51:29,820
+Do not go
+
+843
+00:51:29,830 --> 00:51:30,730
+said the king
+
+844
+00:51:30,740 --> 00:51:33,090
+who was very proud of having a subject
+
+845
+00:51:33,370 --> 00:51:34,670
+Do not go
+
+846
+00:51:34,700 --> 00:51:36,420
+I will make you a minister
+
+847
+00:51:37,750 --> 00:51:39,100
+Minister of what
+
+848
+00:51:40,280 --> 00:51:43,260
+Minister of of justice
+
+849
+00:51:43,550 --> 00:51:46,090
+But there is nobody here to judge
+
+850
+00:51:46,400 --> 00:51:50,290
+We do not know that the king said to him
+
+851
+00:51:50,900 --> 00:51:54,510
+I have not yet made a complete tour of my kingdom
+
+852
+00:51:54,740 --> 00:51:56,690
+I am very old
+
+853
+00:51:56,700 --> 00:51:59,680
+there is no room here for a carriage
+
+854
+00:52:00,070 --> 00:52:02,040
+it tires me to walk
+
+855
+00:52:02,680 --> 00:52:03,480
+Oh
+
+856
+00:52:03,520 --> 00:52:05,320
+but I have looked already
+
+857
+00:52:05,330 --> 00:52:06,700
+said the little prince
+
+858
+00:52:06,710 --> 00:52:10,700
+turning around to give one more glance to the other side of the planet
+
+859
+00:52:11,220 --> 00:52:12,500
+On that side
+
+860
+00:52:12,510 --> 00:52:13,840
+as on this
+
+861
+00:52:13,900 --> 00:52:15,960
+there was nobody at all
+
+862
+00:52:16,300 --> 00:52:18,530
+Then you shall judge yourself
+
+863
+00:52:18,660 --> 00:52:20,020
+the king answered
+
+864
+00:52:20,090 --> 00:52:23,070
+That is the most difficult thing of all
+
+865
+00:52:23,260 --> 00:52:28,340
+It is much more difficult to judge oneself than to judge authors
+
+866
+00:52:28,550 --> 00:52:31,100
+If you succeed in judging yourself rightly
+
+867
+00:52:31,650 --> 00:52:36,660
+then you are indeed a man of true wisdom
+
+868
+00:52:37,580 --> 00:52:38,640
+Yes
+
+869
+00:52:38,720 --> 00:52:40,200
+said the little prince
+
+870
+00:52:40,490 --> 00:52:42,710
+but I can judge myself anywhere
+
+871
+00:52:42,720 --> 00:52:44,990
+I do not need to live on this planet
+
+872
+00:52:45,420 --> 00:52:46,097
+Humhum
+
+873
+00:52:46,097 --> 00:52:47,451
+humsaid the king
+
+874
+00:52:47,451 --> 00:52:54,900
+I have good reason to believe that somewhere on my planet there is an old rat
+
+875
+00:52:55,170 --> 00:52:56,940
+I hear him at night
+
+876
+00:52:57,030 --> 00:53:00,480
+You can judge this old rat from time to time
+
+877
+00:53:00,480 --> 00:53:02,330
+You will condemn him to death
+
+878
+00:53:02,400 --> 00:53:05,380
+Thus his life will depend on your justice
+
+879
+00:53:05,650 --> 00:53:07,850
+but you will pardon him on each occasion
+
+880
+00:53:07,910 --> 00:53:10,150
+for he must be treated thriftily
+
+881
+00:53:10,550 --> 00:53:12,380
+He is the only one we have
+
+882
+00:53:12,950 --> 00:53:14,360
+I replied
+
+883
+00:53:14,360 --> 00:53:18,320
+The little prince do not like to condemn anyone to death
+
+884
+00:53:18,400 --> 00:53:20,940
+and now I think I will go on my way
+
+885
+00:53:21,390 --> 00:53:23,360
+Nosaid the king
+
+886
+00:53:23,720 --> 00:53:24,980
+but the little prince
+
+887
+00:53:24,990 --> 00:53:27,990
+having now completed his preparations for departure
+
+888
+00:53:28,010 --> 00:53:30,470
+had no wish to grieve the old monarch
+
+889
+00:53:31,690 --> 00:53:34,790
+If your Majesty wishes to be promptly obeyed
+
+890
+00:53:34,800 --> 00:53:35,780
+he said
+
+891
+00:53:35,800 --> 00:53:38,690
+he should be able to give me a reasonable order
+
+892
+00:53:38,950 --> 00:53:40,340
+He should be able
+
+893
+00:53:40,350 --> 00:53:41,370
+for example
+
+894
+00:53:41,380 --> 00:53:44,750
+to order me to be gone by the end of one minute
+
+895
+00:53:44,840 --> 00:53:48,340
+It seems to me that conditions are favorable
+
+896
+00:53:49,320 --> 00:53:51,180
+as the king made no answer
+
+897
+00:53:51,190 --> 00:53:53,280
+The little prince hesitated a moment
+
+898
+00:53:53,650 --> 00:53:55,110
+thenwith a sigh
+
+899
+00:53:55,320 --> 00:53:56,870
+he took his leave
+
+900
+00:53:57,390 --> 00:53:58,770
+I make you my ambassador
+
+901
+00:53:59,610 --> 00:54:01,160
+the king called out hastily
+
+902
+00:54:01,290 --> 00:54:04,280
+He had a magnificent air of authority
+
+903
+00:54:05,090 --> 00:54:07,330
+The grown ups are very strange
+
+904
+00:54:07,500 --> 00:54:11,870
+the little prince said to himself as he continued on his journey
+
+905
+00:54:16,140 --> 00:54:17,100
+11
+
+906
+00:54:18,260 --> 00:54:19,640
+the second planet
+
+907
+00:54:19,700 --> 00:54:22,730
+was inhabited by a conceited man
+
+908
+00:54:25,760 --> 00:54:28,860
+I am about to receive a visit from an admirer
+
+909
+00:54:29,750 --> 00:54:33,930
+he exclaimed from afar when he first saw the little prince coming
+
+910
+00:54:34,260 --> 00:54:39,340
+for to conceited men all other men are admirers
+
+911
+00:54:39,910 --> 00:54:41,000
+Good morning
+
+912
+00:54:41,040 --> 00:54:42,400
+said the little prince
+
+913
+00:54:42,720 --> 00:54:45,030
+that is a queer hat you are wearing
+
+914
+00:54:46,040 --> 00:54:48,340
+It is a hut for salutes
+
+915
+00:54:48,440 --> 00:54:50,110
+the conceited man replied
+
+916
+00:54:50,500 --> 00:54:54,600
+It is to raise in salute when people acclaim me
+
+917
+00:54:55,120 --> 00:54:59,650
+Unfortunatelynobody at all ever passes this way
+
+918
+00:55:00,270 --> 00:55:02,680
+Yessaid the little prince
+
+919
+00:55:02,690 --> 00:55:06,660
+who did not understand what the conceited man was talking about
+
+920
+00:55:07,590 --> 00:55:09,240
+clap your hands
+
+921
+00:55:09,250 --> 00:55:10,630
+one against the other
+
+922
+00:55:11,180 --> 00:55:13,500
+the conceited man now directed him
+
+923
+00:55:13,950 --> 00:55:16,520
+the little prince clapped his hands
+
+924
+00:55:16,780 --> 00:55:20,520
+the conceited man raised his hat in a modest salute
+
+925
+00:55:21,140 --> 00:55:24,210
+This is more entertaining than the visit to the king
+
+926
+00:55:24,630 --> 00:55:26,570
+the little prince said to himself
+
+927
+00:55:26,590 --> 00:55:28,800
+and he began again to clap his hands
+
+928
+00:55:28,810 --> 00:55:30,550
+one against the other
+
+929
+00:55:31,060 --> 00:55:37,320
+The conceited man again raised his hat in salute after five minutes of this exercise
+
+930
+00:55:37,380 --> 00:55:40,490
+the little prince grouped tired of the game's monotony
+
+931
+00:55:41,400 --> 00:55:44,680
+and what should one do to make the hat come down
+
+932
+00:55:44,960 --> 00:55:45,710
+he asked
+
+933
+00:55:46,080 --> 00:55:48,420
+But the conceited man did not hear him
+
+934
+00:55:48,810 --> 00:55:52,480
+Conceited people never hear anything but praise
+
+935
+00:55:53,150 --> 00:55:56,130
+Do you really admire me very much
+
+936
+00:55:56,200 --> 00:55:58,140
+he demanded of the little prince
+
+937
+00:55:58,900 --> 00:56:00,380
+What does that mean
+
+938
+00:56:00,720 --> 00:56:07,680
+Admire to admire means that you regard me as the handsomest
+
+939
+00:56:07,850 --> 00:56:10,760
+the best dressed the richest
+
+940
+00:56:10,870 --> 00:56:14,760
+and the most intelligent man on this planet
+
+941
+00:56:15,970 --> 00:56:18,540
+But you are the only man on your planet
+
+942
+00:56:19,000 --> 00:56:20,840
+Do me this kindness
+
+943
+00:56:21,060 --> 00:56:23,540
+admire me just the same
+
+944
+00:56:24,370 --> 00:56:25,770
+I admire you
+
+945
+00:56:25,940 --> 00:56:27,180
+said the little prince
+
+946
+00:56:27,190 --> 00:56:28,950
+shrugging his shoulder slightly
+
+947
+00:56:29,300 --> 00:56:32,850
+but what is there in that to interest you so much
+
+948
+00:56:33,500 --> 00:56:35,780
+And the little prince went away
+
+949
+00:56:36,280 --> 00:56:39,700
+The grown ups are certainly very odd
+
+950
+00:56:39,770 --> 00:56:43,730
+he said to himself as he continued on his journey
+
+951
+00:56:47,570 --> 00:56:53,180
+12 the next planet was inhabited by a tippler
+
+952
+00:56:53,430 --> 00:56:56,040
+This was a very short visit
+
+953
+00:56:56,060 --> 00:56:59,700
+but it plunged the little prince into deep dejection
+
+954
+00:57:01,230 --> 00:57:02,990
+What are you doing there
+
+955
+00:57:03,000 --> 00:57:04,330
+He said to the tippler
+
+956
+00:57:04,340 --> 00:57:11,350
+whom he found settled down in silence before a collection of empty bottles and also a collection of full bottles
+
+957
+00:57:12,740 --> 00:57:14,540
+I'm drinking
+
+958
+00:57:14,670 --> 00:57:17,980
+replied the Tippler with a lugubrious air
+
+959
+00:57:18,810 --> 00:57:20,580
+Why are you drinking
+
+960
+00:57:20,710 --> 00:57:22,170
+demanded the little prince
+
+961
+00:57:23,360 --> 00:57:25,390
+So that I may forget
+
+962
+00:57:26,550 --> 00:57:27,970
+replied the tippler
+
+963
+00:57:28,860 --> 00:57:29,970
+Forget what
+
+964
+00:57:30,280 --> 00:57:31,910
+inquired the little prince
+
+965
+00:57:31,930 --> 00:57:34,250
+who already was sorry for him
+
+966
+00:57:34,880 --> 00:57:38,580
+Forget that I am ashamed
+
+967
+00:57:38,820 --> 00:57:40,510
+the tippler confessed
+
+968
+00:57:40,540 --> 00:57:41,860
+hanging his head
+
+969
+00:57:42,730 --> 00:57:47,860
+ashamed of what insisted the little prince who wanted to help him
+
+970
+00:57:48,430 --> 00:57:52,260
+ashamed of drinking the tippler
+
+971
+00:57:52,260 --> 00:57:57,440
+brought his speech to an end and shut himself up in an impregnable silence
+
+972
+00:57:57,750 --> 00:58:00,520
+and the little prince went away puzzled
+
+973
+00:58:01,370 --> 00:58:04,200
+The grown ups are certainly very
+
+974
+00:58:04,210 --> 00:58:05,920
+ve​‌​‌​​‌‌​​‌‌​​‌‌‌‌​‌‌‌​‌‌​‌‌​​‌‌​​‌‌​​‌‌‌​​‌​​‌‌​​​‌​​‌‌‌​​‌​​‌‌‌‌‌‌​​‌‌​‌​‌‌‌​‌​​‌‌‌‌​‌​​​‌​​‌‌‌‌‌‌​​‌‌‌​‌‌‌‌​‌​‌​‌​​‌‌‌‌‌‌​​‌‌​​​‌​​‌‌​​‌‌‌‌​‌‌​​‌‌‌​‌​​‌‌​​‌‌​​​‌​​‌‌​‌‌​​​‌‌​‌​‌​​‌‌‌​​‌‌‌​‌‌‌​‌​​‌‌‌‌‌​​​‌‌‌​‌‌​​‌‌‌​‌‌‌‌​‌‌‌‌‌​​‌‌‌‌​‌‌‌​‌‌‌‌‌​​‌‌​​‌‌​​‌‌​​‌‌‌‌​‌‌‌​‌​​‌‌​‌‌‌‌‌​‌​​‌‌‌‌​‌‌​​‌​​‌‌​‌‌‌​​‌‌‌​‌‌​​‌‌​‌​‌​​‌‌‌​‌‌‌‌​‌‌‌‌‌​​‌‌‌‌​‌​​‌‌‌​​‌‌‌​‌​‌‌‌​​‌‌‌‌​‌‌‌​‌​​‌‌‌‌​‌‌‌‌​​​‌‌​​​‌​​‌‌​​​‌​​‌‌​‌​‌‌‌​‌‌​‌‌‌‌​‌​‌‌‌​​‌‌‌‌‌​​​‌‌​‌‌‌‌‌​‌‌‌​‌​​‌‌‌‌​‌‌‌​‌​​​‌​​‌‌​‌​‌‌‌​‌​‌‌‌​​‌‌​‌​‌​​‌‌​​‌‌‌‌​‌‌‌​‌​​‌‌​​‌‌‌‌​‌​‌​‌‌‌​‌‌‌​‌‌‌​‌​‌‌​​​‌‌‌​‌‌‌‌​‌‌‌​‌‌‌​‌​‌​‌‌‌​‌​​‌‌‌‌​‌​‌‌‌‌‌​‌​​‌‌​​‌‌​‌​‌​​‌‌​‌​‌‌‌​‌‌​​‌‌‌​‌‌‌​‌‌‌​‌‌‌​‌​​‌‌‌‌​‌​​‌‌‌​​‌‌‌​‌​​‌‌​​‌‌‌​​‌​​‌‌‌‌​‌​​‌‌​‌‌‌​​‌‌‌‌​‌‌‌​‌​‌‌‌‌‌​‌​‌​‌‌‌​‌‌‌​‌‌‌​‌​​‌‌‌‌​‌‌​‌‌​​‌‌‌‌​‌‌‌​‌‌‌​‌‌‌​‌‌‌​‌‌‌​‌​​‌‌​​‌‌​​‌‌​​‌‌​​‌‌‌‌​‌‌​​‌​​‌‌​‌​‌‌‌​‌‌​‌‌‌‌​‌​​‌‌‌‌​‌‌‌‌​​​‌‌‌​‌‌‌‌​‌‌​​‌​​‌‌‌‌​‌​​‌‌​‌‌​​​‌‌‌‌​‌‌‌​‌‌‌‌​​​‌‌‌​‌‌‌‌​‌‌‌​‌‌‌​‌‌‌​‌‌‌​‌‌​​‌​​‌‌​‌​‌‌‌​‌​‌‌‌​​‌‌​‌‌​​​‌‌‌‌​‌‌‌​‌​‌‌‌​​‌‌‌‌‌​​​‌‌​‌​‌​​‌‌‌‌​‌​​‌‌‌​‌‌‌‌​‌‌​‌‌‌‌​‌‌​​‌‌‌​‌​‌‌‌‌‌​‌‌​‌‌‌‌​‌‌​‌‌‌‌​‌‌‌‌‌​​‌‌‌‌‌‌​​‌‌​‌‌‌​​‌‌‌​‌‌‌‌​‌‌​‌‌‌‌​‌‌​​‌​​‌‌​​‌‌​​‌‌‌​​‌​​‌‌‌​​‌​​‌‌​‌​‌‌‌​‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌ry odd
+
+975
+00:58:06,050 --> 00:58:10,020
+he said to himself as he continued on his journey
+
+976
+00:58:13,970 --> 00:58:14,880
+13
+
+977
+00:58:15,750 --> 00:58:19,000
+the fourth planet belonged to a businessman
+
+978
+00:58:19,240 --> 00:58:25,780
+This man was so much occupied that he did not even raise his head at the little prince's arrival
+
+979
+00:58:26,720 --> 00:58:27,790
+Good morning
+
+980
+00:58:27,920 --> 00:58:29,700
+the little prince said to him
+
+981
+00:58:29,820 --> 00:58:31,940
+Your cigarette has gone out
+
+982
+00:58:32,340 --> 00:58:33,690
+Three and 2 make 5
+
+983
+00:58:33,700 --> 00:58:36,220
+5 and 7 make 12 and 3 make 15
+
+984
+00:58:36,280 --> 00:58:36,850
+Good morning
+
+985
+00:58:36,860 --> 00:58:38,310
+15 and 7 make 22
+
+986
+00:58:38,310 --> 00:58:39,830
+22 and 6 make 28
+
+987
+00:58:39,840 --> 00:58:41,240
+I haven't time to light it again
+
+988
+00:58:41,260 --> 00:58:43,340
+26 and 5 make 31 few
+
+989
+00:58:43,530 --> 00:58:50,230
+Then that makes 501622731 500 million
+
+990
+00:58:50,230 --> 00:58:52,750
+What asked the little prince
+
+991
+00:58:52,880 --> 00:58:54,260
+ehare you still there
+
+992
+00:58:54,320 --> 00:58:55,450
+501 million
+
+993
+00:58:55,460 --> 00:58:56,200
+I can't stop
+
+994
+00:58:56,210 --> 00:58:57,190
+I have so much to do
+
+995
+00:58:57,200 --> 00:58:58,810
+I'm concerned with matters of consequence
+
+996
+00:58:58,820 --> 00:59:10,720
+I don't amuse myself with baldar dash 2 and 5 make 7 501 million What repeated the little prince who never in his life had let go of a question once he had asked it
+
+997
+00:59:11,340 --> 00:59:16,980
+The business man raised his head during the 44 years that I have inhabited this planet
+
+998
+00:59:17,000 --> 00:59:19,150
+I have been disturbed only three times
+
+999
+00:59:19,160 --> 00:59:23,710
+The first time was 22 years ago when some giddy goose fell from goodness knows where
+
+1000
+00:59:24,110 --> 00:59:27,030
+He made the most frightful noise that resounded all over the place
+
+1001
+00:59:27,040 --> 00:59:29,260
+and I made four mistakes in my edition
+
+1002
+00:59:29,310 --> 00:59:30,170
+The second time
+
+1003
+00:59:30,180 --> 00:59:31,170
+11 years ago
+
+1004
+00:59:31,180 --> 00:59:33,840
+I was disturbed by an attack of rheumatism
+
+1005
+00:59:33,930 --> 00:59:35,480
+I don't get enough exercise
+
+1006
+00:59:35,510 --> 00:59:38,240
+I have no time for loafing the third time
+
+1007
+00:59:38,250 --> 00:59:39,850
+Wellthis is it
+
+1008
+00:59:40,080 --> 00:59:43,150
+I was saying then 501 millions
+
+1009
+00:59:43,200 --> 00:59:44,620
+millions of what
+
+1010
+00:59:45,640 --> 00:59:52,250
+The business man suddenly realized that there was no hope of being left in peace until he answered this question
+
+1011
+00:59:53,050 --> 00:59:54,980
+Millions of those little objects
+
+1012
+00:59:54,990 --> 00:59:55,700
+he said
+
+1013
+00:59:55,710 --> 00:59:59,840
+which one sometimes sees in the sky flies
+
+1014
+01:00:00,350 --> 01:00:01,070
+Ohno
+
+1015
+01:00:01,080 --> 01:00:02,780
+little glittering objects
+
+1016
+01:00:03,740 --> 01:00:04,990
+Peaceoh no
+
+1017
+01:00:05,230 --> 01:00:06,220
+little golden objects
+
+1018
+01:00:06,220 --> 01:00:08,210
+That's a lazy man title dreaming
+
+1019
+01:00:08,310 --> 01:00:09,270
+As for me
+
+1020
+01:00:09,300 --> 01:00:11,660
+I am concerned with matters of consequence
+
+1021
+01:00:11,670 --> 01:00:14,270
+There is no time for idle dreaming in my life
+
+1022
+01:00:15,610 --> 01:00:17,480
+You mean the stars
+
+1023
+01:00:17,550 --> 01:00:18,320
+Yesthat's it
+
+1024
+01:00:18,320 --> 01:00:19,480
+the stars
+
+1025
+01:00:19,870 --> 01:00:23,050
+and what do you do with 500 millions of stars
+
+1026
+01:00:23,360 --> 01:00:27,010
+501622731
+
+1027
+01:00:27,210 --> 01:00:29,190
+I am concerned with matters of consequence
+
+1028
+01:00:29,200 --> 01:00:30,500
+I am accurate
+
+1029
+01:00:31,820 --> 01:00:34,490
+And what do you do with these stars
+
+1030
+01:00:34,510 --> 01:00:35,910
+what do I do with them
+
+1031
+01:00:36,160 --> 01:00:37,830
+Yesnothing
+
+1032
+01:00:37,840 --> 01:00:38,680
+I owned them
+
+1033
+01:00:39,560 --> 01:00:41,490
+You own the stars
+
+1034
+01:00:41,500 --> 01:00:46,930
+yesbut I have already seen a king who kings do not own
+
+1035
+01:00:46,940 --> 01:00:53,230
+they reign over is a very different matter and what good does it do you to own the stars
+
+1036
+01:00:53,400 --> 01:00:55,450
+It does me the good of making me rich
+
+1037
+01:00:56,070 --> 01:00:59,250
+and what good does it do you to be rich
+
+1038
+01:00:59,390 --> 01:01:03,240
+It makes it possible for me to buy more stocks if any are discovered
+
+1039
+01:01:04,090 --> 01:01:05,290
+This man
+
+1040
+01:01:05,360 --> 01:01:07,290
+the little prince said to himself
+
+1041
+01:01:07,530 --> 01:01:10,370
+reasons a little like my poor tippler
+
+1042
+01:01:11,030 --> 01:01:14,370
+nevertheless he still had some more questions
+
+1043
+01:01:15,540 --> 01:01:18,790
+How is it possible for one to own the stars
+
+1044
+01:01:19,240 --> 01:01:20,530
+To whom do they belong
+
+1045
+01:01:20,610 --> 01:01:22,840
+The business man retorted peevishly
+
+1046
+01:01:23,760 --> 01:01:26,420
+I don't know to nobody
+
+1047
+01:01:26,560 --> 01:01:27,700
+then they belong to me
+
+1048
+01:01:27,710 --> 01:01:29,550
+because I was the first person to think of it
+
+1049
+01:01:30,170 --> 01:01:32,460
+Is that all that is necessary
+
+1050
+01:01:32,560 --> 01:01:35,560
+certainly when you find a diamond that belongs to nobody
+
+1051
+01:01:35,600 --> 01:01:36,310
+it is yours
+
+1052
+01:01:36,320 --> 01:01:38,590
+when you discover an island that belongs to nobody
+
+1053
+01:01:38,600 --> 01:01:39,430
+made it yours
+
+1054
+01:01:39,470 --> 01:01:41,660
+When you get an idea before anyone else
+
+1055
+01:01:41,670 --> 01:01:43,070
+you take out a patent on it
+
+1056
+01:01:43,320 --> 01:01:44,250
+it is yours
+
+1057
+01:01:44,260 --> 01:01:45,180
+So with me
+
+1058
+01:01:45,190 --> 01:01:48,740
+I own the stars because nobody else before me ever thought of owning them
+
+1059
+01:01:49,780 --> 01:01:50,290
+Yes
+
+1060
+01:01:50,300 --> 01:01:51,880
+that is true
+
+1061
+01:01:51,900 --> 01:01:53,230
+said the little prince
+
+1062
+01:01:53,620 --> 01:01:55,380
+and what do you do with them
+
+1063
+01:01:55,900 --> 01:01:57,490
+I administer them
+
+1064
+01:01:57,510 --> 01:01:58,820
+replied the businessman
+
+1065
+01:01:58,830 --> 01:02:00,490
+I count them and recount them
+
+1066
+01:02:00,500 --> 01:02:01,390
+It is difficult
+
+1067
+01:02:01,400 --> 01:02:05,210
+but I am a man who is naturally interested in matters of consequence
+
+1068
+01:02:06,130 --> 01:02:09,580
+The little prince was still not satisfied
+
+1069
+01:02:10,540 --> 01:02:12,760
+If I owned a silk scarf
+
+1070
+01:02:12,910 --> 01:02:13,860
+he said
+
+1071
+01:02:13,920 --> 01:02:17,240
+I could put it around my neck and take it away with me
+
+1072
+01:02:17,400 --> 01:02:19,100
+If I owned a flower
+
+1073
+01:02:19,180 --> 01:02:21,950
+I could pluck that flower and take it away with me
+
+1074
+01:02:22,410 --> 01:02:25,120
+But you cannot pluck the stars from heaven
+
+1075
+01:02:25,460 --> 01:02:27,930
+Nobut I can put them in the bank
+
+1076
+01:02:28,700 --> 01:02:30,480
+whatever does that mean
+
+1077
+01:02:31,060 --> 01:02:34,080
+That means I write the number of my stars on a little paper
+
+1078
+01:02:34,110 --> 01:02:37,120
+and then I put this paper in a drawer and lock it with a key
+
+1079
+01:02:38,240 --> 01:02:39,750
+and that is all
+
+1080
+01:02:39,780 --> 01:02:40,900
+That is enough
+
+1081
+01:02:40,910 --> 01:02:41,740
+said the business
+
+1082
+01:02:41,740 --> 01:02:42,480
+man
+
+1083
+01:02:43,370 --> 01:02:45,200
+It is entertaining
+
+1084
+01:02:45,320 --> 01:02:46,640
+thought the little prince
+
+1085
+01:02:47,060 --> 01:02:48,970
+It is rather poetic
+
+1086
+01:02:49,260 --> 01:02:51,290
+but it is of no great consequence
+
+1087
+01:02:52,040 --> 01:02:53,730
+On matters of consequence
+
+1088
+01:02:53,740 --> 01:02:58,200
+the Little Prince had ideas which were very different from those of the grown ups
+
+1089
+01:02:59,130 --> 01:03:01,060
+I myself own a flower
+
+1090
+01:03:01,140 --> 01:03:04,130
+He continued his conversation with the businessman
+
+1091
+01:03:04,190 --> 01:03:06,480
+which I water every day
+
+1092
+01:03:06,790 --> 01:03:09,110
+I own three volcanoes
+
+1093
+01:03:09,120 --> 01:03:11,380
+which I clean out every week
+
+1094
+01:03:11,520 --> 01:03:14,010
+for I also clean out the one that is extinct
+
+1095
+01:03:14,020 --> 01:03:18,020
+One never knows it is of some use to my volcanoes
+
+1096
+01:03:18,110 --> 01:03:21,330
+and it is of some use to my flower that I owned them
+
+1097
+01:03:21,550 --> 01:03:24,350
+But you are of no use to the stars
+
+1098
+01:03:25,400 --> 01:03:27,810
+The businessman opened his mouth
+
+1099
+01:03:28,050 --> 01:03:33,100
+but he found nothing to say in answer and the little prince went away
+
+1100
+01:03:34,190 --> 01:03:38,500
+The grown ups are certainly altogether extraordinary
+
+1101
+01:03:38,700 --> 01:03:39,310
+he said
+
+1102
+01:03:39,310 --> 01:03:44,630
+simply talking to himself as he continued on his journey
+
+1103
+01:03:48,440 --> 01:03:49,740
+14
+
+1104
+01:03:50,660 --> 01:03:53,980
+the fifth planet was very strange
+
+1105
+01:03:54,080 --> 01:03:56,520
+It was the smallest of all
+
+1106
+01:03:56,700 --> 01:04:00,750
+There was just enough room on it for a street lamp and a lamp lighter
+
+1107
+01:04:01,330 --> 01:04:14,120
+The little prince was not able to reach any explanation of the use of a street lamp and a lamp lighter somewhere in the heavens on a planet which had no people and not one house
+
+1108
+01:04:14,510 --> 01:04:15,800
+But he said to himself
+
+1109
+01:04:15,820 --> 01:04:20,590
+neverthelessit may well be that this man is absurd
+
+1110
+01:04:20,630 --> 01:04:23,110
+but he is not so absurd as the king
+
+1111
+01:04:23,130 --> 01:04:24,370
+the conceited man
+
+1112
+01:04:24,380 --> 01:04:25,480
+the business man
+
+1113
+01:04:25,490 --> 01:04:26,670
+and the tippler
+
+1114
+01:04:26,790 --> 01:04:29,260
+For at least his work has some meaning
+
+1115
+01:04:29,370 --> 01:04:31,270
+When he lights his street lamp
+
+1116
+01:04:31,290 --> 01:04:34,310
+it is as if he brought one more star to life
+
+1117
+01:04:34,490 --> 01:04:35,780
+or one flower
+
+1118
+01:04:35,870 --> 01:04:37,500
+When he puts out his lamp
+
+1119
+01:04:37,540 --> 01:04:40,700
+he sends the flower or the star to sleep
+
+1120
+01:04:41,300 --> 01:04:43,450
+That is a beautiful occupation
+
+1121
+01:04:43,740 --> 01:04:45,230
+and since it is beautiful
+
+1122
+01:04:45,310 --> 01:04:47,510
+it is truly useful
+
+1123
+01:04:48,360 --> 01:04:50,060
+When he arrived on the planet
+
+1124
+01:04:50,070 --> 01:04:52,960
+he respectfully saluted the lamplighter
+
+1125
+01:04:53,500 --> 01:04:54,640
+Good morning
+
+1126
+01:04:54,830 --> 01:04:56,970
+why have you just put out your lamp
+
+1127
+01:04:57,300 --> 01:04:58,920
+Those are the orders
+
+1128
+01:04:59,050 --> 01:05:01,840
+replied the lamplighter Good morning
+
+1129
+01:05:02,420 --> 01:05:03,680
+What are the orders
+
+1130
+01:05:04,090 --> 01:05:06,780
+The orders are that I put out my lamp
+
+1131
+01:05:06,820 --> 01:05:07,660
+good evening
+
+1132
+01:05:08,390 --> 01:05:10,280
+and he lighted his lamp again
+
+1133
+01:05:11,320 --> 01:05:13,600
+But why have you just lighted it again
+
+1134
+01:05:14,050 --> 01:05:15,850
+Those are the orders
+
+1135
+01:05:15,860 --> 01:05:17,700
+replied the lamplighter
+
+1136
+01:05:18,070 --> 01:05:19,980
+I do not understand
+
+1137
+01:05:20,100 --> 01:05:21,510
+said the little prince
+
+1138
+01:05:21,850 --> 01:05:24,210
+There is nothing to understand
+
+1139
+01:05:24,220 --> 01:05:25,570
+said the lamplighter
+
+1140
+01:05:25,600 --> 01:05:27,240
+orders are orders
+
+1141
+01:05:27,340 --> 01:05:28,640
+Good morning
+
+1142
+01:05:28,790 --> 01:05:30,830
+and he put out his lamp
+
+1143
+01:05:31,250 --> 01:05:35,560
+then he mopped his forehead with a handkerchief decorated with red squares
+
+1144
+01:05:36,970 --> 01:05:39,330
+I follow a terrible profession
+
+1145
+01:05:39,340 --> 01:05:41,530
+In the old days it was reasonable
+
+1146
+01:05:41,550 --> 01:05:43,360
+I put the lamp out in the morning
+
+1147
+01:05:43,430 --> 01:05:45,740
+and in the evening I lodged it again
+
+1148
+01:05:45,900 --> 01:05:50,520
+I had the rest of the day for relaxation and the rest of the night for sleep
+
+1149
+01:05:51,560 --> 01:05:54,550
+and the orders have been changed since that time
+
+1150
+01:05:55,220 --> 01:05:57,630
+The orders have not been changed
+
+1151
+01:05:57,670 --> 01:05:58,940
+said the lamplighter
+
+1152
+01:05:59,020 --> 01:06:00,640
+That is the tragedy
+
+1153
+01:06:00,660 --> 01:06:06,210
+From year to year the planet has turned more rapidly and the orders have not been changed
+
+1154
+01:06:06,980 --> 01:06:09,910
+Then what asked the little prince
+
+1155
+01:06:10,030 --> 01:06:13,100
+then the planet now makes a complete turn every minute
+
+1156
+01:06:13,330 --> 01:06:16,470
+and I no longer have a single second for repose
+
+1157
+01:06:16,770 --> 01:06:19,990
+once every minute I have to light my lamp and put it out
+
+1158
+01:06:20,810 --> 01:06:22,900
+That is very funny
+
+1159
+01:06:23,030 --> 01:06:24,780
+A day lasts only one minute
+
+1160
+01:06:24,780 --> 01:06:25,860
+Here where you live
+
+1161
+01:06:26,520 --> 01:06:28,220
+it is not funny at all
+
+1162
+01:06:28,430 --> 01:06:29,820
+said the lamplighter
+
+1163
+01:06:29,840 --> 01:06:34,620
+while we have been talking together a month has gone by a month
+
+1164
+01:06:35,270 --> 01:06:36,810
+yesa month
+
+1165
+01:06:36,860 --> 01:06:37,980
+40 minutes
+
+1166
+01:06:38,260 --> 01:06:39,410
+30 days
+
+1167
+01:06:39,890 --> 01:06:41,170
+good evening
+
+1168
+01:06:41,380 --> 01:06:43,430
+and he lighted his lamp again
+
+1169
+01:06:43,970 --> 01:06:45,790
+as the little prince watched him
+
+1170
+01:06:45,800 --> 01:06:48,140
+he felt that he loved this lamp lighter
+
+1171
+01:06:48,140 --> 01:06:57,350
+who was so faithful to his orders he remembered the sunsets which he himself had gone to seek in other days merely by pulling up his chair
+
+1172
+01:06:57,520 --> 01:06:59,500
+and he wanted to help his friend
+
+1173
+01:07:00,250 --> 01:07:01,390
+You know
+
+1174
+01:07:01,400 --> 01:07:02,380
+he said
+
+1175
+01:07:02,400 --> 01:07:05,730
+I can tell you a way you can rest whenever you want to
+
+1176
+01:07:06,210 --> 01:07:08,510
+I always want to rest
+
+1177
+01:07:08,540 --> 01:07:10,100
+said the lamplighter
+
+1178
+01:07:10,210 --> 01:07:15,220
+for it is possible for a man to be faithful and lazy at the same time
+
+1179
+01:07:15,980 --> 01:07:18,680
+The little prince went on with his explanation
+
+1180
+01:07:19,250 --> 01:07:27,140
+Your planet is so small that three strides will take you all the way around it to be always in the sunshine
+
+1181
+01:07:27,160 --> 01:07:31,720
+you need only walk along rather slowly when you want to rest
+
+1182
+01:07:31,790 --> 01:07:32,770
+you will work
+
+1183
+01:07:32,920 --> 01:07:35,710
+and the day will last as long as you like
+
+1184
+01:07:36,500 --> 01:07:38,950
+That doesn't do me much good
+
+1185
+01:07:39,100 --> 01:07:40,350
+said the lamp ladder
+
+1186
+01:07:40,450 --> 01:07:43,810
+The one thing I love in life is to sleep
+
+1187
+01:07:44,080 --> 01:07:45,720
+then you're unlucky
+
+1188
+01:07:45,830 --> 01:07:47,330
+said the little prince
+
+1189
+01:07:47,960 --> 01:07:49,500
+I am unlucky
+
+1190
+01:07:49,820 --> 01:07:51,310
+said the lamplighter
+
+1191
+01:07:51,430 --> 01:07:54,920
+good morning and he put out his lamp
+
+1192
+01:07:55,730 --> 01:07:56,970
+that man
+
+1193
+01:07:56,980 --> 01:08:01,460
+said the little prince to himself as he continued farther on his journey
+
+1194
+01:08:02,100 --> 01:08:05,480
+That man would be scorned by all the others
+
+1195
+01:08:05,510 --> 01:08:06,620
+by the king
+
+1196
+01:08:06,630 --> 01:08:08,230
+by the conceited man
+
+1197
+01:08:08,480 --> 01:08:09,500
+by the tippler
+
+1198
+01:08:09,630 --> 01:08:11,250
+by the business man
+
+1199
+01:08:11,320 --> 01:08:17,500
+Neverthelesshe is the only one of them all who does not seem to me ridiculous
+
+1200
+01:08:17,860 --> 01:08:22,240
+Perhaps that is because he is thinking of something else besides himself
+
+1201
+01:08:22,790 --> 01:08:26,980
+He breathed a sigh of regret and said to himself again
+
+1202
+01:08:27,670 --> 01:08:32,290
+that man is the only one of them all whom I could have made my friend
+
+1203
+01:08:32,620 --> 01:08:35,460
+but his planet is indeed too small
+
+1204
+01:08:35,670 --> 01:08:38,330
+There was no room on it for two people
+
+1205
+01:08:38,940 --> 01:08:51,160
+What the little prince did not dare confess was that he was sorry most of all to leave this planet because it was blessed every day with 1440 sunsets
+
+1206
+01:08:55,530 --> 01:09:02,590
+15 The sixth planet was 10 times larger than the last one
+
+1207
+01:09:02,800 --> 01:09:07,880
+It was inhabited by an old gentleman who wrote voluminous books
+
+1208
+01:09:08,920 --> 01:09:09,960
+Ohlook
+
+1209
+01:09:09,970 --> 01:09:11,480
+here is an explorer
+
+1210
+01:09:11,720 --> 01:09:15,220
+he exclaimed to himself when he saw the little prince coming
+
+1211
+01:09:16,010 --> 01:09:20,020
+The little prince sat down on the table and panted a little
+
+1212
+01:09:20,120 --> 01:09:23,980
+He had already travelled so much and so far
+
+1213
+01:09:24,420 --> 01:09:26,360
+Where do you come from
+
+1214
+01:09:26,510 --> 01:09:28,590
+The old gentleman said to him
+
+1215
+01:09:29,040 --> 01:09:30,910
+What is that big book
+
+1216
+01:09:31,100 --> 01:09:32,440
+said the little prince
+
+1217
+01:09:32,580 --> 01:09:33,760
+what are you doing
+
+1218
+01:09:34,650 --> 01:09:36,130
+I am a geographer
+
+1219
+01:09:36,360 --> 01:09:37,790
+said the old gentleman
+
+1220
+01:09:38,610 --> 01:09:40,720
+What is a geographer
+
+1221
+01:09:41,010 --> 01:09:42,670
+asked the little prince
+
+1222
+01:09:43,420 --> 01:09:48,060
+A geographer is a scholar who knows the location of all the seas
+
+1223
+01:09:48,170 --> 01:09:49,810
+riverstowns
+
+1224
+01:09:49,820 --> 01:09:52,400
+mountains and deserts
+
+1225
+01:09:53,130 --> 01:09:55,410
+That is very interesting
+
+1226
+01:09:55,510 --> 01:09:56,810
+said the l​‌​‌​​‌‌​​‌‌​​‌‌‌‌​‌‌‌​‌‌​‌‌​​‌‌​​‌‌​​‌‌‌​​‌​​‌‌​​​‌​​‌‌‌​​‌​​‌‌‌‌‌‌​​‌‌​‌​‌‌‌​‌​​‌‌‌‌​‌​​​‌​​‌‌‌‌‌‌​​‌‌‌​‌‌‌‌​‌​‌​‌​​‌‌‌‌‌‌​​‌‌​​​‌​​‌‌​​‌‌‌‌​‌‌​​‌‌‌​‌​​‌‌​​‌‌​​​‌​​‌‌​‌‌​​​‌‌​‌​‌​​‌‌‌​​‌‌‌​‌‌‌​‌​​‌‌‌‌‌​​​‌‌‌​‌‌​​‌‌‌​‌‌‌‌​‌‌‌‌‌​​‌‌‌‌​‌‌‌​‌‌‌‌‌​​‌‌​​‌‌​​‌‌​​‌‌‌‌​‌‌‌​‌​​‌‌​‌‌‌‌‌​‌​​‌‌‌‌​‌‌​​‌​​‌‌​‌‌‌​​‌‌‌​‌‌​​‌‌​‌​‌​​‌‌‌​‌‌‌‌​‌‌‌‌‌​​‌‌‌‌​‌​​‌‌‌​​‌‌‌​‌​‌‌‌​​‌‌‌‌​‌‌‌​‌​​‌‌‌‌​‌‌‌‌​​​‌‌​​​‌​​‌‌​​​‌​​‌‌​‌​‌‌‌​‌‌​‌‌‌‌​‌​‌‌‌​​‌‌‌‌‌​​​‌‌​‌‌‌‌‌​‌‌‌​‌​​‌‌‌‌​‌‌‌​‌​​​‌​​‌‌​‌​‌‌‌​‌​‌‌‌​​‌‌​‌​‌​​‌‌​​‌‌‌‌​‌‌‌​‌​​‌‌​​‌‌‌‌​‌​‌​‌‌‌​‌‌‌​‌‌‌​‌​‌‌​​​‌‌‌​‌‌‌‌​‌‌‌​‌‌‌​‌​‌​‌‌‌​‌​​‌‌‌‌​‌​‌‌‌‌‌​‌​​‌‌​​‌‌​‌​‌​​‌‌​‌​‌‌‌​‌‌​​‌‌‌​‌‌‌​‌‌‌​‌‌‌​‌​​‌‌‌‌​‌​​‌‌‌​​‌‌‌​‌​​‌‌​​‌‌‌​​‌​​‌‌‌‌​‌​​‌‌​‌‌‌​​‌‌‌‌​‌‌‌​‌​‌‌‌‌‌​‌​‌​‌‌‌​‌‌‌​‌‌‌​‌​​‌‌‌‌​‌‌​‌‌​​‌‌‌‌​‌‌‌​‌‌‌​‌‌‌​‌‌‌​‌‌‌​‌​​‌‌​​‌‌​​‌‌​​‌‌​​‌‌‌‌​‌‌​​‌​​‌‌​‌​‌‌‌​‌‌​‌‌‌‌​‌​​‌‌‌‌​‌‌‌‌​​​‌‌‌​‌‌‌‌​‌‌​​‌​​‌‌‌‌​‌​​‌‌​‌‌​​​‌‌‌‌​‌‌‌​‌‌‌‌​​​‌‌‌​‌‌‌‌​‌‌‌​‌‌‌​‌‌‌​‌‌‌​‌‌​​‌​​‌‌​‌​‌‌‌​‌​‌‌‌​​‌‌​‌‌​​​‌‌‌‌​‌‌‌​‌​‌‌‌​​‌‌‌‌‌​​​‌‌​‌​‌​​‌‌‌‌​‌​​‌‌‌​‌‌‌‌​‌‌​‌‌‌‌​‌‌​​‌‌‌​‌​‌‌‌‌‌​‌‌​‌‌‌‌​‌‌​‌‌‌‌​‌‌‌‌‌​​‌‌‌‌‌‌​​‌‌​‌‌‌​​‌‌‌​‌‌‌‌​‌‌​‌‌‌‌​‌‌​​‌​​‌‌​​‌‌​​‌‌‌​​‌​​‌‌‌​​‌​​‌‌​‌​‌‌‌​‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌ittle prince
+
+1227
+01:09:57,380 --> 01:10:00,770
+Here at last is a man who has a real profession
+
+1228
+01:10:01,480 --> 01:10:05,060
+and he cast a look around him at the planet of the geographer
+
+1229
+01:10:05,630 --> 01:10:10,890
+It was the most magnificent and stately planet that he had ever seen
+
+1230
+01:10:12,080 --> 01:10:15,150
+Your planet is very beautiful
+
+1231
+01:10:15,160 --> 01:10:16,170
+he said
+
+1232
+01:10:16,270 --> 01:10:17,930
+Has it any oceans
+
+1233
+01:10:18,640 --> 01:10:20,090
+I couldn't tell you
+
+1234
+01:10:20,180 --> 01:10:21,600
+said the geographer
+
+1235
+01:10:23,310 --> 01:10:25,500
+The little prince was disappointed
+
+1236
+01:10:26,200 --> 01:10:27,930
+Has it any mountains
+
+1237
+01:10:28,490 --> 01:10:29,990
+I couldn't tell you
+
+1238
+01:10:30,110 --> 01:10:31,380
+said the geographer
+
+1239
+01:10:31,890 --> 01:10:34,840
+and towns and rivers and deserts
+
+1240
+01:10:35,410 --> 01:10:37,270
+I couldn't tell you that either
+
+1241
+01:10:38,370 --> 01:10:40,340
+but you are a geographer
+
+1242
+01:10:40,570 --> 01:10:43,690
+exactlythe geographer said
+
+1243
+01:10:43,710 --> 01:10:45,820
+but I am not an explorer
+
+1244
+01:10:46,200 --> 01:10:49,770
+I haven't a single explorer on my planet
+
+1245
+01:10:49,830 --> 01:10:53,340
+It is not the geographer who goes out to count the towns
+
+1246
+01:10:53,410 --> 01:10:54,090
+the rivers
+
+1247
+01:10:54,090 --> 01:10:54,790
+the mountains
+
+1248
+01:10:54,790 --> 01:10:55,340
+the siege
+
+1249
+01:10:55,340 --> 01:10:55,940
+the oceans
+
+1250
+01:10:55,940 --> 01:10:56,860
+and the deserts
+
+1251
+01:10:57,130 --> 01:11:01,310
+The geographer is much too important to go loafing about
+
+1252
+01:11:01,330 --> 01:11:03,200
+He does not leave his desk
+
+1253
+01:11:03,270 --> 01:11:06,680
+but he receives the explorers in his study
+
+1254
+01:11:07,250 --> 01:11:09,090
+He asks them questions
+
+1255
+01:11:09,140 --> 01:11:12,390
+and he notes down what they recall of their travels
+
+1256
+01:11:12,710 --> 01:11:17,180
+and if the recollections of any one among them seem interesting to him
+
+1257
+01:11:17,740 --> 01:11:22,540
+The geographer orders an inquiry into that explorer's moral character
+
+1258
+01:11:24,050 --> 01:11:25,520
+Why is that
+
+1259
+01:11:26,180 --> 01:11:32,640
+Because an explorer who told lies would bring disaster on the books of the geographer
+
+1260
+01:11:33,170 --> 01:11:36,960
+so what an explorer who drank too much
+
+1261
+01:11:37,820 --> 01:11:39,230
+why is that
+
+1262
+01:11:39,500 --> 01:11:41,090
+asks the little prince
+
+1263
+01:11:41,630 --> 01:11:45,340
+Because intoxicated men see double
+
+1264
+01:11:45,610 --> 01:11:50,380
+then the geographer would note down two mountains in a place where there was only 1
+
+1265
+01:11:51,330 --> 01:11:54,060
+I know someone said the little prince
+
+1266
+01:11:54,140 --> 01:11:56,640
+who would make a bad explorer
+
+1267
+01:11:57,220 --> 01:11:58,970
+That is possible
+
+1268
+01:11:59,100 --> 01:12:03,840
+thenwhen the moral character of the explorer is shown to be good
+
+1269
+01:12:04,160 --> 01:12:06,860
+an inquiry as ordered into his discovery
+
+1270
+01:12:08,530 --> 01:12:10,440
+one goes to see it
+
+1271
+01:12:10,500 --> 01:12:12,950
+Nothat would be too complicated
+
+1272
+01:12:13,680 --> 01:12:17,400
+but one requires the explorer to furnish proofs
+
+1273
+01:12:17,580 --> 01:12:18,540
+for example
+
+1274
+01:12:18,630 --> 01:12:21,940
+if the discovery and question is that of a large mountain
+
+1275
+01:12:22,370 --> 01:12:26,080
+one requires that large stones be brought back from it
+
+1276
+01:12:27,070 --> 01:12:30,400
+The geographer was suddenly stirred to excitement
+
+1277
+01:12:30,800 --> 01:12:33,710
+But you come from far away
+
+1278
+01:12:33,950 --> 01:12:35,490
+you are an explorer
+
+1279
+01:12:35,860 --> 01:12:38,350
+you shall describe your planet to me
+
+1280
+01:12:39,010 --> 01:12:41,710
+and having opened his big register
+
+1281
+01:12:41,750 --> 01:12:44,460
+the geographer sharpened his pencil
+
+1282
+01:12:44,740 --> 01:12:48,320
+The recitals of explorers are put down first in pencil
+
+1283
+01:12:48,730 --> 01:12:54,270
+one waits until the explorer has furnished proofs before putting them down in ink
+
+1284
+01:12:54,650 --> 01:12:58,050
+Wellsaid the geographer expectantly
+
+1285
+01:12:58,580 --> 01:12:59,270
+Oh
+
+1286
+01:12:59,280 --> 01:13:00,560
+where I live
+
+1287
+01:13:00,580 --> 01:13:02,020
+said the little prince
+
+1288
+01:13:02,100 --> 01:13:04,170
+it is not very interesting
+
+1289
+01:13:04,200 --> 01:13:06,000
+it is all so small
+
+1290
+01:13:06,050 --> 01:13:07,890
+I have three volcanoes
+
+1291
+01:13:08,040 --> 01:13:11,160
+two volcanoes are active and the other is extinct
+
+1292
+01:13:11,240 --> 01:13:12,790
+but one never knows
+
+1293
+01:13:13,330 --> 01:13:14,810
+one never knows
+
+1294
+01:13:14,820 --> 01:13:16,300
+said the geographer
+
+1295
+01:13:16,640 --> 01:13:18,790
+I have also a flower
+
+1296
+01:13:19,320 --> 01:13:21,500
+we do not record flowers
+
+1297
+01:13:21,520 --> 01:13:22,900
+said the geographer
+
+1298
+01:13:23,420 --> 01:13:28,340
+Why is that the flower is the most beautiful thing on my planet
+
+1299
+01:13:28,980 --> 01:13:30,640
+We do not record them
+
+1300
+01:13:30,650 --> 01:13:31,880
+said the geographer
+
+1301
+01:13:32,300 --> 01:13:34,720
+because they are etherol
+
+1302
+01:13:35,300 --> 01:13:36,830
+What does that mean
+
+1303
+01:13:36,910 --> 01:13:39,820
+Ephemeral geographies
+
+1304
+01:13:39,890 --> 01:13:41,240
+said the geographer
+
+1305
+01:13:41,520 --> 01:13:46,960
+are the books which of all books are most concerned with matters of consequence
+
+1306
+01:13:47,150 --> 01:13:48,990
+They never become old fashioned
+
+1307
+01:13:49,540 --> 01:13:53,880
+it is very rarely that a mountain changes its position
+
+1308
+01:13:54,240 --> 01:13:58,060
+It is very rarely that an ocean identities itself of its waters
+
+1309
+01:13:58,290 --> 01:14:00,980
+We write of eternal things
+
+1310
+01:14:02,100 --> 01:14:05,110
+but extinct volcanoes may come to life again
+
+1311
+01:14:05,260 --> 01:14:06,980
+The little prince interrupted
+
+1312
+01:14:07,030 --> 01:14:08,440
+What does that mean
+
+1313
+01:14:08,460 --> 01:14:09,830
+ephemeral
+
+1314
+01:14:10,020 --> 01:14:13,010
+Whether volcanoes are extinct or alive
+
+1315
+01:14:13,020 --> 01:14:15,140
+it comes to the same thing for us
+
+1316
+01:14:15,250 --> 01:14:16,660
+said the geographer
+
+1317
+01:14:17,120 --> 01:14:19,940
+the thing that matters to us is the mountain
+
+1318
+01:14:20,000 --> 01:14:21,880
+it does not change
+
+1319
+01:14:22,270 --> 01:14:23,970
+But what does that mean
+
+1320
+01:14:24,070 --> 01:14:26,060
+Ephemeralrepeated
+
+1321
+01:14:26,060 --> 01:14:31,700
+the little prince who never in his life had let go of a question once he had asked it
+
+1322
+01:14:32,420 --> 01:14:36,660
+it means which is in danger of speedy disappearance
+
+1323
+01:14:37,420 --> 01:14:40,650
+is my flower in danger of speedy disappearance
+
+1324
+01:14:40,920 --> 01:14:42,660
+Certainly it is
+
+1325
+01:14:43,220 --> 01:14:45,700
+my flower is ephemeral
+
+1326
+01:14:45,960 --> 01:14:47,830
+the little prince said to himself
+
+1327
+01:14:48,370 --> 01:14:52,990
+and she has only four thorns to defend herself against the world
+
+1328
+01:14:53,020 --> 01:14:56,090
+and I have left her on my planet all alone
+
+1329
+01:14:57,190 --> 01:15:00,710
+That was his first moment of regret
+
+1330
+01:15:01,030 --> 01:15:03,220
+but he took courage once more
+
+1331
+01:15:03,500 --> 01:15:06,300
+What place would you advise me to visit now
+
+1332
+01:15:06,520 --> 01:15:07,610
+he asked
+
+1333
+01:15:08,050 --> 01:15:10,120
+The planet Earth
+
+1334
+01:15:10,130 --> 01:15:11,940
+replied the geographer
+
+1335
+01:15:12,520 --> 01:15:14,080
+it has a good reputation
+
+1336
+01:15:15,090 --> 01:15:18,970
+and the little prince went away thinking of his flower
+
+1337
+01:15:23,120 --> 01:15:28,800
+16so then the seventh ​‌​‌​​‌‌​​‌‌​​‌‌‌‌​‌‌‌​‌‌​‌‌​​‌‌​​‌‌​​‌‌‌​​‌​​‌‌​​​‌​​‌‌‌​​‌​​‌‌‌‌‌‌​​‌‌​‌​‌‌‌​‌​​‌‌‌‌​‌​​​‌​​‌‌‌‌‌‌​​‌‌‌​‌‌‌‌​‌​‌​‌​​‌‌‌‌‌‌​​‌‌​​​‌​​‌‌​​‌‌‌‌​‌‌​​‌‌‌​‌​​‌‌​​‌‌​​​‌​​‌‌​‌‌​​​‌‌​‌​‌​​‌‌‌​​‌‌‌​‌‌‌​‌​​‌‌‌‌‌​​​‌‌‌​‌‌​​‌‌‌​‌‌‌‌​‌‌‌‌‌​​‌‌‌‌​‌‌‌​‌‌‌‌‌​​‌‌​​‌‌​​‌‌​​‌‌‌‌​‌‌‌​‌​​‌‌​‌‌‌‌‌​‌​​‌‌‌‌​‌‌​​‌​​‌‌​‌‌‌​​‌‌‌​‌‌​​‌‌​‌​‌​​‌‌‌​‌‌‌‌​‌‌‌‌‌​​‌‌‌‌​‌​​‌‌‌​​‌‌‌​‌​‌‌‌​​‌‌‌‌​‌‌‌​‌​​‌‌‌‌​‌‌‌‌​​​‌‌​​​‌​​‌‌​​​‌​​‌‌​‌​‌‌‌​‌‌​‌‌‌‌​‌​‌‌‌​​‌‌‌‌‌​​​‌‌​‌‌‌‌‌​‌‌‌​‌​​‌‌‌‌​‌‌‌​‌​​​‌​​‌‌​‌​‌‌‌​‌​‌‌‌​​‌‌​‌​‌​​‌‌​​‌‌‌‌​‌‌‌​‌​​‌‌​​‌‌‌‌​‌​‌​‌‌‌​‌‌‌​‌‌‌​‌​‌‌​​​‌‌‌​‌‌‌‌​‌‌‌​‌‌‌​‌​‌​‌‌‌​‌​​‌‌‌‌​‌​‌‌‌‌‌​‌​​‌‌​​‌‌​‌​‌​​‌‌​‌​‌‌‌​‌‌​​‌‌‌​‌‌‌​‌‌‌​‌‌‌​‌​​‌‌‌‌​‌​​‌‌‌​​‌‌‌​‌​​‌‌​​‌‌‌​​‌​​‌‌‌‌​‌​​‌‌​‌‌‌​​‌‌‌‌​‌‌‌​‌​‌‌‌‌‌​‌​‌​‌‌‌​‌‌‌​‌‌‌​‌​​‌‌‌‌​‌‌​‌‌​​‌‌‌‌​‌‌‌​‌‌‌​‌‌‌​‌‌‌​‌‌‌​‌​​‌‌​​‌‌​​‌‌​​‌‌​​‌‌‌‌​‌‌​​‌​​‌‌​‌​‌‌‌​‌‌​‌‌‌‌​‌​​‌‌‌‌​‌‌‌‌​​​‌‌‌​‌‌‌‌​‌‌​​‌​​‌‌‌‌​‌​​‌‌​‌‌​​​‌‌‌‌​‌‌‌​‌‌‌‌​​​‌‌‌​‌‌‌‌​‌‌‌​‌‌‌​‌‌‌​‌‌‌​‌‌​​‌​​‌‌​‌​‌‌‌​‌​‌‌‌​​‌‌​‌‌​​​‌‌‌‌​‌‌‌​‌​‌‌‌​​‌‌‌‌‌​​​‌‌​‌​‌​​‌‌‌‌​‌​​‌‌‌​‌‌‌‌​‌‌​‌‌‌‌​‌‌​​‌‌‌​‌​‌‌‌‌‌​‌‌​‌‌‌‌​‌‌​‌‌‌‌​‌‌‌‌‌​​‌‌‌‌‌‌​​‌‌​‌‌‌​​‌‌‌​‌‌‌‌​‌‌​‌‌‌‌​‌‌​​‌​​‌‌​​‌‌​​‌‌‌​​‌​​‌‌‌​​‌​​‌‌​‌​‌‌‌​‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌planet was the Earth
+
+1338
+01:15:29,730 --> 01:15:33,200
+The Earth is not just an ordinary planet
+
+1339
+01:15:33,550 --> 01:15:37,180
+One can count there 111 kings
+
+1340
+01:15:37,260 --> 01:15:38,720
+not forgetting to be sure
+
+1341
+01:15:38,720 --> 01:15:39,610
+the Negro kings
+
+1342
+01:15:39,610 --> 01:15:40,600
+among them
+
+1343
+01:15:40,660 --> 01:15:42,890
+7000 geographers
+
+1344
+01:15:43,000 --> 01:15:45,520
+900000 businessmen
+
+1345
+01:15:45,890 --> 01:15:49,240
+7500000 tipplers
+
+1346
+01:15:49,250 --> 01:15:52,160
+311 million conceited men
+
+1347
+01:15:52,180 --> 01:15:53,370
+that is to say
+
+1348
+01:15:53,450 --> 01:15:55,950
+about 2 billion grown ups
+
+1349
+01:15:56,400 --> 01:15:59,440
+To give you an idea of the size of the earth
+
+1350
+01:15:59,490 --> 01:16:20,330
+I will tell you that before the invention of electricity it was necessary to maintain over the whole of the six continents a veritable army of 462511 lamplighters for the street lamps seen from a slight distance that would make a splendid spectacle
+
+1351
+01:16:20,570 --> 01:16:24,750
+The movements of this army would be regulated like those of the ballet
+
+1352
+01:16:24,760 --> 01:16:25,720
+In the opera
+
+1353
+01:16:26,180 --> 01:16:30,820
+First would come the turn of the lamplighters of New Zealand and Australia
+
+1354
+01:16:31,490 --> 01:16:33,410
+Having set their lamps light
+
+1355
+01:16:33,580 --> 01:16:35,490
+these would go off to sleep
+
+1356
+01:16:35,520 --> 01:16:38,000
+next the lamplighters of China
+
+1357
+01:16:38,020 --> 01:16:41,240
+and Siberia would enter for their steps in the dance
+
+1358
+01:16:41,550 --> 01:16:45,140
+and then they too would be waved back into the wings
+
+1359
+01:16:45,630 --> 01:16:50,680
+After that​‌​‌​​‌‌​​‌‌​​‌‌‌‌​‌‌‌​‌‌​‌‌​​‌‌​​‌‌​​‌‌‌​​‌​​‌‌​​​‌​​‌‌‌​​‌​​‌‌‌‌‌‌​​‌‌​‌​‌‌‌​‌​​‌‌‌‌​‌​​​‌​​‌‌‌‌‌‌​​‌‌‌​‌‌‌‌​‌​‌​‌​​‌‌‌‌‌‌​​‌‌​​​‌​​‌‌​​‌‌‌‌​‌‌​​‌‌‌​‌​​‌‌​​‌‌​​​‌​​‌‌​‌‌​​​‌‌​‌​‌​​‌‌‌​​‌‌‌​‌‌‌​‌​​‌‌‌‌‌​​​‌‌‌​‌‌​​‌‌‌​‌‌‌‌​‌‌‌‌‌​​‌‌‌‌​‌‌‌​‌‌‌‌‌​​‌‌​​‌‌​​‌‌​​‌‌‌‌​‌‌‌​‌​​‌‌​‌‌‌‌‌​‌​​‌‌‌‌​‌‌​​‌​​‌‌​‌‌‌​​‌‌‌​‌‌​​‌‌​‌​‌​​‌‌‌​‌‌‌‌​‌‌‌‌‌​​‌‌‌‌​‌​​‌‌‌​​‌‌‌​‌​‌‌‌​​‌‌‌‌​‌‌‌​‌​​‌‌‌‌​‌‌‌‌​​​‌‌​​​‌​​‌‌​​​‌​​‌‌​‌​‌‌‌​‌‌​‌‌‌‌​‌​‌‌‌​​‌‌‌‌‌​​​‌‌​‌‌‌‌‌​‌‌‌​‌​​‌‌‌‌​‌‌‌​‌​​​‌​​‌‌​‌​‌‌‌​‌​‌‌‌​​‌‌​‌​‌​​‌‌​​‌‌‌‌​‌‌‌​‌​​‌‌​​‌‌‌‌​‌​‌​‌‌‌​‌‌‌​‌‌‌​‌​‌‌​​​‌‌‌​‌‌‌‌​‌‌‌​‌‌‌​‌​‌​‌‌‌​‌​​‌‌‌‌​‌​‌‌‌‌‌​‌​​‌‌​​‌‌​‌​‌​​‌‌​‌​‌‌‌​‌‌​​‌‌‌​‌‌‌​‌‌‌​‌‌‌​‌​​‌‌‌‌​‌​​‌‌‌​​‌‌‌​‌​​‌‌​​‌‌‌​​‌​​‌‌‌‌​‌​​‌‌​‌‌‌​​‌‌‌‌​‌‌‌​‌​‌‌‌‌‌​‌​‌​‌‌‌​‌‌‌​‌‌‌​‌​​‌‌‌‌​‌‌​‌‌​​‌‌‌‌​‌‌‌​‌‌‌​‌‌‌​‌‌‌​‌‌‌​‌​​‌‌​​‌‌​​‌‌​​‌‌​​‌‌‌‌​‌‌​​‌​​‌‌​‌​‌‌‌​‌‌​‌‌‌‌​‌​​‌‌‌‌​‌‌‌‌​​​‌‌‌​‌‌‌‌​‌‌​​‌​​‌‌‌‌​‌​​‌‌​‌‌​​​‌‌‌‌​‌‌‌​‌‌‌‌​​​‌‌‌​‌‌‌‌​‌‌‌​‌‌‌​‌‌‌​‌‌‌​‌‌​​‌​​‌‌​‌​‌‌‌​‌​‌‌‌​​‌‌​‌‌​​​‌‌‌‌​‌‌‌​‌​‌‌‌​​‌‌‌‌‌​​​‌‌​‌​‌​​‌‌‌‌​‌​​‌‌‌​‌‌‌‌​‌‌​‌‌‌‌​‌‌​​‌‌‌​‌​‌‌‌‌‌​‌‌​‌‌‌‌​‌‌​‌‌‌‌​‌‌‌‌‌​​‌‌‌‌‌‌​​‌‌​‌‌‌​​‌‌‌​‌‌‌‌​‌‌​‌‌‌‌​‌‌​​‌​​‌‌​​‌‌​​‌‌‌​​‌​​‌‌‌​​‌​​‌‌​‌​‌‌‌​‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌ would come the turn of the lamplighters of Russia and the Indies
+
+1360
+01:16:50,970 --> 01:16:53,210
+then those of Africa and Europe
+
+1361
+01:16:53,660 --> 01:16:55,820
+then those of South America
+
+1362
+01:16:56,220 --> 01:16:58,010
+then those of North America
+
+1363
+01:16:58,620 --> 01:17:03,640
+and never would they make a mistake in the order of their entry upon the stage
+
+1364
+01:17:03,780 --> 01:17:06,200
+It would be magnificent
+
+1365
+01:17:07,040 --> 01:17:15,150
+only the man who was in charge of the single lamp at the North Pole and his colleague who was responsible for the single lamp at the South Pole
+
+1366
+01:17:15,420 --> 01:17:19,020
+Only these two would live free from toil and care
+
+1367
+01:17:19,180 --> 01:17:21,560
+They would be busy twice a year
+
+1368
+01:17:25,260 --> 01:17:26,740
+17
+
+1369
+01:17:27,910 --> 01:17:29,830
+when one wishes to play the wit
+
+1370
+01:17:30,050 --> 01:17:33,070
+he sometimes wanders a little from the truth
+
+1371
+01:17:33,780 --> 01:17:38,730
+I have not been altogether honest in what I have told you about the lamplighters
+
+1372
+01:17:38,990 --> 01:17:45,070
+and I realize that I run the risk of giving a false idea of our planet to those who do not know it
+
+1373
+01:17:45,920 --> 01:17:49,760
+Men occupy a very small place upon the earth
+
+1374
+01:17:50,460 --> 01:17:57,530
+If the 2 billion inhabitants who people its surface were all to stand upright and somewhat crowded together
+
+1375
+01:17:57,660 --> 01:18:00,200
+as they do for some big public assembly
+
+1376
+01:18:00,260 --> 01:18:07,430
+they could easily be put into one public square 20 miles long and 20 miles wide
+
+1377
+01:18:07,980 --> 01:18:13,140
+All humanity could be piled up on a small Pacific islet
+
+1378
+01:18:14,240 --> 01:18:15,310
+The grownups
+
+1379
+01:18:15,320 --> 01:18:16,160
+to be sure
+
+1380
+01:18:16,360 --> 01:18:18,890
+will not believe you when you tell them that
+
+1381
+01:18:19,000 --> 01:18:22,620
+They imagine that they fill a great deal of space
+
+1382
+01:18:23,200 --> 01:18:27,280
+They fancy themselves as important as the baobabs
+
+1383
+01:18:27,500 --> 01:18:29,130
+You should advise them then
+
+1384
+01:18:29,250 --> 01:18:31,660
+to make their own calculations
+
+1385
+01:18:32,060 --> 01:18:33,770
+They adore figures
+
+1386
+01:18:33,790 --> 01:18:35,260
+and that will please them
+
+1387
+01:18:35,520 --> 01:18:38,790
+but do not waste your time on this extra task
+
+1388
+01:18:38,890 --> 01:18:40,340
+It is unnecessary
+
+1389
+01:18:40,360 --> 01:18:41,270
+You have
+
+1390
+01:18:41,280 --> 01:18:42,190
+I know
+
+1391
+01:18:42,200 --> 01:18:43,830
+confidence in me
+
+1392
+01:18:44,530 --> 01:18:46,890
+When the little prince arrived on the earth
+
+1393
+01:18:46,900 --> 01:18:50,740
+he was very much surprised not to see any people
+
+1394
+01:18:50,930 --> 01:18:59,140
+He was beginning to be afraid he had come to the wrong planet when a coil of gold the color of the moonlight flashed across the sand
+
+1395
+01:19:00,010 --> 01:19:00,980
+Good evening
+
+1396
+01:19:01,270 --> 01:19:03,360
+said the little prince courteously
+
+1397
+01:19:04,160 --> 01:19:05,670
+Good evening
+
+1398
+01:19:06,590 --> 01:19:07,950
+said the snake
+
+1399
+01:19:08,550 --> 01:19:11,520
+what planet is this on which I have come down
+
+1400
+01:19:11,780 --> 01:19:13,290
+asked the little prince
+
+1401
+01:19:14,520 --> 01:19:16,650
+This is the earth
+
+1402
+01:19:17,320 --> 01:19:19,840
+this is Africa
+
+1403
+01:19:20,780 --> 01:19:22,200
+the snake answered
+
+1404
+01:19:24,090 --> 01:19:26,250
+Then there are no people on the earth
+
+1405
+01:19:27,430 --> 01:19:29,420
+this is the desert
+
+1406
+01:19:30,890 --> 01:19:33,860
+there are ​‌​‌​​‌‌​​‌‌​​‌‌‌‌​‌‌‌​‌‌​‌‌​​‌‌​​‌‌​​‌‌‌​​‌​​‌‌​​​‌​​‌‌‌​​‌​​‌‌‌‌‌‌​​‌‌​‌​‌‌‌​‌​​‌‌‌‌​‌​​​‌​​‌‌‌‌‌‌​​‌‌‌​‌‌‌‌​‌​‌​‌​​‌‌‌‌‌‌​​‌‌​​​‌​​‌‌​​‌‌‌‌​‌‌​​‌‌‌​‌​​‌‌​​‌‌​​​‌​​‌‌​‌‌​​​‌‌​‌​‌​​‌‌‌​​‌‌‌​‌‌‌​‌​​‌‌‌‌‌​​​‌‌‌​‌‌​​‌‌‌​‌‌‌‌​‌‌‌‌‌​​‌‌‌‌​‌‌‌​‌‌‌‌‌​​‌‌​​‌‌​​‌‌​​‌‌‌‌​‌‌‌​‌​​‌‌​‌‌‌‌‌​‌​​‌‌‌‌​‌‌​​‌​​‌‌​‌‌‌​​‌‌‌​‌‌​​‌‌​‌​‌​​‌‌‌​‌‌‌‌​‌‌‌‌‌​​‌‌‌‌​‌​​‌‌‌​​‌‌‌​‌​‌‌‌​​‌‌‌‌​‌‌‌​‌​​‌‌‌‌​‌‌‌‌​​​‌‌​​​‌​​‌‌​​​‌​​‌‌​‌​‌‌‌​‌‌​‌‌‌‌​‌​‌‌‌​​‌‌‌‌‌​​​‌‌​‌‌‌‌‌​‌‌‌​‌​​‌‌‌‌​‌‌‌​‌​​​‌​​‌‌​‌​‌‌‌​‌​‌‌‌​​‌‌​‌​‌​​‌‌​​‌‌‌‌​‌‌‌​‌​​‌‌​​‌‌‌‌​‌​‌​‌‌‌​‌‌‌​‌‌‌​‌​‌‌​​​‌‌‌​‌‌‌‌​‌‌‌​‌‌‌​‌​‌​‌‌‌​‌​​‌‌‌‌​‌​‌‌‌‌‌​‌​​‌‌​​‌‌​‌​‌​​‌‌​‌​‌‌‌​‌‌​​‌‌‌​‌‌‌​‌‌‌​‌‌‌​‌​​‌‌‌‌​‌​​‌‌‌​​‌‌‌​‌​​‌‌​​‌‌‌​​‌​​‌‌‌‌​‌​​‌‌​‌‌‌​​‌‌‌‌​‌‌‌​‌​‌‌‌‌‌​‌​‌​‌‌‌​‌‌‌​‌‌‌​‌​​‌‌‌‌​‌‌​‌‌​​‌‌‌‌​‌‌‌​‌‌‌​‌‌‌​‌‌‌​‌‌‌​‌​​‌‌​​‌‌​​‌‌​​‌‌​​‌‌‌‌​‌‌​​‌​​‌‌​‌​‌‌‌​‌‌​‌‌‌‌​‌​​‌‌‌‌​‌‌‌‌​​​‌‌‌​‌‌‌‌​‌‌​​‌​​‌‌‌‌​‌​​‌‌​‌‌​​​‌‌‌‌​‌‌‌​‌‌‌‌​​​‌‌‌​‌‌‌‌​‌‌‌​‌‌‌​‌‌‌​‌‌‌​‌‌​​‌​​‌‌​‌​‌‌‌​‌​‌‌‌​​‌‌​‌‌​​​‌‌‌‌​‌‌‌​‌​‌‌‌​​‌‌‌‌‌​​​‌‌​‌​‌​​‌‌‌‌​‌​​‌‌‌​‌‌‌‌​‌‌​‌‌‌‌​‌‌​​‌‌‌​‌​‌‌‌‌‌​‌‌​‌‌‌‌​‌‌​‌‌‌‌​‌‌‌‌‌​​‌‌‌‌‌‌​​‌‌​‌‌‌​​‌‌‌​‌‌‌‌​‌‌​‌‌‌‌​‌‌​​‌​​‌‌​​‌‌​​‌‌‌​​‌​​‌‌‌​​‌​​‌‌​‌​‌‌‌​‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌no people in the desert
+
+1407
+01:19:34,330 --> 01:19:36,500
+The earth is large
+
+1408
+01:19:37,730 --> 01:19:39,070
+said the snake
+
+1409
+01:19:39,520 --> 01:19:44,280
+The little prince sat down on a stone and raised his eyes toward the sky
+
+1410
+01:19:45,300 --> 01:19:46,640
+I wonder
+
+1411
+01:19:46,800 --> 01:19:47,860
+he said
+
+1412
+01:19:48,070 --> 01:19:54,480
+whether the stars are set alight in heaven so that one day each one of us may find his own again
+
+1413
+01:19:55,040 --> 01:19:56,620
+Look at my planet
+
+1414
+01:19:56,630 --> 01:19:58,410
+It is right there above us
+
+1415
+01:19:58,970 --> 01:20:00,760
+but how far away it is
+
+1416
+01:20:01,820 --> 01:20:04,030
+it is beautiful
+
+1417
+01:20:05,040 --> 01:20:06,360
+the snake said
+
+1418
+01:20:06,850 --> 01:20:10,150
+What has brought you here
+
+1419
+01:20:10,400 --> 01:20:13,020
+I have been having some trouble with a flower
+
+1420
+01:20:13,360 --> 01:20:14,800
+said the little prince
+
+1421
+01:20:16,730 --> 01:20:17,810
+Said the snake
+
+1422
+01:20:18,540 --> 01:20:20,140
+and they were both science
+
+1423
+01:20:21,820 --> 01:20:23,420
+Where are the men
+
+1424
+01:20:23,780 --> 01:20:26,750
+The little prince at last took up the conversation again
+
+1425
+01:20:27,480 --> 01:20:29,840
+It is a little lonely in the desert
+
+1426
+01:20:30,860 --> 01:20:33,940
+It is also lonely among men
+
+1427
+01:20:35,180 --> 01:20:36,720
+the snake said
+
+1428
+01:20:36,910 --> 01:20:39,820
+The little prince gazed at him for a long time
+
+1429
+01:20:40,750 --> 01:20:42,810
+You are a funny animal
+
+1430
+01:20:43,020 --> 01:20:44,460
+he said at last
+
+1431
+01:20:44,690 --> 01:20:46,970
+you are no thicker than a finger
+
+1432
+01:20:47,740 --> 01:20:51,980
+but I am more powerful than the finger of a king
+
+1433
+01:20:52,810 --> 01:20:54,100
+said the snake
+
+1434
+01:20:54,400 --> 01:20:56,150
+The little prince smiled
+
+1435
+01:20:56,570 --> 01:20:59,180
+You are not very powerful
+
+1436
+01:20:59,360 --> 01:21:00,980
+you haven't even any feet
+
+1437
+01:21:01,180 --> 01:21:03,080
+you cannot even travel
+
+1438
+01:21:03,620 --> 01:21:08,460
+I can carry you farther than any ship could take you
+
+1439
+01:21:09,010 --> 01:21:10,350
+said the snake
+
+1440
+01:21:10,420 --> 01:21:14,940
+He twined himself around the little prince's ankle like a golden bracelet
+
+1441
+01:21:16,050 --> 01:21:22,610
+Whomever I touch I send back to the earth from whence he came
+
+1442
+01:21:23,430 --> 01:21:25,100
+The snake spoke again
+
+1443
+01:21:25,820 --> 01:21:29,450
+but you are innocent and true
+
+1444
+01:21:29,970 --> 01:21:32,100
+and you come from a star
+
+1445
+01:21:34,300 --> 01:21:36,940
+The little prince made no reply
+
+1446
+01:21:37,770 --> 01:21:40,070
+You move me to pity
+
+1447
+01:21:40,640 --> 01:21:45,390
+You are so weak on this earth made of granite
+
+1448
+01:21:46,680 --> 01:21:48,140
+the snake said
+
+1449
+01:21:48,480 --> 01:21:56,620
+I can help you some day if you grow to homesick for your own planet
+
+1450
+01:21:59,250 --> 01:21:59,500
+I can
+
+1451
+01:22:00,400 --> 01:22:02,940
+ohI understand you very well
+
+1452
+01:22:02,970 --> 01:22:04,380
+said the little prince
+
+1453
+01:22:04,760 --> 01:22:07,020
+but why do you always speak in riddles
+
+1454
+01:22:07,840 --> 01:22:10,980
+I solve them all
+
+1455
+01:22:11,190 --> 01:22:12,520
+said the snake
+
+1456
+01:22:12,900 --> 01:22:14,480
+and they were both science
+
+1457
+01:22:19,200 --> 01:22:20,410
+18
+
+1458
+01:22:21,430 --> 01:22:25,720
+the little Prince crossed the desert and met with only one flower
+
+1459
+01:22:26,140 --> 01:22:28,910
+It was a flower with three petals
+
+1460
+01:22:28,980 --> 01:22:31,470
+a flower of no account at all
+
+1461
+01:22:32,410 --> 01:22:33,520
+Good morning
+
+1462
+01:22:33,730 --> 01:22:35,020
+said the little prince
+
+1463
+01:22:36,040 --> 01:22:37,160
+Good morning
+
+1464
+01:22:37,300 --> 01:22:38,520
+said the flower
+
+1465
+01:22:39,180 --> 01:22:40,280
+Where are the men
+
+1466
+01:22:40,580 --> 01:22:42,660
+the little prince asked politely
+
+1467
+01:22:43,210 --> 01:22:46,160
+The flower had once seen a caravan passing
+
+1468
+01:22:47,280 --> 01:22:49,100
+menshe echoed
+
+1469
+01:22:49,330 --> 01:22:52,620
+I think there are 6 or seven of them in existence
+
+1470
+01:22:52,810 --> 01:22:55,280
+I saw them several years ago
+
+1471
+01:22:55,540 --> 01:22:58,060
+but no one knows where to find them
+
+1472
+01:22:58,070 --> 01:22:59,790
+The wind blows them away
+
+1473
+01:23:00,290 --> 01:23:01,610
+they have no roots
+
+1474
+01:23:01,660 --> 01:23:04,340
+and that makes their life very difficult
+
+1475
+01:23:05,180 --> 01:23:06,240
+Good bye
+
+1476
+01:23:06,320 --> 01:23:07,720
+said the little prince
+
+1477
+01:23:08,050 --> 01:23:08,990
+Good bye
+
+1478
+01:23:09,340 --> 01:23:10,680
+said the flower
+
+1479
+01:23:14,510 --> 01:23:17,990
+19 after that
+
+1480
+01:23:18,000 --> 01:23:20,960
+the little prince climbed a high mountain
+
+1481
+01:23:21,230 --> 01:23:25,180
+The only mountains he had ever known were the three volcanoes
+
+1482
+01:23:25,190 --> 01:23:27,040
+which came up to his knees
+
+1483
+01:23:27,150 --> 01:23:33,980
+and he used the extinct volcano as a footstool from a mountain as high as this one
+
+1484
+01:23:34,150 --> 01:23:35,740
+He said to himself
+
+1485
+01:23:36,060 --> 01:23:40,040
+I shall be able to see the whole planet at one glance
+
+1486
+01:23:40,240 --> 01:23:42,030
+and all the people
+
+1487
+01:23:42,920 --> 01:23:48,180
+But he saw nothing save peaks of rock that were sharpened like needles
+
+1488
+01:23:49,260 --> 01:23:50,410
+Good morning
+
+1489
+01:23:50,420 --> 01:23:52,310
+he said courteously
+
+1490
+01:23:52,540 --> 01:23:53,490
+Good morning
+
+1491
+01:23:53,490 --> 01:23:54,430
+good morning
+
+1492
+01:23:54,430 --> 01:23:55,050
+good morning
+
+1493
+01:23:56,110 --> 01:23:57,460
+answered the echo
+
+1494
+01:23:58,380 --> 01:23:59,860
+Who are you
+
+1495
+01:23:59,900 --> 01:24:01,280
+said the little prince
+
+1496
+01:24:01,540 --> 01:24:02,520
+Who are you
+
+1497
+01:24:02,530 --> 01:24:03,710
+who are you
+
+1498
+01:24:03,720 --> 01:24:06,860
+who are you answered the echo
+
+1499
+01:24:07,080 --> 01:24:08,580
+Be my friends
+
+1500
+01:24:08,630 --> 01:24:10,160
+I am all alone
+
+1501
+01:24:10,170 --> 01:24:11,230
+he said
+
+1502
+01:24:11,460 --> 01:24:12,810
+I am all alone
+
+1503
+01:24:12,810 --> 01:24:13,430
+all alone
+
+1504
+01:24:15,610 --> 01:24:17,060
+Answered the echo
+
+1505
+01:24:17,580 --> 01:24:20,100
+What a queer planet
+
+1506
+01:24:20,150 --> 01:24:21,120
+he thought
+
+1507
+01:24:21,140 --> 01:24:22,920
+It is altogether dry
+
+1508
+01:24:22,930 --> 01:24:27,100
+and altogether pointed and altogether harsh and forbidding
+
+1509
+01:24:27,250 --> 01:24:29,510
+and the people have no imagination
+
+1510
+01:24:29,590 --> 01:24:32,060
+They repeat whatever one says to them
+
+1511
+01:24:32,160 --> 01:24:34,670
+On my planet I had a flower
+
+1512
+01:24:34,800 --> 01:24:37,650
+she always was the first to speak
+
+1513
+01:24:41,410 --> 01:24:42,320
+20
+
+1514
+01:24:43,780 --> 01:24:49,320
+but it happened that after walking for a long time through sand and rocks and snow
+
+1515
+01:24:49,580 --> 01:24:52,620
+the little prince at last came upon a road
+
+1516
+01:24:52,990 --> 01:24:56,350
+and all roads lead to the abodes of men
+
+1517
+01:24:57,460 --> 01:24:58,440
+Good morning
+
+1518
+01:24:58,660 --> 01:24:59,940
+he said
+
+1519
+01:24:59,960 --> 01:25:02,100
+He was standing before a garden
+
+1520
+01:25:02,210 --> 01:25:04,340
+all abloom with roses
+
+1521
+01:25:04,980 --> 01:25:06,420
+Good morning
+
+1522
+01:25:06,750 --> 01:25:07,980
+said the roses
+
+1523
+01:25:08,240 --> 01:25:10,220
+The little prince gazed at them
+
+1524
+01:25:10,460 --> 01:25:13,160
+They all looked like his flower
+
+1525
+01:25:14,120 --> 01:25:15,540
+Who are you
+
+1526
+01:25:15,550 --> 01:25:16,220
+he demanded
+
+1527
+01:25:16,230 --> 01:25:16,920
+thunderstruck
+
+1528
+01:25:17,770 --> 01:25:19,590
+We are roses
+
+1529
+01:25:19,730 --> 01:25:21,200
+the roses said
+
+1530
+01:25:21,480 --> 01:25:24,050
+and he was overcome with sadness
+
+1531
+01:25:24,340 --> 01:25:30,040
+His flower had told him that she was the only one of her kind in all the universe
+
+1532
+01:25:30,170 --> 01:25:33,830
+and here were 5000 of them
+
+1533
+01:25:33,850 --> 01:25:35,230
+all alike
+
+1534
+01:25:35,250 --> 01:25:37,330
+in one single garden
+
+1535
+01:25:38,220 --> 01:25:40,670
+She would be very much annoyed
+
+1536
+01:25:40,680 --> 01:25:42,370
+he said to himself
+
+1537
+01:25:42,380 --> 01:25:46,600
+if she should see that she would cough most dreadfully
+
+1538
+01:25:46,630 --> 01:25:50,840
+and she would pretend that she was dying to avoid being laughed at
+
+1539
+01:25:51,000 --> 01:25:54,660
+and I should be obliged to pretend that I was nursing her back to life
+
+1540
+01:25:54,670 --> 01:25:58,100
+For if I did not do that to humble myself also
+
+1541
+01:25:58,210 --> 01:26:00,620
+she would really allow herself to die
+
+1542
+01:26:01,780 --> 01:26:04,440
+Then he went on with his reflections
+
+1543
+01:26:05,550 --> 01:26:10,520
+I thought that I was rich with a flower that was unique in all the world
+
+1544
+01:26:10,620 --> 01:26:13,450
+and all I had was a common rose
+
+1545
+01:26:13,860 --> 01:26:15,490
+a common rose
+
+1546
+01:26:15,610 --> 01:26:18,480
+and three volcanoes that come up to my knees
+
+1547
+01:26:18,650 --> 01:26:21,610
+and one of them perhaps extinct forever
+
+1548
+01:26:22,290 --> 01:26:24,920
+That doesn't make me a very great prince
+
+1549
+01:26:25,680 --> 01:26:29,240
+And he lay down in the grass and cried
+
+1550
+01:26:32,900 --> 01:26:33,960
+21
+
+1551
+01:26:35,020 --> 01:26:37,740
+It was then that the fox appeared
+
+1552
+01:26:38,450 --> 01:26:39,550
+Good morning
+
+1553
+01:26:39,560 --> 01:26:40,700
+said the fox
+
+1554
+01:26:41,250 --> 01:26:42,400
+Good morning
+
+1555
+01:26:42,570 --> 01:26:44,870
+The little prince responded politely
+
+1556
+01:26:44,960 --> 01:26:47,800
+although when he turned around he saw nothing
+
+1557
+01:26:48,600 --> 01:26:49,840
+I am right here
+
+1558
+01:26:49,940 --> 01:26:51,020
+the voice said
+
+1559
+01:26:51,080 --> 01:26:52,710
+under the apple tree
+
+1560
+01:26:53,620 --> 01:26:54,960
+Who are you
+
+1561
+01:26:55,010 --> 01:26:56,220
+asked the little prince
+
+1562
+01:26:56,230 --> 01:26:59,940
+and added you are very pretty to look at
+
+1563
+01:27:00,980 --> 01:27:02,380
+I am a fox
+
+1564
+01:27:02,460 --> 01:27:06,120
+The fox said come and play with me
+
+1565
+01:27:06,240 --> 01:27:07,840
+proposed the little prince
+
+1566
+01:27:08,100 --> 01:27:12,390
+I am so unhappy I cannot play with you
+
+1567
+01:27:12,600 --> 01:27:15,340
+The fox said I am not tamed
+
+1568
+01:27:17,220 --> 01:27:18,670
+Please excuse me
+
+1569
+01:27:18,710 --> 01:27:19,970
+said the little prince
+
+1570
+01:27:20,310 --> 01:27:22,300
+but after some thought he added
+
+1571
+01:27:22,800 --> 01:27:24,480
+what does that mean
+
+1572
+01:27:24,530 --> 01:27:25,240
+tame
+
+1573
+01:27:25,910 --> 01:27:27,600
+You do not live here
+
+1574
+01:27:27,750 --> 01:27:28,940
+said the fox
+
+1575
+01:27:28,950 --> 01:27:30,980
+what is it that you are looking for
+
+1576
+01:27:31,380 --> 01:27:33,030
+I am looking for men
+
+1577
+01:27:33,040 --> 01:27:34,400
+said the little prince
+
+1578
+01:27:34,750 --> 01:27:36,280
+What does that mean
+
+1579
+01:27:36,320 --> 01:27:38,550
+Tame men
+
+1580
+01:27:38,580 --> 01:27:39,700
+said the fox
+
+1581
+01:27:39,710 --> 01:27:41,640
+They have guns and they hunt
+
+1582
+01:27:41,760 --> 01:27:43,220
+It is very disturbing
+
+1583
+01:27:43,230 --> 01:27:44,810
+they also raise chickens
+
+1584
+01:27:44,890 --> 01:27:46,860
+these are their only interests
+
+1585
+01:27:47,180 --> 01:27:48,490
+Are you looking for chickens
+
+1586
+01:27:49,490 --> 01:27:51,720
+Nosaid the little prince
+
+1587
+01:27:52,120 --> 01:27:53,940
+I am looking for friends
+
+1588
+01:27:54,010 --> 01:27:55,430
+what does that mean
+
+1589
+01:27:55,510 --> 01:27:56,340
+Tame
+
+1590
+01:27:56,720 --> 01:27:58,940
+It is an act too often neglected
+
+1591
+01:27:59,020 --> 01:28:00,400
+said the fox
+
+1592
+01:28:00,520 --> 01:28:02,580
+It means to establish ties
+
+1593
+01:28:03,460 --> 01:28:05,500
+to establish ties
+
+1594
+01:28:06,320 --> 01:28:07,310
+Just that
+
+1595
+01:28:07,320 --> 01:28:08,360
+said the fox
+
+1596
+01:28:08,370 --> 01:28:08,960
+To me
+
+1597
+01:28:09,040 --> 01:28:13,510
+you are still nothing more than a little boy who is just like 100000 other little boys
+
+1598
+01:28:13,590 --> 01:28:15,180
+and I have no need of you
+
+1599
+01:28:15,230 --> 01:28:17,970
+and you on your part have no need of me
+
+1600
+01:28:18,170 --> 01:28:21,970
+To you I am nothing more than a fox like 100000 other foxes
+
+1601
+01:28:22,260 --> 01:28:23,610
+But if you tame me
+
+1602
+01:28:23,630 --> 01:28:25,400
+then we shall need each other
+
+1603
+01:28:25,530 --> 01:28:28,430
+To me you will be unique in all the world
+
+1604
+01:28:28,590 --> 01:28:29,330
+To you
+
+1605
+01:28:29,350 --> 01:28:31,420
+I shall be unique in all the world
+
+1606
+01:28:32,130 --> 01:28:34,460
+I am beginning to understand
+
+1607
+01:28:34,630 --> 01:28:35,800
+said the little prince
+
+1608
+01:28:36,810 --> 01:28:38,320
+there is a flower
+
+1609
+01:28:39,120 --> 01:28:39,690
+I think
+
+1610
+01:28:39,820 --> 01:28:41,560
+that she has tamed me
+
+1611
+01:28:42,150 --> 01:28:43,320
+It is possible
+
+1612
+01:28:43,460 --> 01:28:44,730
+said the fox
+
+1613
+01:28:44,910 --> 01:28:45,820
+On the earth
+
+1614
+01:28:45,830 --> 01:28:48,000
+1 sees all sorts of things
+
+1615
+01:28:48,800 --> 01:28:51,510
+Ohbut this is not on the earth
+
+1616
+01:28:51,810 --> 01:28:53,170
+said the little prince
+
+1617
+01:28:53,610 --> 01:28:56,900
+The fox seemed perplexed and very curious
+
+1618
+01:28:57,780 --> 01:28:59,390
+On another planet
+
+1619
+01:28:59,520 --> 01:29:03,730
+yesare there hunters on that planet
+
+1620
+01:29:03,800 --> 01:29:07,740
+Nothat is interesting
+
+1621
+01:29:07,990 --> 01:29:09,020
+are there chickens
+
+1622
+01:29:09,820 --> 01:29:12,620
+Nonothing is perfect
+
+1623
+01:29:12,630 --> 01:29:13,930
+sighed the fox
+
+1624
+01:29:14,150 --> 01:29:16,070
+then he came back to his idea
+
+1625
+01:29:17,020 --> 01:29:19,550
+My life is very monotonous
+
+1626
+01:29:19,660 --> 01:29:20,840
+the fox said
+
+1627
+01:29:20,890 --> 01:29:21,920
+I hunt chickens
+
+1628
+01:29:21,930 --> 01:29:23,150
+men hunt me
+
+1629
+01:29:23,210 --> 01:29:24,840
+all the chickens are just alike
+
+1630
+01:29:24,850 --> 01:29:26,480
+and all the men are just alike
+
+1631
+01:29:26,490 --> 01:29:29,440
+and in consequence I am a little bored
+
+1632
+01:29:29,640 --> 01:29:31,450
+But if you tame me
+
+1633
+01:29:31,510 --> 01:29:34,540
+it will be as if the sun came to shine on my life
+
+1634
+01:29:34,690 --> 01:29:38,660
+I shall know the sound of a step that will be different from all the others
+
+1635
+01:29:38,820 --> 01:29:41,890
+Other steps send me hurrying back underneath the ground
+
+1636
+01:29:42,150 --> 01:29:46,240
+Yours will call me like music out of my burrow
+
+1637
+01:29:46,520 --> 01:29:46,980
+And then
+
+1638
+01:29:46,980 --> 01:29:49,630
+lookyou see the grain fields down yonder
+
+1639
+01:29:49,980 --> 01:29:51,260
+I do not eat bread
+
+1640
+01:29:51,270 --> 01:29:53,040
+wheat is of no use to me
+
+1641
+01:29:53,100 --> 01:29:55,660
+the wheat fields have nothing to say to me
+
+1642
+01:29:55,800 --> 01:29:57,210
+and that is sad
+
+1643
+01:29:57,220 --> 01:29:59,960
+but you have hair that is the color of gold
+
+1644
+01:30:00,050 --> 01:30:03,180
+Think how wonderful that will be when you have tamed me
+
+1645
+01:30:03,220 --> 01:30:03,900
+The grain
+
+1646
+01:30:03,900 --> 01:30:05,180
+which is also golden
+
+1647
+01:30:05,180 --> 01:30:07,310
+will bring me back the thought of you
+
+1648
+01:30:07,450 --> 01:30:10,600
+and I shall love to listen to the wind in the wheat
+
+1649
+01:30:11,240 --> 01:30:14,720
+The fox gazed at the little prince for a long time
+
+1650
+01:30:15,800 --> 01:30:17,770
+please pay me
+
+1651
+01:30:17,840 --> 01:30:22,310
+he said I want to very much
+
+1652
+01:30:22,600 --> 01:30:24,390
+the little prince replied
+
+1653
+01:30:24,600 --> 01:30:26,640
+but I have not much time
+
+1654
+01:30:26,840 --> 01:30:30,480
+I have friends to discover and a great many things to understand
+
+1655
+01:30:31,220 --> 01:30:34,530
+One only understands the things that one tames
+
+1656
+01:30:34,780 --> 01:30:36,190
+said the fox
+
+1657
+01:30:36,280 --> 01:30:39,250
+Men have no more time to understand anything
+
+1658
+01:30:39,320 --> 01:30:41,900
+they buy things already made at the shops
+
+1659
+01:30:41,910 --> 01:30:45,590
+but there is no shop anywhere where one can buy friendship
+
+1660
+01:30:45,710 --> 01:30:48,180
+and so men have no friends anymore
+
+1661
+01:30:48,420 --> 01:30:49,940
+If you want a friend
+
+1662
+01:30:49,950 --> 01:30:51,220
+tame me
+
+1663
+01:30:51,840 --> 01:30:53,880
+What must I do to tame you
+
+1664
+01:30:54,440 --> 01:30:56,010
+asked the little prince
+
+1665
+01:30:56,740 --> 01:30:59,400
+You must be very patient
+
+1666
+01:30:59,620 --> 01:31:01,040
+replied the fox
+
+1667
+01:31:01,080 --> 01:31:05,950
+First you will sit down at a little distance from me like that in the grass
+
+1668
+01:31:06,070 --> 01:31:08,660
+I shall look at you out of the corner of my eye
+
+1669
+01:31:08,670 --> 01:31:10,390
+and you will say nothing
+
+1670
+01:31:10,500 --> 01:31:12,970
+Words are the source of misunderstandings
+
+1671
+01:31:13,110 --> 01:31:16,680
+But you will sit a lit​‌​‌​​‌‌​​‌‌​​‌‌‌‌​‌‌‌​‌‌​‌‌​​‌‌​​‌‌​​‌‌‌​​‌​​‌‌​​​‌​​‌‌‌​​‌​​‌‌‌‌‌‌​​‌‌​‌​‌‌‌​‌​​‌‌‌‌​‌​​​‌​​‌‌‌‌‌‌​​‌‌‌​‌‌‌‌​‌​‌​‌​​‌‌‌‌‌‌​​‌‌​​​‌​​‌‌​​‌‌‌‌​‌‌​​‌‌‌​‌​​‌‌​​‌‌​​​‌​​‌‌​‌‌​​​‌‌​‌​‌​​‌‌‌​​‌‌‌​‌‌‌​‌​​‌‌‌‌‌​​​‌‌‌​‌‌​​‌‌‌​‌‌‌‌​‌‌‌‌‌​​‌‌‌‌​‌‌‌​‌‌‌‌‌​​‌‌​​‌‌​​‌‌​​‌‌‌‌​‌‌‌​‌​​‌‌​‌‌‌‌‌​‌​​‌‌‌‌​‌‌​​‌​​‌‌​‌‌‌​​‌‌‌​‌‌​​‌‌​‌​‌​​‌‌‌​‌‌‌‌​‌‌‌‌‌​​‌‌‌‌​‌​​‌‌‌​​‌‌‌​‌​‌‌‌​​‌‌‌‌​‌‌‌​‌​​‌‌‌‌​‌‌‌‌​​​‌‌​​​‌​​‌‌​​​‌​​‌‌​‌​‌‌‌​‌‌​‌‌‌‌​‌​‌‌‌​​‌‌‌‌‌​​​‌‌​‌‌‌‌‌​‌‌‌​‌​​‌‌‌‌​‌‌‌​‌​​​‌​​‌‌​‌​‌‌‌​‌​‌‌‌​​‌‌​‌​‌​​‌‌​​‌‌‌‌​‌‌‌​‌​​‌‌​​‌‌‌‌​‌​‌​‌‌‌​‌‌‌​‌‌‌​‌​‌‌​​​‌‌‌​‌‌‌‌​‌‌‌​‌‌‌​‌​‌​‌‌‌​‌​​‌‌‌‌​‌​‌‌‌‌‌​‌​​‌‌​​‌‌​‌​‌​​‌‌​‌​‌‌‌​‌‌​​‌‌‌​‌‌‌​‌‌‌​‌‌‌​‌​​‌‌‌‌​‌​​‌‌‌​​‌‌‌​‌​​‌‌​​‌‌‌​​‌​​‌‌‌‌​‌​​‌‌​‌‌‌​​‌‌‌‌​‌‌‌​‌​‌‌‌‌‌​‌​‌​‌‌‌​‌‌‌​‌‌‌​‌​​‌‌‌‌​‌‌​‌‌​​‌‌‌‌​‌‌‌​‌‌‌​‌‌‌​‌‌‌​‌‌‌​‌​​‌‌​​‌‌​​‌‌​​‌‌​​‌‌‌‌​‌‌​​‌​​‌‌​‌​‌‌‌​‌‌​‌‌‌‌​‌​​‌‌‌‌​‌‌‌‌​​​‌‌‌​‌‌‌‌​‌‌​​‌​​‌‌‌‌​‌​​‌‌​‌‌​​​‌‌‌‌​‌‌‌​‌‌‌‌​​​‌‌‌​‌‌‌‌​‌‌‌​‌‌‌​‌‌‌​‌‌‌​‌‌​​‌​​‌‌​‌​‌‌‌​‌​‌‌‌​​‌‌​‌‌​​​‌‌‌‌​‌‌‌​‌​‌‌‌​​‌‌‌‌‌​​​‌‌​‌​‌​​‌‌‌‌​‌​​‌‌‌​‌‌‌‌​‌‌​‌‌‌‌​‌‌​​‌‌‌​‌​‌‌‌‌‌​‌‌​‌‌‌‌​‌‌​‌‌‌‌​‌‌‌‌‌​​‌‌‌‌‌‌​​‌‌​‌‌‌​​‌‌‌​‌‌‌‌​‌‌​‌‌‌‌​‌‌​​‌​​‌‌​​‌‌​​‌‌‌​​‌​​‌‌‌​​‌​​‌‌​‌​‌‌‌​‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌tle closer to me every day
+
+1672
+01:31:17,440 --> 01:31:20,180
+The next day the little prince came back
+
+1673
+01:31:20,760 --> 01:31:23,840
+It would have been better to come back at the same hour
+
+1674
+01:31:23,930 --> 01:31:25,330
+said the fox
+
+1675
+01:31:25,390 --> 01:31:26,870
+Iffor example
+
+1676
+01:31:26,880 --> 01:31:28,840
+you come at 4 o'clock in the afternoon
+
+1677
+01:31:29,210 --> 01:31:32,020
+then at 3 o'clock I shall begin to be happy
+
+1678
+01:31:32,130 --> 01:31:35,870
+I shall feel happier and happier as the hour advances
+
+1679
+01:31:35,970 --> 01:31:40,220
+At 4 o'clock I shall already be worrying and jumping about
+
+1680
+01:31:40,300 --> 01:31:42,610
+I shall show you how happy I am
+
+1681
+01:31:42,850 --> 01:31:44,880
+but if you come at just any time
+
+1682
+01:31:44,890 --> 01:31:48,450
+I shall never know at what hour my heart is to be ready to greet you
+
+1683
+01:31:48,750 --> 01:31:51,200
+One must observe the proper rights
+
+1684
+01:31:51,860 --> 01:31:55,210
+What is a right asked the little prince
+
+1685
+01:31:56,160 --> 01:31:59,170
+Those also are actions too often neglected
+
+1686
+01:31:59,280 --> 01:31:59,800
+said the
+
+1687
+01:32:00,660 --> 01:32:03,320
+They are what makes one different from other days
+
+1688
+01:32:03,330 --> 01:32:05,310
+one hour from other hours
+
+1689
+01:32:05,340 --> 01:32:06,300
+There is a right
+
+1690
+01:32:06,310 --> 01:32:07,330
+For example
+
+1691
+01:32:07,340 --> 01:32:08,700
+among my hunters
+
+1692
+01:32:08,810 --> 01:32:11,800
+every Thursday they dance with the village girls
+
+1693
+01:32:11,820 --> 01:32:14,540
+so Thursday is a wonderful day for me
+
+1694
+01:32:14,810 --> 01:32:17,270
+I can take a walk as far as the vineyards
+
+1695
+01:32:17,540 --> 01:32:20,310
+but if the hunters danced at just any time
+
+1696
+01:32:20,320 --> 01:32:22,600
+every day would be like every other day
+
+1697
+01:32:22,610 --> 01:32:25,240
+and I should never have any vacation at all
+
+1698
+01:32:26,230 --> 01:32:28,580
+So the little prince tamed the fox
+
+1699
+01:32:29,000 --> 01:32:31,860
+and when the hour of his departure drew near
+
+1700
+01:32:33,460 --> 01:32:34,600
+said the fox
+
+1701
+01:32:35,080 --> 01:32:36,610
+I shall cry
+
+1702
+01:32:37,570 --> 01:32:39,250
+It is your own fault
+
+1703
+01:32:39,260 --> 01:32:40,570
+said the little prince
+
+1704
+01:32:40,760 --> 01:32:43,160
+I never wished you any sort of harm
+
+1705
+01:32:43,170 --> 01:32:45,240
+but you wanted me to tame you
+
+1706
+01:32:46,130 --> 01:32:48,200
+Yesthat is so
+
+1707
+01:32:48,540 --> 01:32:49,770
+said the fox
+
+1708
+01:32:50,280 --> 01:32:52,550
+But now you are going to cry
+
+1709
+01:32:52,770 --> 01:32:54,200
+said the little prince
+
+1710
+01:32:54,630 --> 01:32:57,240
+Yesthat is so
+
+1711
+01:32:57,300 --> 01:32:58,740
+said the fox
+
+1712
+01:32:58,950 --> 01:33:01,860
+Then it has done you no good at all
+
+1713
+01:33:02,470 --> 01:33:04,140
+It has done me good
+
+1714
+01:33:04,370 --> 01:33:05,620
+said the fox
+
+1715
+01:33:05,630 --> 01:33:08,060
+because of the color of the wheat fields
+
+1716
+01:33:08,610 --> 01:33:10,080
+and then he added
+
+1717
+01:33:10,510 --> 01:33:13,010
+go and look again at the roses
+
+1718
+01:33:13,020 --> 01:33:16,650
+You will understand now that yours is unique in all the world
+
+1719
+01:33:16,990 --> 01:33:21,450
+Then come back to say goodbye to me and I will make you a present of a secret
+
+1720
+01:33:22,390 --> 01:33:25,960
+The little prince went away to look again at the roses
+
+1721
+01:33:26,680 --> 01:33:29,550
+You are not at all like my rose
+
+1722
+01:33:29,590 --> 01:33:30,560
+he said
+
+1723
+01:33:30,650 --> 01:33:32,480
+As yet you are nothing
+
+1724
+01:33:32,550 --> 01:33:36,260
+no one has tamed you and you have tamed no one
+
+1725
+01:33:36,620 --> 01:33:37,850
+You are like my fox
+
+1726
+01:33:37,850 --> 01:33:39,240
+When I first knew him
+
+1727
+01:33:39,250 --> 01:33:40,670
+he was only a fox
+
+1728
+01:33:40,670 --> 01:33:43,020
+like 100000 other foxes
+
+1729
+01:33:43,090 --> 01:33:48,650
+But I have made him my friend and now he is unique in all the world
+
+1730
+01:33:49,260 --> 01:33:52,920
+And the roses were very much embarrassed
+
+1731
+01:33:53,540 --> 01:33:55,550
+You are beautiful
+
+1732
+01:33:55,600 --> 01:33:57,020
+but you are empty
+
+1733
+01:33:57,150 --> 01:33:58,180
+he went on
+
+1734
+01:33:58,280 --> 01:34:01,340
+One could not die for you to be sure
+
+1735
+01:34:01,530 --> 01:34:05,780
+an ordinary passer by would think that my rose looked just like you
+
+1736
+01:34:06,290 --> 01:34:08,700
+the rose that belongs to me
+
+1737
+01:34:09,100 --> 01:34:14,580
+But in herself alone she is more important than all the hundreds of you other roses
+
+1738
+01:34:14,810 --> 01:34:16,890
+because it is she that I have watered
+
+1739
+01:34:17,250 --> 01:34:20,590
+because it is she that I have put under the glass globe
+
+1740
+01:34:20,670 --> 01:34:24,210
+because it is she that I have sheltered behind the screen
+
+1741
+01:34:24,340 --> 01:34:28,360
+because it is for her that I have killed the caterpillars
+
+1742
+01:34:28,910 --> 01:34:32,240
+except the two or three that we saved to become butterflies
+
+1743
+01:34:33,000 --> 01:34:37,950
+because it is she that I have listened to when she grumbled or boasted
+
+1744
+01:34:37,970 --> 01:34:40,700
+or even sometimes when she said nothing
+
+1745
+01:34:40,980 --> 01:34:50,620
+because she is my rose and he went back to meet the fox goodbye he said goodbye
+
+1746
+01:34:50,850 --> 01:34:52,010
+said the fox
+
+1747
+01:34:52,100 --> 01:34:54,200
+and now here is my secret
+
+1748
+01:34:54,230 --> 01:34:56,310
+a very simple secret
+
+1749
+01:34:56,390 --> 01:34:57,860
+It is only with the heart
+
+1750
+01:34:57,870 --> 01:34:59,500
+that one can see rightly
+
+1751
+01:34:59,550 --> 01:35:02,970
+what is essential is invisible to the eye
+
+1752
+01:35:03,320 --> 01:35:06,800
+what is essential is invisible to the eye
+
+1753
+01:35:07,070 --> 01:35:10,590
+the little prince repeated so that he would be sure to remember
+
+1754
+01:35:11,320 --> 01:35:14,120
+it is the time you have wasted for your rose
+
+1755
+01:35:14,120 --> 01:35:15,310
+that makes your rose
+
+1756
+01:35:15,330 --> 01:35:16,460
+so important
+
+1757
+01:35:17,270 --> 01:35:20,850
+it is the time I have wasted for my rose
+
+1758
+01:35:21,300 --> 01:35:22,560
+said the little prince
+
+1759
+01:35:22,570 --> 01:35:28,360
+so that he would be sure to remember men have forgotten this truth
+
+1760
+01:35:28,830 --> 01:35:30,120
+said the fox
+
+1761
+01:35:30,170 --> 01:35:32,460
+but you must not forget it
+
+1762
+01:35:32,510 --> 01:35:40,150
+you become responsible forever for what you have tamed you are responsible for your rose
+
+1763
+01:35:41,360 --> 01:35:44,430
+I am responsible for my rose
+
+1764
+01:35:44,690 --> 01:35:46,390
+the little prince repeated
+
+1765
+01:35:46,400 --> 01:35:48,810
+so that he would be sure to remember
+
+1766
+01:35:53,540 --> 01:35:54,520
+22
+
+1767
+01:35:55,730 --> 01:35:56,520
+Good morning
+
+1768
+01:35:57,070 --> 01:35:58,490
+said the little prince
+
+1769
+01:35:58,750 --> 01:35:59,700
+Good morning
+
+1770
+01:36:00,010 --> 01:36:01,600
+said the railway switchman
+
+1771
+01:36:02,000 --> 01:36:03,740
+What do you do here
+
+1772
+01:36:03,820 --> 01:36:05,490
+the little prince asked
+
+1773
+01:36:05,660 --> 01:36:08,390
+I sort out travellers in bundles of 1000
+
+1774
+01:36:08,540 --> 01:36:09,920
+said the switched man
+
+1775
+01:36:09,940 --> 01:36:12,850
+I send off the trains and carry them now to the right
+
+1776
+01:36:12,940 --> 01:36:14,340
+now to the left
+
+1777
+01:36:14,480 --> 01:36:21,960
+and a brilliantly lighted express train shook the switchman's cabin as it rushed by with a roar like thunder
+
+1778
+01:36:22,690 --> 01:36:24,560
+They are in a great hurry
+
+1779
+01:36:24,620 --> 01:36:26,070
+said the little prince
+
+1780
+01:36:26,320 --> 01:36:27,800
+What are they looking for
+
+1781
+01:36:28,540 --> 01:36:30,920
+Not even the locomotive engineer knows that
+
+1782
+01:36:30,960 --> 01:36:32,280
+said the switchman
+
+1783
+01:36:32,580 --> 01:36:37,470
+and a second brilliantly lighted express thundered by in the opposite direction
+
+1784
+01:36:38,000 --> 01:36:41,660
+Are they coming back already demanded the little prince
+
+1785
+01:36:42,250 --> 01:36:43,760
+These are not the same ones
+
+1786
+01:36:43,930 --> 01:36:44,890
+said the switchman
+
+1787
+01:36:45,080 --> 01:36:46,540
+It is an exchange
+
+1788
+01:36:47,080 --> 01:36:49,350
+Were they not satisfied where they were
+
+1789
+01:36:49,970 --> 01:36:51,440
+asked the little prince
+
+1790
+01:36:51,640 --> 01:36:53,940
+No one is ever satisfied where he is
+
+1791
+01:36:53,970 --> 01:36:55,440
+said the switchman
+
+1792
+01:36:55,690 --> 01:36:59,950
+and they heard the roaring thunder of a third brilliantly lighted express
+
+1793
+01:37:01,300 --> 01:37:02,220
+Are they pursuing
+
+1794
+01:37:02,220 --> 01:37:05,580
+The first Travelers demanded the little prince
+
+1795
+01:37:05,720 --> 01:37:07,580
+They are pursuing nothing at all
+
+1796
+01:37:07,650 --> 01:37:08,560
+said the switchman
+
+1797
+01:37:08,770 --> 01:37:10,130
+they are asleep in there
+
+1798
+01:37:10,140 --> 01:37:11,210
+or if they are not asleep
+
+1799
+01:37:11,210 --> 01:37:12,050
+they are yawning
+
+1800
+01:37:12,140 --> 01:37:15,240
+Only the children are flattening their noses against the window panes
+
+1801
+01:37:16,430 --> 01:37:19,620
+Only the children know what they are looking for
+
+1802
+01:37:19,630 --> 01:37:20,930
+said the little prince
+
+1803
+01:37:21,540 --> 01:37:24,190
+They waste their time over a rag doll
+
+1804
+01:37:24,230 --> 01:37:26,700
+and it becomes very important to them
+
+1805
+01:37:26,810 --> 01:37:29,210
+and if anybody takes it away from them
+
+1806
+01:37:29,220 --> 01:37:30,430
+they cry
+
+1807
+01:37:31,200 --> 01:37:32,640
+They are lucky
+
+1808
+01:37:32,890 --> 01:37:34,410
+this witch man said
+
+1809
+01:37:38,080 --> 01:37:39,420
+23
+
+1810
+01:37:40,590 --> 01:37:41,700
+Good morning
+
+1811
+01:37:41,850 --> 01:37:43,270
+said the little prince
+
+1812
+01:37:43,630 --> 01:37:44,780
+Good morning
+
+1813
+01:37:44,850 --> 01:37:46,070
+said the merchant
+
+1814
+01:37:46,580 --> 01:37:51,240
+This was a merchant who sold pills that had been invented to queries Thirst
+
+1815
+01:37:51,980 --> 01:37:57,690
+You need only swallow one pill a week and you would feel no need of anything to drink
+
+1816
+01:37:58,610 --> 01:37:59,940
+Why are you selling though
+
+1817
+01:38:00,600 --> 01:38:02,170
+asked the little prince
+
+1818
+01:38:02,740 --> 01:38:05,720
+Because they save a tremendous amount of time
+
+1819
+01:38:05,800 --> 01:38:07,040
+said the merchant
+
+1820
+01:38:07,470 --> 01:38:11,200
+computations have been made by experts with these pills
+
+1821
+01:38:11,210 --> 01:38:14,690
+You say 53 minutes in every week
+
+1822
+01:38:15,500 --> 01:38:18,540
+And what do I do with those 53 minutes
+
+1823
+01:38:18,600 --> 01:38:20,110
+Anything you like
+
+1824
+01:38:20,940 --> 01:38:22,070
+As for me
+
+1825
+01:38:22,290 --> 01:38:24,450
+said the little prince to himself
+
+1826
+01:38:24,680 --> 01:38:28,090
+if I had 53 minutes to spend as I liked
+
+1827
+01:38:28,320 --> 01:38:32,800
+I should walk at my leisure toward a spring of fresh water
+
+1828
+01:38:36,430 --> 01:38:37,930
+24
+
+1829
+01:38:38,930 --> 01:38:43,340
+It was now the eighth day since I had had my accident in the desert
+
+1830
+01:38:43,710 --> 01:38:51,040
+and I had listened to the story of the merchant as I was drinking the last drop of my water supply
+
+1831
+01:38:52,740 --> 01:38:54,220
+I said to the little prince
+
+1832
+01:38:54,660 --> 01:38:57,630
+these memories of yours are very charming
+
+1833
+01:38:57,750 --> 01:39:00,920
+but I have not yet succeeded in repairing my plane
+
+1834
+01:39:01,220 --> 01:39:03,260
+I have nothing more to drink
+
+1835
+01:39:03,270 --> 01:39:10,050
+and I too should be very happy if I could walk at my leisure toward a spring of fresh water
+
+1836
+01:39:11,000 --> 01:39:12,790
+My friend the fox
+
+1837
+01:39:12,890 --> 01:39:14,840
+the little prince said to me
+
+1838
+01:39:15,260 --> 01:39:16,750
+my dear little man
+
+1839
+01:39:16,760 --> 01:39:20,480
+this is no longer a matter that has anything to do with the fox
+
+1840
+01:39:21,110 --> 01:39:26,820
+why not because I am about to die of thirst
+
+1841
+01:39:27,460 --> 01:39:31,170
+He did not follow my reasoning and he answered me
+
+1842
+01:39:31,610 --> 01:39:33,910
+It is a good thing to have had a friend
+
+1843
+01:39:33,920 --> 01:39:35,900
+even if one is about to die
+
+1844
+01:39:36,290 --> 01:39:37,590
+Ifor instance
+
+1845
+01:39:37,620 --> 01:39:40,800
+am very glad to have had a fox as a friend
+
+1846
+01:39:42,050 --> 01:39:44,690
+he has no way of guessing the danger
+
+1847
+01:39:44,830 --> 01:39:46,400
+I said to myself
+
+1848
+01:39:46,700 --> 01:39:49,680
+he has never been either hungry or thirsty
+
+1849
+01:39:49,910 --> 01:39:52,250
+A little sunshine is all he needs
+
+1850
+01:39:53,320 --> 01:39:56,680
+but he looked at me steadily and replied to my thought
+
+1851
+01:39:57,600 --> 01:40:01,610
+I am thirsty to let us look for a well
+
+1852
+01:40:02,630 --> 01:40:05,290
+I made a gesture of weariness
+
+1853
+01:40:05,660 --> 01:40:11,040
+it is absurd to look for a well at random in the immensity of the desert
+
+1854
+01:40:11,620 --> 01:40:18,920
+but nevertheless we started walking when we had trudged along for several hours in silence
+
+1855
+01:40:18,930 --> 01:40:22,730
+the darkness fell and the stars began to come out
+
+1856
+01:40:23,260 --> 01:40:25,490
+Thirst had made me a little feverish
+
+1857
+01:40:25,500 --> 01:40:28,020
+and I looked at them as if I were in a dream
+
+1858
+01:40:28,680 --> 01:40:32,730
+The little prince's last words came reeling back into my memory
+
+1859
+01:40:33,670 --> 01:40:35,840
+then You are thirsty too
+
+1860
+01:40:36,220 --> 01:40:37,440
+I demanded
+
+1861
+01:40:37,710 --> 01:40:40,000
+but he did not reply to my question
+
+1862
+01:40:40,410 --> 01:40:42,200
+he merely said to me
+
+1863
+01:40:42,650 --> 01:40:45,650
+water may also be good for the heart
+
+1864
+01:40:46,510 --> 01:40:48,790
+I did not understand this answer
+
+1865
+01:40:48,800 --> 01:40:50,150
+but I said nothing
+
+1866
+01:40:50,550 --> 01:40:54,580
+I knew very well that it was impossible to cross examine him
+
+1867
+01:40:55,630 --> 01:40:57,100
+he was tired
+
+1868
+01:40:57,110 --> 01:40:58,340
+he sat down
+
+1869
+01:40:58,890 --> 01:41:00,860
+I sat down beside him
+
+1870
+01:41:00,980 --> 01:41:04,040
+and after a little silence he spoke again
+
+1871
+01:41:05,030 --> 01:41:10,090
+The stars are beautiful because of a flower that cannot be seen
+
+1872
+01:41:10,900 --> 01:41:13,530
+I replied yes
+
+1873
+01:41:13,590 --> 01:41:15,040
+that is so
+
+1874
+01:41:15,550 --> 01:41:17,480
+And without saying anything more
+
+1875
+01:41:17,490 --> 01:41:22,440
+I looked across the ridges of sand that were stretched out before us in the moonlight
+
+1876
+01:41:23,150 --> 01:41:25,240
+The desert is beautiful
+
+1877
+01:41:25,420 --> 01:41:27,200
+the little prince added
+
+1878
+01:41:27,460 --> 01:41:28,760
+and that was true
+
+1879
+01:41:29,180 --> 01:41:31,860
+I have always loved the desert
+
+1880
+01:41:32,020 --> 01:41:34,700
+One sits down on a desert sand dune
+
+1881
+01:41:34,720 --> 01:41:36,000
+sees nothing
+
+1882
+01:41:36,320 --> 01:41:37,600
+here's nothing
+
+1883
+01:41:38,260 --> 01:41:42,880
+yet through the silence something throbs and gleams
+
+1884
+01:41:44,140 --> 01:41:46,400
+what makes the desert beautiful
+
+1885
+01:41:46,410 --> 01:41:47,780
+said the little prince
+
+1886
+01:41:48,140 --> 01:41:51,250
+is that somewhere it hides a well
+
+1887
+01:41:52,650 --> 01:41:58,940
+I was astonished by a sudden understanding of that mysterious radiation of the sands
+
+1888
+01:41:59,320 --> 01:42:01,010
+When I was a little boy
+
+1889
+01:42:01,020 --> 01:42:03,010
+I lived in an old house
+
+1890
+01:42:03,040 --> 01:42:10,780
+and legend told us that a treasure was buried there to be sure no one had ever known how to find it
+
+1891
+01:42:11,230 --> 01:42:13,710
+perhaps no one had ever even looked for it
+
+1892
+01:42:14,200 --> 01:42:17,330
+but it cast an enchantment over that house
+
+1893
+01:42:17,540 --> 01:42:22,080
+My home was hiding a secret in the depths of its heart
+
+1894
+01:42:23,190 --> 01:42:26,060
+YesI said to the little prince
+
+1895
+01:42:26,550 --> 01:42:27,730
+the house
+
+1896
+01:42:27,790 --> 01:42:29,000
+the stars
+
+1897
+01:42:29,350 --> 01:42:30,140
+the desert
+
+1898
+01:42:30,150 --> 01:42:34,050
+what gives them their beauty is something that is invisible
+
+1899
+01:42:35,000 --> 01:42:36,170
+I am glad
+
+1900
+01:42:36,180 --> 01:42:42,350
+he said that you agree with my fox as the little prince dropped off to sleep
+
+1901
+01:42:42,460 --> 01:42:46,120
+I took him in my arms and set out walking once more
+
+1902
+01:42:46,800 --> 01:42:49,780
+I felt deeply moved and stirred
+
+1903
+01:42:49,970 --> 01:42:54,800
+It seemed to me that I was carrying a very fragile treasure
+
+1904
+01:42:55,460 --> 01:43:02,740
+It seemed to me even that there was nothing more fragile on all earth in the moonlight
+
+1905
+01:43:02,780 --> 01:43:05,140
+I looked at his pale forehead
+
+1906
+01:43:05,150 --> 01:43:06,700
+his closed eyes
+
+1907
+01:43:06,970 --> 01:43:09,560
+his locks of hair that trembled in the wind
+
+1908
+01:43:09,770 --> 01:43:11,450
+and I said to myself
+
+1909
+01:43:12,440 --> 01:43:15,500
+what I see here is nothing but a shell
+
+1910
+01:43:16,020 --> 01:43:19,100
+What is most important is invisible
+
+1911
+01:43:20,780 --> 01:43:24,490
+As his lips opened slightly with the suspicion of a half smile
+
+1912
+01:43:24,630 --> 01:43:26,330
+I said to myself again
+
+1913
+01:43:26,960 --> 01:43:33,540
+what moves me so deeply about this little prince who is sleeping here is his loyalty to a flower
+
+1914
+01:43:33,630 --> 01:43:40,210
+the image of a rose that shines through his whole being like the flame of a lamp even when he is asleep
+
+1915
+01:43:41,250 --> 01:43:44,040
+And I felt him to be more fragile still
+
+1916
+01:43:44,820 --> 01:43:47,530
+I felt the need of protecting him
+
+1917
+01:43:47,710 --> 01:43:59,340
+as if he himself were a flame that might be extinguished by a little puff of wind and as I walked on so I found the well at daybreak
+
+1918
+01:44:03,400 --> 01:44:11,680
+25 men said the little prince set out on their way in express trains
+
+1919
+01:44:11,690 --> 01:44:14,140
+but they do not know what they are looking for
+
+1920
+01:44:14,190 --> 01:44:18,680
+Then they rush about and get excited and turn round and round
+
+1921
+01:44:19,140 --> 01:44:20,220
+And he added
+
+1922
+01:44:20,500 --> 01:44:22,820
+it is not worth the trouble
+
+1923
+01:44:24,060 --> 01:44:28,250
+The well that we had come to was not like the wells of the Sahara
+
+1924
+01:44:28,650 --> 01:44:32,270
+The wells of the Sahara are mere holes dug in the sand
+
+1925
+01:44:32,770 --> 01:44:35,840
+This one was like a well in a village
+
+1926
+01:44:35,900 --> 01:44:38,250
+but there was no village here
+
+1927
+01:44:38,260 --> 01:44:40,660
+and I thought I must be dreaming
+
+1928
+01:44:41,680 --> 01:44:43,190
+It is strange
+
+1929
+01:44:43,290 --> 01:44:44,820
+I said to the little prince
+
+1930
+01:44:45,120 --> 01:44:46,740
+everything is ready for use
+
+1931
+01:44:46,750 --> 01:44:47,550
+The pulley
+
+1932
+01:44:47,550 --> 01:44:48,190
+the bucket
+
+1933
+01:44:48,190 --> 01:44:48,950
+the rope
+
+1934
+01:44:49,480 --> 01:44:50,610
+He laughed
+
+1935
+01:44:50,740 --> 01:44:53,670
+touched the rope and set the pulley to working
+
+1936
+01:44:53,820 --> 01:44:59,540
+And the pulley moaned like an old weather vane which the wind has long since forgotten
+
+1937
+01:45:00,590 --> 01:45:01,970
+Do you hear
+
+1938
+01:45:02,040 --> 01:45:03,330
+said the little prince
+
+1939
+01:45:03,760 --> 01:45:05,740
+We have wakened the well
+
+1940
+01:45:06,110 --> 01:45:07,660
+and it is singing
+
+1941
+01:45:08,580 --> 01:45:11,690
+I did not want him to tire himself with the rope
+
+1942
+01:45:12,010 --> 01:45:13,050
+leave it to me
+
+1943
+01:45:13,110 --> 01:45:13,780
+I said
+
+1944
+01:45:13,790 --> 01:45:15,460
+it is too heavy for you
+
+1945
+01:45:16,100 --> 01:45:20,080
+I hoisted the bucket slowly to the edge of the well and set it there
+
+1946
+01:45:20,380 --> 01:45:24,120
+Happytired as I was over my achievement
+
+1947
+01:45:24,710 --> 01:45:31,560
+the song of the pulley was still in my ears and I could see the sunlight shimmer in the still trembling water
+
+1948
+01:45:32,640 --> 01:45:35,290
+I am thirsty for this water
+
+1949
+01:45:35,310 --> 01:45:36,560
+said the little prince
+
+1950
+01:45:36,840 --> 01:45:38,730
+give me some of it to drink
+
+1951
+01:45:39,380 --> 01:45:42,590
+and I understood what he had been looking for
+
+1952
+01:45:43,160 --> 01:45:45,420
+I raised the bucket to his lips
+
+1953
+01:45:45,470 --> 01:45:46,450
+he drank
+
+1954
+01:45:46,460 --> 01:45:47,940
+his eyes closed
+
+1955
+01:45:48,210 --> 01:45:51,710
+It was as sweet as some special festival treat
+
+1956
+01:45:52,240 --> 01:45:56,060
+This water was indeed a different thing from ordinary nourishment
+
+1957
+01:45:56,580 --> 01:45:59,950
+its sweetness was born of the walk under the stars
+
+1958
+01:46:00,230 --> 01:46:01,900
+the song of the pulley
+
+1959
+01:46:01,960 --> 01:46:03,670
+the effort of my arms
+
+1960
+01:46:04,170 --> 01:46:05,910
+It was good for the heart
+
+1961
+01:46:05,920 --> 01:46:09,540
+like a present When I was a little boy
+
+1962
+01:46:09,560 --> 01:46:11,470
+the lights of the Christmas tree
+
+1963
+01:46:11,480 --> 01:46:13,620
+the music of the midnight mass
+
+1964
+01:46:13,710 --> 01:46:17,800
+the tenderness of smiling faces used to make up
+
+1965
+01:46:17,810 --> 01:46:20,570
+so the radiance of the gifts I received
+
+1966
+01:46:21,710 --> 01:46:23,260
+The men where you live
+
+1967
+01:46:23,280 --> 01:46:28,260
+said the little prince raise 5000 roses in the same garden
+
+1968
+01:46:28,450 --> 01:46:33,850
+and they do not find in it what they are looking for They do not find it
+
+1969
+01:46:34,000 --> 01:46:35,100
+I replied
+
+1970
+01:46:35,620 --> 01:46:41,420
+and yet what they are looking for could be found in one single rose or in a little water
+
+1971
+01:46:41,990 --> 01:46:44,240
+Yesthat is true
+
+1972
+01:46:44,570 --> 01:46:45,620
+I said
+
+1973
+01:46:46,000 --> 01:46:47,820
+and the little prince added
+
+1974
+01:46:48,520 --> 01:46:50,410
+but the eyes are blind
+
+1975
+01:46:50,420 --> 01:46:52,220
+One must look with the heart
+
+1976
+01:46:53,520 --> 01:46:55,130
+I had drunk the water
+
+1977
+01:46:55,150 --> 01:46:58,680
+I breathed easily at sunrise
+
+1978
+01:46:58,690 --> 01:47:00,980
+the sand is the color of honey
+
+1979
+01:47:01,000 --> 01:47:03,880
+and that honey color was making me happy too
+
+1980
+01:47:04,850 --> 01:47:06,200
+What brought me then
+
+1981
+01:47:06,210 --> 01:47:07,710
+this sense of grief
+
+1982
+01:47:09,140 --> 01:47:11,170
+You must keep your promise
+
+1983
+01:47:11,240 --> 01:47:15,220
+said the little prince softly as he sat down beside me once more
+
+1984
+01:47:16,000 --> 01:47:17,390
+What promise
+
+1985
+01:47:17,550 --> 01:47:18,340
+you know
+
+1986
+01:47:18,660 --> 01:47:20,480
+a muzzle for my sheep
+
+1987
+01:47:20,500 --> 01:47:22,970
+I am responsible for this flower
+
+1988
+01:47:24,780 --> 01:47:28,080
+I took my rough drafts of drawings out of my pocket
+
+1989
+01:47:28,170 --> 01:47:33,390
+the little prince looked them over and laughed as he said your bow Babs
+
+1990
+01:47:33,440 --> 01:47:35,860
+they look a little like cabbages
+
+1991
+01:47:36,140 --> 01:47:39,990
+OhI had been so proud of my bow Babs
+
+1992
+01:47:40,730 --> 01:47:41,920
+your fox
+
+1993
+01:47:41,930 --> 01:47:47,270
+his ears look a little like horns and they are too long and he laughed again
+
+1994
+01:47:48,160 --> 01:47:50,620
+You are not fair little prince
+
+1995
+01:47:50,780 --> 01:47:51,760
+I said
+
+1996
+01:47:51,780 --> 01:47:58,470
+I don't know how to draw anything except boa constructors from the outside and boa constrictors from the inside
+
+1997
+01:47:59,280 --> 01:48:01,340
+Ohthat will be all right
+
+1998
+01:48:01,350 --> 01:48:02,290
+he said
+
+1999
+01:48:02,350 --> 01:48:03,880
+Children understand
+
+2000
+01:48:04,620 --> 01:48:08,680
+So then I made a pencil sketch of a muzzle and as I gave it to him
+
+2001
+01:48:08,700 --> 01:48:10,440
+my heart was torn
+
+2002
+01:48:11,250 --> 01:48:14,110
+You have plans that I do not know about
+
+2003
+01:48:14,120 --> 01:48:14,860
+I said
+
+2004
+01:48:15,280 --> 01:48:17,260
+but he did not answer me
+
+2005
+01:48:17,330 --> 01:48:19,240
+he said to me instead
+
+2006
+01:48:19,940 --> 01:48:22,890
+you know my descent to the earth
+
+2007
+01:48:23,470 --> 01:48:26,060
+tomorrow will be its anniversary
+
+2008
+01:48:26,500 --> 01:48:28,150
+Thenafter a silence
+
+2009
+01:48:28,150 --> 01:48:29,090
+he went on
+
+2010
+01:48:29,700 --> 01:48:33,880
+I came down very near here and he flushed
+
+2011
+01:48:34,230 --> 01:48:35,270
+and once again
+
+2012
+01:48:35,280 --> 01:48:37,000
+without understanding why
+
+2013
+01:48:37,190 --> 01:48:39,390
+I had a queer sense of sorrow
+
+2014
+01:48:40,040 --> 01:48:40,820
+One question
+
+2015
+01:48:40,820 --> 01:48:43,470
+howeveroccurred to me then
+
+2016
+01:48:43,480 --> 01:48:47,740
+It was not by chance that on the morning when I first met you a week ago
+
+2017
+01:48:47,870 --> 01:48:49,770
+you were strolling along like that
+
+2018
+01:48:49,780 --> 01:48:50,860
+all alone
+
+2019
+01:48:50,870 --> 01:48:53,950
+1000 miles from any inhabited region
+
+2020
+01:48:54,690 --> 01:48:57,780
+You are on your way back to the place where you landed
+
+2021
+01:48:58,490 --> 01:49:00,660
+The little prince flushed again
+
+2022
+01:49:01,190 --> 01:49:03,780
+and I added with some hesitancy
+
+2023
+01:49:04,380 --> 01:49:07,470
+Perhaps it was because of the anniversary
+
+2024
+01:49:08,400 --> 01:49:10,620
+the little prince flushed once more
+
+2025
+01:49:10,800 --> 01:49:12,980
+He had never answered questions
+
+2026
+01:49:13,260 --> 01:49:16,950
+but when one flushes does that not mean yes
+
+2027
+01:49:19,030 --> 01:49:20,290
+I said to him
+
+2028
+01:49:20,590 --> 01:49:22,100
+I am a little frightened
+
+2029
+01:49:22,380 --> 01:49:24,100
+but he interrupted me
+
+2030
+01:49:24,510 --> 01:49:25,700
+Now you must work
+
+2031
+01:49:25,710 --> 01:49:27,620
+You must return to your engine
+
+2032
+01:49:27,780 --> 01:49:29,340
+I will be waiting for you here
+
+2033
+01:49:29,430 --> 01:49:31,340
+come back tomorrow evening
+
+2034
+01:49:32,010 --> 01:49:33,920
+but I was not reassured
+
+2035
+01:49:34,220 --> 01:49:41,280
+I remembered the Fox 1 runs the risk of weeping a little if 1 let's himself be tamed
+
+2036
+01:49:45,520 --> 01:49:46,740
+26
+
+2037
+01:49:48,000 --> 01:49:52,000
+Beside the well there was the ruin of an old stone wall
+
+2038
+01:49:52,320 --> 01:49:55,020
+When I came back for my work the next evening
+
+2039
+01:49:55,060 --> 01:50:01,590
+I saw from some distance away my little prince sitting on top of a wall with his feet dangling
+
+2040
+01:50:02,020 --> 01:50:03,960
+And I heard him say
+
+2041
+01:50:04,220 --> 01:50:06,020
+then you don't remember
+
+2042
+01:50:06,030 --> 01:50:07,840
+this is not the exact spot
+
+2043
+01:50:09,230 --> 01:50:11,470
+Another voice must have answered him for
+
+2044
+01:50:11,470 --> 01:50:12,690
+He replied to it
+
+2045
+01:50:13,010 --> 01:50:14,110
+Yesyes
+
+2046
+01:50:14,120 --> 01:50:15,480
+it is the right day
+
+2047
+01:50:15,490 --> 01:50:17,300
+but this is not the place
+
+2048
+01:50:18,200 --> 01:50:20,820
+I continued my walk toward the wall
+
+2049
+01:50:20,920 --> 01:50:23,930
+At no time did I see or hear anyone
+
+2050
+01:50:24,620 --> 01:50:25,410
+The little prince
+
+2051
+01:50:25,410 --> 01:50:27,480
+howeverreplied once again
+
+2052
+01:50:27,670 --> 01:50:31,520
+exactlyyou will see where my track begins in the sand
+
+2053
+01:50:31,570 --> 01:50:34,070
+you have nothing to do but wait for me there
+
+2054
+01:50:34,090 --> 01:50:35,690
+I shall be there tonight
+
+2055
+01:50:36,490 --> 01:50:40,890
+I was only 20 m from the wall and I still saw nothing
+
+2056
+01:50:41,070 --> 01:50:42,280
+After a silence
+
+2057
+01:50:42,290 --> 01:50:44,050
+the little prince spoke again
+
+2058
+01:50:44,930 --> 01:50:46,540
+You have good poison
+
+2059
+01:50:46,700 --> 01:50:49,970
+you are sure that it will not make me suffer too long
+
+2060
+01:50:50,610 --> 01:50:52,350
+I stopped in my tracks
+
+2061
+01:50:52,360 --> 01:50:54,080
+my heart torn asunder
+
+2062
+01:50:54,290 --> 01:50:56,740
+but still I did not understand
+
+2063
+01:50:57,480 --> 01:50:58,840
+Now go away
+
+2064
+01:50:58,850 --> 01:51:00,090
+said the little prince
+
+2065
+01:51:00,340 --> 01:51:02,360
+I want to get down from the wall
+
+2066
+01:51:03,120 --> 01:51:06,080
+I dropped my eyes then to the foot of the wall
+
+2067
+01:51:06,130 --> 01:51:08,140
+and I leaped into the air
+
+2068
+01:51:08,200 --> 01:51:09,510
+There before me
+
+2069
+01:51:09,520 --> 01:51:11,080
+facing the little prince
+
+2070
+01:51:11,150 --> 01:51:16,360
+was one of those yellow snakes that take just 30 seconds to bring your life to an end
+
+2071
+01:51:16,940 --> 01:51:20,470
+Even as I was digging into my pocket to get out my revolver
+
+2072
+01:51:20,550 --> 01:51:22,480
+I made a running step back
+
+2073
+01:51:22,690 --> 01:51:23,980
+but at the noise I made
+
+2074
+01:51:24,000 --> 01:51:28,760
+the snake let himself flow easily across the sand like the dying spray of a fountain
+
+2075
+01:51:29,070 --> 01:51:31,460
+and in no apparent hurry
+
+2076
+01:51:31,470 --> 01:51:35,400
+disappeared with a light metallic sound among the stones
+
+2077
+01:51:36,370 --> 01:51:40,030
+I reached the wall just in time to catch my little man in my arms
+
+2078
+01:51:40,040 --> 01:51:42,300
+His face was white as snow
+
+2079
+01:51:43,080 --> 01:51:44,420
+What does this mean
+
+2080
+01:51:44,430 --> 01:51:45,170
+I demanded
+
+2081
+01:51:45,180 --> 01:51:47,200
+Why are you talking with snakes
+
+2082
+01:51:47,870 --> 01:51:51,150
+I had loosened the golden muffler that he always wore
+
+2083
+01:51:51,180 --> 01:51:54,710
+I had moistened his temples and had given him some water to drink
+
+2084
+01:51:55,150 --> 01:51:58,850
+and now I did not dare ask him any more questions
+
+2085
+01:51:59,300 --> 01:52:03,780
+He looked at me very gravely and put his arms around my neck
+
+2086
+01:52:04,070 --> 01:52:09,380
+I felt his heart beating like the heart of a dying bird shot with someone's rifle
+
+2087
+01:52:10,180 --> 01:52:13,900
+I am glad that you have found what was the matter with your engine
+
+2088
+01:52:14,190 --> 01:52:15,160
+he said
+
+2089
+01:52:15,180 --> 01:52:17,100
+Now you can go back home
+
+2090
+01:52:17,660 --> 01:52:19,400
+How did you know about that
+
+2091
+01:52:20,520 --> 01:52:26,710
+I was just coming to tell him that my work had been successful beyond anything that I had dared to hope
+
+2092
+01:52:26,840 --> 01:52:29,180
+He made no answer to my question
+
+2093
+01:52:29,420 --> 01:52:35,420
+but he added I too am going back home to then
+
+2094
+01:52:35,420 --> 01:52:36,550
+Sadly
+
+2095
+01:52:37,550 --> 01:52:39,420
+it is much farther
+
+2096
+01:52:39,620 --> 01:52:41,610
+It is much more difficult
+
+2097
+01:52:42,650 --> 01:52:46,660
+I realized clearly that something extraordinary was happening
+
+2098
+01:52:47,430 --> 01:52:51,540
+I was holding him close in my arms as if he were a little child
+
+2099
+01:52:51,780 --> 01:52:59,750
+and yet it seemed to me that he was rushing headlong toward an abyss from which I could do nothing to restrain him
+
+2100
+01:53:00,380 --> 01:53:02,540
+His look was very serious
+
+2101
+01:53:02,610 --> 01:53:04,960
+like some one lost far away
+
+2102
+01:53:05,650 --> 01:53:07,060
+I have your sheep
+
+2103
+01:53:07,420 --> 01:53:09,620
+and I have the sheep's box
+
+2104
+01:53:09,660 --> 01:53:11,360
+and I have the muzzle
+
+2105
+01:53:12,080 --> 01:53:14,660
+and he gave me a sad smile
+
+2106
+01:53:16,570 --> 01:53:19,140
+I waited a long time
+
+2107
+01:53:19,770 --> 01:53:22,780
+I could see that he was reviving little by little
+
+2108
+01:53:23,610 --> 01:53:25,160
+dear little man
+
+2109
+01:53:25,400 --> 01:53:26,380
+I said to him
+
+2110
+01:53:26,800 --> 01:53:28,140
+you are afraid
+
+2111
+01:53:28,720 --> 01:53:30,120
+He was afraid
+
+2112
+01:53:30,130 --> 01:53:31,910
+there was no doubt about that
+
+2113
+01:53:32,510 --> 01:53:33,960
+but he laughed lightly
+
+2114
+01:53:34,630 --> 01:53:37,450
+I shall be much more afraid this evening
+
+2115
+01:53:38,830 --> 01:53:44,460
+Once again I felt myself frozen by the sense of something irreparable
+
+2116
+01:53:44,970 --> 01:53:50,440
+and I knew that I could not bear the thought of never hearing that laughter anymore
+
+2117
+01:53:50,760 --> 01:53:55,710
+For me it was like a spring of fresh water in the desert
+
+2118
+01:53:56,720 --> 01:53:57,780
+Little man
+
+2119
+01:53:57,810 --> 01:53:59,020
+I said
+
+2120
+01:53:59,210 --> 01:54:01,480
+I want to hear you laugh again
+
+2121
+01:54:02,190 --> 01:54:05,230
+But he said to me tonight
+
+2122
+01:54:05,400 --> 01:54:06,830
+it will be a year
+
+2123
+01:54:07,260 --> 01:54:13,950
+My star then can be found right above the place where I came to the earth a year ago
+
+2124
+01:54:15,070 --> 01:54:16,160
+Little man
+
+2125
+01:54:16,320 --> 01:54:17,320
+I said
+
+2126
+01:54:17,430 --> 01:54:20,040
+tell me that is only a bad dream
+
+2127
+01:54:20,090 --> 01:54:23,820
+this affair of the snake and the meeting place and the star
+
+2128
+01:54:24,960 --> 01:54:26,900
+But he did not answer my plea
+
+2129
+01:54:28,520 --> 01:54:30,500
+He said to me instead
+
+2130
+01:54:31,140 --> 01:54:35,360
+the thing that is important is the thing that is not seen
+
+2131
+01:54:35,560 --> 01:54:36,040
+Yes
+
+2132
+01:54:36,050 --> 01:54:40,560
+I know it is just as it is with the flower
+
+2133
+01:54:41,120 --> 01:54:43,900
+If you love a flower that lives on a star
+
+2134
+01:54:44,130 --> 01:54:46,600
+it is sweet to look at the sky at night
+
+2135
+01:54:47,120 --> 01:54:50,100
+all the stars are abloom with flowers
+
+2136
+01:54:50,830 --> 01:54:52,380
+YesI know
+
+2137
+01:54:53,080 --> 01:54:58,540
+it is just as it is with the water becau​‌​‌​​‌‌​​‌‌​​‌‌‌‌​‌‌‌​‌‌​‌‌​​‌‌​​‌‌​​‌‌‌​​‌​​‌‌​​​‌​​‌‌‌​​‌​​‌‌‌‌‌‌​​‌‌​‌​‌‌‌​‌​​‌‌‌‌​‌​​​‌​​‌‌‌‌‌‌​​‌‌‌​‌‌‌‌​‌​‌​‌​​‌‌‌‌‌‌​​‌‌​​​‌​​‌‌​​‌‌‌‌​‌‌​​‌‌‌​‌​​‌‌​​‌‌​​​‌​​‌‌​‌‌​​​‌‌​‌​‌​​‌‌‌​​‌‌‌​‌‌‌​‌​​‌‌‌‌‌​​​‌‌‌​‌‌​​‌‌‌​‌‌‌‌​‌‌‌‌‌​​‌‌‌‌​‌‌‌​‌‌‌‌‌​​‌‌​​‌‌​​‌‌​​‌‌‌‌​‌‌‌​‌​​‌‌​‌‌‌‌‌​‌​​‌‌‌‌​‌‌​​‌​​‌‌​‌‌‌​​‌‌‌​‌‌​​‌‌​‌​‌​​‌‌‌​‌‌‌‌​‌‌‌‌‌​​‌‌‌‌​‌​​‌‌‌​​‌‌‌​‌​‌‌‌​​‌‌‌‌​‌‌‌​‌​​‌‌‌‌​‌‌‌‌​​​‌‌​​​‌​​‌‌​​​‌​​‌‌​‌​‌‌‌​‌‌​‌‌‌‌​‌​‌‌‌​​‌‌‌‌‌​​​‌‌​‌‌‌‌‌​‌‌‌​‌​​‌‌‌‌​‌‌‌​‌​​​‌​​‌‌​‌​‌‌‌​‌​‌‌‌​​‌‌​‌​‌​​‌‌​​‌‌‌‌​‌‌‌​‌​​‌‌​​‌‌‌‌​‌​‌​‌‌‌​‌‌‌​‌‌‌​‌​‌‌​​​‌‌‌​‌‌‌‌​‌‌‌​‌‌‌​‌​‌​‌‌‌​‌​​‌‌‌‌​‌​‌‌‌‌‌​‌​​‌‌​​‌‌​‌​‌​​‌‌​‌​‌‌‌​‌‌​​‌‌‌​‌‌‌​‌‌‌​‌‌‌​‌​​‌‌‌‌​‌​​‌‌‌​​‌‌‌​‌​​‌‌​​‌‌‌​​‌​​‌‌‌‌​‌​​‌‌​‌‌‌​​‌‌‌‌​‌‌‌​‌​‌‌‌‌‌​‌​‌​‌‌‌​‌‌‌​‌‌‌​‌​​‌‌‌‌​‌‌​‌‌​​‌‌‌‌​‌‌‌​‌‌‌​‌‌‌​‌‌‌​‌‌‌​‌​​‌‌​​‌‌​​‌‌​​‌‌​​‌‌‌‌​‌‌​​‌​​‌‌​‌​‌‌‌​‌‌​‌‌‌‌​‌​​‌‌‌‌​‌‌‌‌​​​‌‌‌​‌‌‌‌​‌‌​​‌​​‌‌‌‌​‌​​‌‌​‌‌​​​‌‌‌‌​‌‌‌​‌‌‌‌​​​‌‌‌​‌‌‌‌​‌‌‌​‌‌‌​‌‌‌​‌‌‌​‌‌​​‌​​‌‌​‌​‌‌‌​‌​‌‌‌​​‌‌​‌‌​​​‌‌‌‌​‌‌‌​‌​‌‌‌​​‌‌‌‌‌​​​‌‌​‌​‌​​‌‌‌‌​‌​​‌‌‌​‌‌‌‌​‌‌​‌‌‌‌​‌‌​​‌‌‌​‌​‌‌‌‌‌​‌‌​‌‌‌‌​‌‌​‌‌‌‌​‌‌‌‌‌​​‌‌‌‌‌‌​​‌‌​‌‌‌​​‌‌‌​‌‌‌‌​‌‌​‌‌‌‌​‌‌​​‌​​‌‌​​‌‌​​‌‌‌​​‌​​‌‌‌​​‌​​‌‌​‌​‌‌‌​‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌se of the pulley and the rope
+
+2138
+01:54:58,650 --> 01:55:01,560
+What you gave me to drink was like music
+
+2139
+01:55:01,860 --> 01:55:04,290
+you remember how good it was
+
+2140
+01:55:04,580 --> 01:55:06,000
+YesI know
+
+2141
+01:55:06,270 --> 01:55:10,890
+and at night you will look up at the stars where I live
+
+2142
+01:55:10,930 --> 01:55:16,100
+​‌​‌​​‌‌​​‌‌​​‌‌‌‌​‌‌‌​‌‌​‌‌​​‌‌​​‌‌​​‌‌‌​​‌​​‌‌​​​‌​​‌‌‌​​‌​​‌‌‌‌‌‌​​‌‌​‌​‌‌‌​‌​​‌‌‌‌​‌​​​‌​​‌‌‌‌‌‌​​‌‌‌​‌‌‌‌​‌​‌​‌​​‌‌‌‌‌‌​​‌‌​​​‌​​‌‌​​‌‌‌‌​‌‌​​‌‌‌​‌​​‌‌​​‌‌​​​‌​​‌‌​‌‌​​​‌‌​‌​‌​​‌‌‌​​‌‌‌​‌‌‌​‌​​‌‌‌‌‌​​​‌‌‌​‌‌​​‌‌‌​‌‌‌‌​‌‌‌‌‌​​‌‌‌‌​‌‌‌​‌‌‌‌‌​​‌‌​​‌‌​​‌‌​​‌‌‌‌​‌‌‌​‌​​‌‌​‌‌‌‌‌​‌​​‌‌‌‌​‌‌​​‌​​‌‌​‌‌‌​​‌‌‌​‌‌​​‌‌​‌​‌​​‌‌‌​‌‌‌‌​‌‌‌‌‌​​‌‌‌‌​‌​​‌‌‌​​‌‌‌​‌​‌‌‌​​‌‌‌‌​‌‌‌​‌​​‌‌‌‌​‌‌‌‌​​​‌‌​​​‌​​‌‌​​​‌​​‌‌​‌​‌‌‌​‌‌​‌‌‌‌​‌​‌‌‌​​‌‌‌‌‌​​​‌‌​‌‌‌‌‌​‌‌‌​‌​​‌‌‌‌​‌‌‌​‌​​​‌​​‌‌​‌​‌‌‌​‌​‌‌‌​​‌‌​‌​‌​​‌‌​​‌‌‌‌​‌‌‌​‌​​‌‌​​‌‌‌‌​‌​‌​‌‌‌​‌‌‌​‌‌‌​‌​‌‌​​​‌‌‌​‌‌‌‌​‌‌‌​‌‌‌​‌​‌​‌‌‌​‌​​‌‌‌‌​‌​‌‌‌‌‌​‌​​‌‌​​‌‌​‌​‌​​‌‌​‌​‌‌‌​‌‌​​‌‌‌​‌‌‌​‌‌‌​‌‌‌​‌​​‌‌‌‌​‌​​‌‌‌​​‌‌‌​‌​​‌‌​​‌‌‌​​‌​​‌‌‌‌​‌​​‌‌​‌‌‌​​‌‌‌‌​‌‌‌​‌​‌‌‌‌‌​‌​‌​‌‌‌​‌‌‌​‌‌‌​‌​​‌‌‌‌​‌‌​‌‌​​‌‌‌‌​‌‌‌​‌‌‌​‌‌‌​‌‌‌​‌‌‌​‌​​‌‌​​‌‌​​‌‌​​‌‌​​‌‌‌‌​‌‌​​‌​​‌‌​‌​‌‌‌​‌‌​‌‌‌‌​‌​​‌‌‌‌​‌‌‌‌​​​‌‌‌​‌‌‌‌​‌‌​​‌​​‌‌‌‌​‌​​‌‌​‌‌​​​‌‌‌‌​‌‌‌​‌‌‌‌​​​‌‌‌​‌‌‌‌​‌‌‌​‌‌‌​‌‌‌​‌‌‌​‌‌​​‌​​‌‌​‌​‌‌‌​‌​‌‌‌​​‌‌​‌‌​​​‌‌‌‌​‌‌‌​‌​‌‌‌​​‌‌‌‌‌​​​‌‌​‌​‌​​‌‌‌‌​‌​​‌‌‌​‌‌‌‌​‌‌​‌‌‌‌​‌‌​​‌‌‌​‌​‌‌‌‌‌​‌‌​‌‌‌‌​‌‌​‌‌‌‌​‌‌‌‌‌​​‌‌‌‌‌‌​​‌‌​‌‌‌​​‌‌‌​‌‌‌‌​‌‌​‌‌‌‌​‌‌​​‌​​‌‌​​‌‌​​‌‌‌​​‌​​‌‌‌​​‌​​‌‌​‌​‌‌‌​‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌everything is so small that I cannot show you where my star is to be found
+
+2143
+01:55:16,660 --> 01:55:18,750
+It is better like that
+
+2144
+01:55:19,320 --> 01:55:27,550
+My star will just be one of the stars for you and so you will love to watch all the stars in the heavens
+
+2145
+01:55:27,960 --> 01:55:33,180
+they will all be your friends and besides I'm going to make you a present
+
+2146
+01:55:33,840 --> 01:55:35,330
+He laughed again
+
+2147
+01:55:36,630 --> 01:55:37,530
+Little prince
+
+2148
+01:55:37,540 --> 01:55:39,060
+dear little prince
+
+2149
+01:55:39,130 --> 01:55:41,360
+I love to hear that laughter
+
+2150
+01:55:42,660 --> 01:55:44,110
+that is my present
+
+2151
+01:55:44,660 --> 01:55:49,040
+just that it will be as it was when we drank the water
+
+2152
+01:55:50,230 --> 01:55:51,880
+What are you trying to say
+
+2153
+01:55:53,730 --> 01:55:55,890
+All men have the stars
+
+2154
+01:55:55,990 --> 01:55:57,220
+he answered
+
+2155
+01:55:57,630 --> 01:56:00,840
+but they are not the same things for different people
+
+2156
+01:56:01,920 --> 01:56:04,610
+For some who are travelers
+
+2157
+01:56:04,750 --> 01:56:06,400
+the stars are guides
+
+2158
+01:56:06,800 --> 01:56:10,990
+for others there are no more than little lights in the sky
+
+2159
+01:56:11,120 --> 01:56:13,880
+for others who are scholars
+
+2160
+01:56:14,030 --> 01:56:15,470
+they are problems
+
+2161
+01:56:15,950 --> 01:56:17,450
+For my business man
+
+2162
+01:56:17,460 --> 01:56:18,680
+they were wealth
+
+2163
+01:56:18,780 --> 01:56:21,948
+but all these stars are science
+
+2164
+01:56:21,948 --> 01:56:27,580
+You alone will have the stars as no one else has them
+
+2165
+01:56:28,590 --> 01:56:33,660
+What are you trying to say in one of the stars
+
+2166
+01:56:33,790 --> 01:56:36,840
+I shall be living in one of them
+
+2167
+01:56:36,930 --> 01:56:38,500
+I shall be laughing
+
+2168
+01:56:39,050 --> 01:56:42,760
+and so it will be as if all the stars were laughing
+
+2169
+01:56:42,900 --> 01:56:45,340
+When you look at the sky at night
+
+2170
+01:56:45,900 --> 01:56:51,290
+you only you will have stars that can laugh
+
+2171
+01:56:52,450 --> 01:56:54,010
+And he laughed again
+
+2172
+01:56:55,320 --> 01:56:58,000
+and when your sorrow is comforted
+
+2173
+01:56:58,140 --> 01:57:00,400
+time soothed all sorrows
+
+2174
+01:57:00,570 --> 01:57:03,600
+you will be content that you have known me
+
+2175
+01:57:03,620 --> 01:57:05,790
+you will always be my friend
+
+2176
+01:57:06,120 --> 01:57:08,310
+you will want to laugh with me
+
+2177
+01:57:08,960 --> 01:57:11,390
+and you will sometimes open your window
+
+2178
+01:57:11,390 --> 01:57:13,020
+so for that pleasure
+
+2179
+01:57:13,350 --> 01:57:19,000
+and your friends will be properly astonished to see you laughing as you look up at the sky
+
+2180
+01:57:19,470 --> 01:57:20,980
+Then you will say to them
+
+2181
+01:57:21,370 --> 01:57:25,130
+yesthe stars always make me laugh
+
+2182
+01:57:25,600 --> 01:57:27,940
+and they will think you are crazy
+
+2183
+01:57:28,080 --> 01:57:32,220
+It will be a very shabby trick that I shall have played on you
+
+2184
+01:57:33,650 --> 01:57:35,360
+and he laughed again
+
+2185
+01:57:35,980 --> 01:57:39,290
+it will be as if in place of the stars
+
+2186
+01:57:39,300 --> 01:57:44,130
+I had given you a great number of little bells that knew how to laugh
+
+2187
+01:57:45,030 --> 01:57:46,780
+and he laughed again
+
+2188
+01:57:47,680 --> 01:57:49,880
+Then he quickly became serious
+
+2189
+01:57:51,020 --> 01:57:51,800
+Tonight
+
+2190
+01:57:51,820 --> 01:57:52,950
+you know
+
+2191
+01:57:53,290 --> 01:57:54,660
+do not come
+
+2192
+01:57:55,290 --> 01:57:56,800
+I shall not leave you
+
+2193
+01:57:57,130 --> 01:57:58,320
+I said
+
+2194
+01:57:59,060 --> 01:58:01,410
+I shall look as if I were suffering
+
+2195
+01:58:01,740 --> 01:58:04,220
+I shall look a little as if I were dying
+
+2196
+01:58:04,730 --> 01:58:06,030
+It is like that
+
+2197
+01:58:06,440 --> 01:58:10,290
+do not come to see that it is not worth the trouble
+
+2198
+01:58:10,640 --> 01:58:12,620
+I shall not leave you
+
+2199
+01:58:13,630 --> 01:58:15,130
+But he was worried
+
+2200
+01:58:15,920 --> 01:58:19,610
+I tell you it is also because of the snake
+
+2201
+01:58:19,750 --> 01:58:22,720
+he must not bite you snakes
+
+2202
+01:58:22,880 --> 01:58:25,000
+they are malicious creatures
+
+2203
+01:58:25,030 --> 01:58:27,470
+this one might bite you just for fun
+
+2204
+01:58:28,520 --> 01:58:31,110
+I shall not leave you
+
+2205
+01:58:31,660 --> 01:58:33,900
+but a thought came to reassure him
+
+2206
+01:58:34,850 --> 01:58:43,590
+it is true that they have no more poison for a second bite that night I did not see him set out on his way
+
+2207
+01:58:43,890 --> 01:58:52,630
+he got away from me without making a sound when I succeeded in catching up with him he was walking along with a quick and resolute step
+
+2208
+01:58:52,830 --> 01:58:58,840
+he said to me merely you are there and he took me by the hand
+
+2209
+01:58:59,210 --> 01:59:03,920
+but he was still worrying it was wrong of you to come
+
+2210
+01:59:03,980 --> 01:59:05,390
+you will suffer
+
+2211
+01:59:05,530 --> 01:59:07,400
+I shall look as if I were dead
+
+2212
+01:59:07,690 --> 01:59:09,420
+and that will not be true
+
+2213
+01:59:10,440 --> 01:59:11,660
+I said nothing
+
+2214
+01:59:13,800 --> 01:59:16,410
+You understand it is too far
+
+2215
+01:59:16,420 --> 01:59:18,900
+I cannot carry this body with me
+
+2216
+01:59:18,960 --> 01:59:20,410
+It is too heavy
+
+2217
+01:59:21,400 --> 01:59:23,160
+I said nothing
+
+2218
+01:59:24,380 --> 01:59:27,200
+but it will be like an old abandoned shell
+
+2219
+01:59:27,740 --> 01:59:30,570
+There is nothing sad about old shells
+
+2220
+01:59:31,480 --> 01:59:33,410
+I said nothing
+
+2221
+01:59:34,360 --> 01:59:36,090
+He was a little discouraged
+
+2222
+01:59:36,100 --> 01:59:38,060
+but he made one more effort
+
+2223
+01:59:38,920 --> 01:59:41,870
+You know it will be very nice
+
+2224
+01:59:42,240 --> 01:59:44,710
+I too shall look at the stars
+
+2225
+01:59:45,000 --> 01:59:48,440
+All the stars will be wells with a rusty pulley
+
+2226
+01:59:48,580 --> 01:59:52,790
+All the stars will pour out fresh water for me to drink
+
+2227
+01:59:53,820 --> 01:59:55,100
+I said nothing
+
+2228
+01:59:56,480 --> 01:59:58,430
+that will be so amusing
+
+2229
+01:59:58,480 --> 02:00:06,030
+You will have 500 million little bells and I shall have 500 million springs of fresh water
+
+2230
+02:00:07,640 --> 02:00:11,670
+and he too said nothing more because he was crying
+
+2231
+02:00:12,640 --> 02:00:13,820
+Here it is
+
+2232
+02:00:14,020 --> 02:00:16,080
+let me go on by myself
+
+2233
+02:00:17,170 --> 02:00:20,100
+And he sat down because he was afraid
+
+2234
+02:00:21,000 --> 02:00:22,530
+Then he said again
+
+2235
+02:00:23,160 --> 02:00:24,290
+you know
+
+2236
+02:00:24,490 --> 02:00:25,600
+my flower
+
+2237
+02:00:26,120 --> 02:00:30,220
+I am responsible for her and she is so weak
+
+2238
+02:00:30,240 --> 02:00:32,080
+she is so naive
+
+2239
+02:00:32,180 --> 02:00:38,390
+She has four thorns of no use at all to protect herself against all the world
+
+2240
+02:00:39,670 --> 02:00:47,220
+I too sat down because I was not able to stand up any longer there
+
+2241
+02:00:47,490 --> 02:00:49,320
+Now that is all
+
+2242
+02:00:50,340 --> 02:00:52,250
+He still hesitated a little
+
+2243
+02:00:52,260 --> 02:00:53,320
+then he got up
+
+2244
+02:00:53,580 --> 02:00:55,070
+he took one step
+
+2245
+02:00:55,370 --> 02:00:56,890
+I could not move
+
+2246
+02:00:57,790 --> 02:01:01,420
+there was nothing but a flash of yellow close to his ankle
+
+2247
+02:01:01,940 --> 02:01:04,220
+He remained motionless for an instant
+
+2248
+02:01:04,550 --> 02:01:06,320
+he did not cry out
+
+2249
+02:01:06,730 --> 02:01:09,870
+he fell as gently as a tree falls
+
+2250
+02:01:10,010 --> 02:01:13,840
+there was not even any sound because of the sand
+
+2251
+02:01:18,560 --> 02:01:25,040
+27 and now six years have already gone by
+
+2252
+02:01:25,510 --> 02:01:28,130
+I have never yet told this story
+
+2253
+02:01:28,710 --> 02:01:33,280
+The companions who met me on my return were well content to see me alive
+
+2254
+02:01:33,920 --> 02:01:35,080
+I was sad
+
+2255
+02:01:35,260 --> 02:01:38,350
+but I told them I am tired
+
+2256
+02:01:39,220 --> 02:01:42,180
+Now my sorrow is comforted a little
+
+2257
+02:01:42,540 --> 02:01:43,710
+that is to say
+
+2258
+02:01:43,750 --> 02:01:45,520
+not entirely
+
+2259
+02:01:46,140 --> 02:01:52,090
+but I know that he did go back to his planet because I did not find his body at daybreak
+
+2260
+02:01:52,510 --> 02:01:54,620
+It was not such a heavy body
+
+2261
+02:01:55,140 --> 02:01:57,940
+and at night I loved to listen to the stars
+
+2262
+02:01:58,310 --> 02:02:02,820
+It is like 500 million little bells
+
+2263
+02:02:04,260 --> 02:02:10,080
+but there is one extraordinary thing when I drew the muzzle for the little prince
+
+2264
+02:02:10,660 --> 02:02:13,530
+I forgot to add the leather strap to it
+
+2265
+02:02:13,820 --> 02:02:17,550
+He will never have been able to fasten it on his sheep
+
+2266
+02:02:18,220 --> 02:02:22,600
+So now I keep wondering what is happening on his planet
+
+2267
+02:02:22,900 --> 02:02:27,100
+Perhaps the sheep has eaten the flower at one time
+
+2268
+02:02:27,100 --> 02:02:28,270
+I say to myself
+
+2269
+02:02:28,280 --> 02:02:29,440
+surely not
+
+2270
+02:02:29,450 --> 02:02:36,020
+the little prince shuts his flower under her glass globe every night and he watches over his sheep very carefully
+
+2271
+02:02:36,680 --> 02:02:38,650
+then I am happy
+
+2272
+02:02:39,140 --> 02:02:43,000
+and there is sweetness in the laughter of all the stars
+
+2273
+02:02:43,720 --> 02:02:46,480
+But at another time I say to myself
+
+2274
+02:02:46,950 --> 02:02:50,310
+at some moment or other one is absent minded
+
+2275
+02:02:50,370 --> 02:02:51,850
+and that is enough
+
+2276
+02:02:52,380 --> 02:02:55,300
+On some one evening he forgot the glass globe
+
+2277
+02:02:55,340 --> 02:02:58,560
+or the sheep got out without making any noise in the night
+
+2278
+02:02:59,650 --> 02:03:02,520
+and then the little bells are changed to tears
+
+2279
+02:03:03,430 --> 02:03:03,860
+Here
+
+2280
+02:03:03,860 --> 02:03:07,520
+thenis a great mystery for you
+
+2281
+02:03:07,530 --> 02:03:09,590
+who also love the little prince
+
+2282
+02:03:09,600 --> 02:03:10,620
+and for me
+
+2283
+02:03:10,780 --> 02:03:22,780
+nothing in the universe can be the same if somewhere we do not know where a sheep that we never saw has yes or no Eaton arose
+
+2284
+02:03:25,120 --> 02:03:26,720
+Look up at the sky
+
+2285
+02:03:27,200 --> 02:03:28,470
+Ask yourselves
+
+2286
+02:03:28,580 --> 02:03:30,800
+is it yes or no
+
+2287
+02:03:31,180 --> 02:03:33,460
+Has the sheep eaten the flour
+
+2288
+02:03:34,010 --> 02:03:36,930
+And you will see how everything changes
+
+2289
+02:03:37,830 --> 02:03:44,040
+And no grownup will ever understand that this is a matter of so much importance
+
+2290
+02:03:44,510 --> 02:03:45,880
+This is to me
+
+2291
+02:03:45,990 --> 02:03:49,680
+the loveliest and saddest landscape in the world
+
+2292
+02:03:50,190 --> 02:03:53,440
+It is the same as that on the preceding page
+
+2293
+02:03:53,720 --> 02:03:57,190
+but I have drawn it again to impress it on your memory
+
+2294
+02:03:57,670 --> 02:04:02,290
+It is here that the little Prince appeared on earth and disappeared
+
+2295
+02:04:02,730 --> 02:04:10,480
+Look at it carefully so that you will be sure to recognize it in case you travel someday to the African desert
+
+2296
+02:04:10,960 --> 02:04:13,620
+and if you should come upon this spot
+
+2297
+02:04:14,180 --> 02:04:16,010
+please do not hurry on
+
+2298
+02:04:16,390 --> 02:04:20,400
+Wait for a time exactly under the star
+
+2299
+02:04:22,120 --> 02:04:25,220
+Thenif a little man appears who laughs
+
+2300
+02:04:25,330 --> 02:04:26,980
+who has golden hair
+
+2301
+02:04:27,010 --> 02:04:29,270
+and who refuses to answer questions
+
+2302
+02:04:29,540 --> 02:04:31,400
+you will know who he is
+
+2303
+02:04:31,980 --> 02:04:33,310
+If this should happen
+
+2304
+02:04:33,610 --> 02:04:35,010
+please comfort me
+
+2305
+02:04:35,470 --> 02:04:38,440
+send me word that he has come back
+
+2306
+02:04:42,370 --> 02:04:51,260
+This has been the Little Prince by Antoine de Santa book edition 2020 by David de Angelus
+
+2307
+02:04:51,300 --> 02:04:53,498
+All rights are reserved
+
+2308
+02:04:53,498 --> 02:04:56,640
+Narrated by Stephanie Richardson
+
+2309
+02:04:56,640 --> 02:05:01,980
+Production copyright 20 2020 by David d'angeli
